@@ -1,0 +1,48 @@
+---
+title: "DSA261 — Algorithmic Learning and AI"
+subtitle: "Search. Question. Use AI. Verify. Decide."
+---
+
+::: {.hero-panel}
+## Welcome to DSA261
+
+**Central question:** In an algorithmically mediated world, how do we know what to trust, what to question, and how to use AI to expand our abilities without surrendering judgment?
+
+**TRACE** is the recurring learning protocol of the course:
+
+> **Predict → Encounter → Probe → Explain → Decide → Verify**
+:::
+
+## This is a lab-based course
+
+Although DSA261 is formally a three-hour theoretical course, teaching takes place in the computer laboratory. You will search, compare, prompt, interrogate, verify, document evidence, and make decisions every week.
+
+The goal is not passive familiarity with AI terminology. The goal is **observable capability**.
+
+## Week 1 is live
+
+::: {.action-grid}
+::: {.action-card}
+### Week 1 — How Do You Know?
+Information seeking, source tracing, verification, and epistemic agency.
+
+[Open Week 1 TRACE Lab](weeks/week01.qmd){.btn .btn-primary}
+:::
+
+::: {.action-card}
+### Course Guide
+Learn how TRACE, quizzes, weekly Tasks, and evidence work.
+
+[Read the Course Guide](course-guide.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+## The semester story
+
+1. **How do you know?**
+2. **Who shapes what you see?**
+3. **What does AI actually do?**
+4. **Can AI make you better?**
+5. **How can it fail?**
+6. **How do you control and verify it?**
+7. **Who remains responsible?**

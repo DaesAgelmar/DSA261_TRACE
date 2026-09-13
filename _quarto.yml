@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DSA261 — Algorithmic Learning and AI"
+  description: "A TRACE course on information, algorithms, AI, verification, and responsible judgment."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: course-guide.qmd
+        text: Course Guide
+      - href: learning-path.qmd
+        text: Learning Path
+      - href: weeks/week01.qmd
+        text: Weekly Labs
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: ai-policy.qmd
+        text: AI Use Policy
+      - href: resources.qmd
+        text: Resources
+  page-footer:
+    left: "DSA261 · TRACE course"
+    right: "Predict · Encounter · Probe · Explain · Decide · Verify"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
+
+lang: en

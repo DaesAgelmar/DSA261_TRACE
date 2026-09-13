@@ -1,0 +1,18 @@
+---
+title: "Resources"
+---
+
+## Week 1 — Information and verification
+
+- [Teyit — Methodology]({{< var urls.teyit_methodology >}})
+- [TED / Damon Brown — How to choose your news]({{< var urls.ted_choose_news >}})
+
+## Next on DSA261 — Week 2
+
+- [TED / Eli Pariser — Beware online filter bubbles]({{< var urls.ted_filter_bubbles >}})
+- [ICO — Cambridge Analytica raids]({{< var urls.ico_cambridge_analytica >}})
+- [Oxford Internet Institute — Computational Propaganda]({{< var urls.oii_computational_propaganda >}})
+
+## Course principle
+
+These resources are starting points. In TRACE activities, you will often be required to move beyond the assigned page and inspect original or independent evidence.

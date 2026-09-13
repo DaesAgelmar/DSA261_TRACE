@@ -1,0 +1,368 @@
+---
+title: "Week 1 — How Do You Know?"
+subtitle: "Information seeking, source tracing, verification, and epistemic agency"
+week: 1
+phase: "How do you know?"
+trace_focus:
+  - Predict
+  - Encounter
+  - Probe
+  - Explain
+  - Decide
+  - Verify
+clo:
+  - "CLO1"
+evidence:
+  - SEEK
+  - TRACE
+  - VERIFY
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**How do you know that something you see online is true?**
+
+This week is not simply about “finding the correct news story.” The deeper goal is to make visible **why we trust a claim, what evidence changes our judgment, and how we trace information back to inspectable evidence**.
+:::
+
+## TRACE this week
+
+> **Predict → Encounter → Probe → Explain → Decide → Verify**
+
+TRACE is not an answer formula. It is a working protocol for keeping **epistemic control with you** when you encounter a claim, search result, algorithmic decision, or LLM output.
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. explain the difference between a **claim**, a **source**, and **evidence**;
+2. distinguish the page where information first reaches you from the **original source** of that information;
+3. design different **search queries** for the same information need;
+4. evaluate a source by going beyond the page itself rather than relying only on its appearance;
+5. test a claim against at least one independent source;
+6. explain why your confidence changed—or did not change—after verification.
+
+## Before class
+
+This section **must be completed before class**.
+
+### 1. Watch — How to choose your news
+
+Damon Brown, TED-Ed — approximately 4.5 minutes.
+
+[Watch: How to choose your news]({{< var urls.ted_choose_news >}}){.btn .btn-outline-primary}
+
+While watching, keep one question in mind:
+
+> **What does the fact that a news item reached you actually tell you about whether it is true?**
+
+### 2. Read — Teyit methodology
+
+Read the current Teyit methodology page, focusing especially on:
+
+- how claims are scanned and identified;
+- how claims are selected and prioritised;
+- how evidence and sources are made traceable.
+
+[Read: Teyit — Methodology]({{< var urls.teyit_methodology >}}){.btn .btn-outline-primary}
+
+While reading, look for this distinction:
+
+> **“This claim sounds believable to me” is not the same as “this claim can be tested against publicly inspectable evidence.”**
+
+### 3. Complete the pre-class quiz
+
+The quiz is a **5–7 minute preparation and diagnostic check**. Its purpose is not to reward memorisation. It makes visible the assumptions and verification habits you bring into the lab.
+
+[Start Week 1 Pre-Class Quiz]({{< var forms.week01.quiz >}}){.btn .btn-primary}
+
+::: {.callout-note}
+## Bring one example
+
+Think of one claim you encountered during the last seven days on social media, a news site, a messaging group, a video platform, or another digital environment that made you think:
+
+> **“Is this actually true?”**
+
+Bring the URL or a screenshot if you can find it.
+:::
+
+---
+
+# TRACE Lab
+
+## Session 1 — From impression to investigation
+
+### 1. Today's Case — The claim arrives first
+
+At the beginning of class, you will be shown a claim taken from a real digital environment.
+
+**Do not search yet.**
+
+First, record the following individually:
+
+- Probability that the claim is correct: **0–100**
+- Initial judgment: **Trust / Doubt / Unsure**
+- The **single strongest signal** behind that judgment
+
+::: {.callout-warning}
+## TRACE rule
+
+Record your prediction **before** seeing the evidence. Saying “I already thought that” after the result is known is not evidence of learning.
+:::
+
+### 2. Predict
+
+Complete this sentence in one minute:
+
+> “At this point, I am ___% confident in this claim because ...”
+
+Then compare only your **reasoning** with the person next to you. Do not yet argue about who is correct.
+
+### 3. Encounter
+
+Now inspect the page, post, or artifact containing the claim in full.
+
+Record:
+
+- Who is making the claim?
+- Where was it published?
+- Is there a date?
+- Is a source cited?
+- If there is a link, does it lead to the original source or merely to another report?
+- Is the claim specific enough to be tested?
+
+### 4. Probe I — Search differently
+
+Investigate the same claim using **at least three meaningfully different search strategies**.
+
+**Query A — Exact phrase**  
+Search a distinctive part of the claim in quotation marks.
+
+**Query B — Source-oriented**  
+Search for the institution, researcher, report, dataset, or document supposedly behind the claim.
+
+**Query C — Evidence-oriented**  
+Search for the **data, report, study, primary document, or official record** that could actually test the claim—not merely another page repeating it.
+
+Do not stop at the first search result.
+
+### 5. Skill Studio — Source tracing
+
+Try to reconstruct this chain:
+
+> **Claim → Publisher → Cited source → Original source → Independent evidence**
+
+If a link in the chain cannot be found, record that as a result. “I could not find it” can be an important finding when the missing link should exist.
+
+### 6. Probe II — Leave the page
+
+Do not evaluate an unfamiliar source only through its own self-description.
+
+Open new tabs and investigate:
+
+- What do independent sources say about the publisher or author?
+- How is the same claim reported elsewhere?
+- Is there an earlier or more original version?
+- Are apparently different reports actually independent, or are they all repeating the same source?
+
+### 7. Explain — What changed?
+
+Short class discussion:
+
+- What signal influenced your initial trust judgment most strongly?
+- Which query produced the most useful result?
+- Did many repeated reports actually represent many independent pieces of evidence?
+- Did the claim change when you reached the primary or original source?
+
+---
+
+## Short break
+
+---
+
+## Session 2 — From investigation to defensible judgment
+
+### 8. Pair Challenge — Trace before you trust
+
+Work in pairs on a second claim.
+
+Each pair must produce four outputs:
+
+1. **One-sentence claim** — What exactly is being claimed?
+2. **Best query** — Which search query was most productive?
+3. **Strongest evidence** — What is the strongest evidence you found?
+4. **Rejected result** — Give one result you deliberately did not use and explain why.
+
+When groups compare results, compare not only the verdicts but also the **search paths** that produced them.
+
+### 9. Decide — Make a defensible judgment
+
+Classify the claim using one of the following categories:
+
+- **Supported** — Available evidence supports the claim.
+- **Contradicted** — Credible evidence conflicts with the claim.
+- **Unsupported** — There is not enough evidence to support the claim.
+- **Missing context** — Part of the claim may be correct, but missing context materially changes its meaning.
+- **Unresolved** — The available public evidence does not support a reliable conclusion.
+
+Defend your judgment in **two sentences**.
+
+### 10. Verify — Independent evidence
+
+Before closing the case, ask:
+
+> **What evidence independent of the original claimant supports my final judgment?**
+
+If you cannot find independent evidence, recalibrate your confidence accordingly.
+
+### 11. Recalibrate
+
+Return to your initial confidence score.
+
+- Initial confidence: ___ / 100
+- Final confidence: ___ / 100
+- Change: ___
+
+The key question is not simply “Was my first guess correct?”
+
+> **Did my judgment change as much as the evidence warranted?**
+
+---
+
+# After class
+
+## Task 01 — Source Trace
+
+This is your individual TRACE evidence task for Week 1.
+
+Choose one testable digital claim that you **personally encountered during the last seven days**. Your job is not merely to label the claim “true” or “false.” You must show, in a reconstructable way, **how you moved from first impression to a defensible judgment**.
+
+### Minimum evidence
+
+Your submission must include:
+
+1. the original claim and URL or screenshot;
+2. a one-sentence statement of the claim in your own words;
+3. your **0–100 initial confidence** before research;
+4. **three meaningfully different search queries**;
+5. the earliest/original source you could identify, or an explanation of why it could not be identified;
+6. at least one independent verification source;
+7. at least one search result you rejected and why;
+8. a **Supported / Contradicted / Unsupported / Missing context / Unresolved** verdict;
+9. your **0–100 final confidence**;
+10. the most important evidence that changed or strengthened your judgment;
+11. a brief AI-use disclosure, if applicable.
+
+::: {.callout-important}
+## AI rule for Task 01
+
+You may use AI, for example to brainstorm alternative search queries or to help plan your investigation.
+
+However, **LLM output is not evidence**. Your final verdict must rest on inspectable external evidence. If you use AI, disclose what you used it for and what parts of verification and judgment you performed yourself.
+:::
+
+[Submit Task 01 — Source Trace]({{< var forms.week01.task >}}){.btn .btn-primary}
+
+### Completion standard
+
+**Complete** — A reconstructable search trail, independent evidence, and a defensible verdict are present.  
+**Revise** — A conclusion is present, but the evidence trail is incomplete or the supposed verification is not independent.  
+**Missing** — The submission contains only opinion/LLM output or does not show a verifiable process.
+
+## Concepts to keep
+
+- claim
+- source
+- evidence
+- provenance
+- primary source
+- independent evidence
+- query formulation
+- source tracing
+- lateral reading
+- triangulation
+- confidence calibration
+- verification
+
+## Portfolio evidence this week
+
+- `SEEK` — Information seeking and query reformulation
+- `TRACE` — Reconstructable investigation trail
+- `VERIFY` — Independent verification and confidence calibration
+
+---
+
+# Next on DSA261 — Week 2
+
+## Who decides what you see?
+
+Next week we move from **whether a claim is trustworthy** to a different problem:
+
+> **While you think you are choosing information, what might algorithms be making visible—or invisible—for you?**
+
+Week 2 focuses on search ranking, social-media feeds, recommendation systems, microtargeting, and computational propaganda.
+
+The following preparation is **required for the Week 2 Pre-Class Quiz**.
+
+### REQUIRED WATCH — Filter bubbles
+
+**Eli Pariser — “Beware online filter bubbles”**  
+TED — approximately 8:47.
+
+[Watch the talk]({{< var urls.ted_filter_bubbles >}}){.btn .btn-outline-primary}
+
+While watching, take notes on:
+
+1. When can filtering be useful?
+2. When can the same mechanism become a problem?
+3. Where would you draw the boundary between **personalisation** and **manipulation**?
+
+### REQUIRED READ — Cambridge Analytica as a data and targeting case
+
+**UK Information Commissioner's Office — Cambridge Analytica raids**
+
+[Read the ICO overview]({{< var urls.ico_cambridge_analytica >}}){.btn .btn-outline-primary}
+
+As you read, reconstruct this chain:
+
+> **Data collection → profiling → targeting → claimed influence**
+
+Do not assume that evidence of **targeting capability** automatically proves a large **behavioural effect**. We will examine that distinction in class.
+
+### REQUIRED EXPLORE — Computational propaganda
+
+**Oxford Internet Institute — Computational Propaganda**
+
+[Explore the project]({{< var urls.oii_computational_propaganda >}}){.btn .btn-outline-primary}
+
+Be ready to explain, in your own words:
+
+- what computational propaganda is;
+- how automation, algorithms, and social platforms can work together;
+- why organised influence activity is not the same as proof that every exposed user was persuaded.
+
+### CULTURAL LENS — Black Mirror: *Nosedive*
+
+If you have legitimate access to *Black Mirror*, watching **“Nosedive”** before Week 2 is recommended but **not required for the quiz**.
+
+We will use its thought experiment in class:
+
+> **What happens when scoring, visibility, social incentives, and behaviour become tightly coupled through a platform?**
+
+### Bring to Week 2
+
+Choose one digital service you use regularly:
+
+- search engine;
+- social-media feed;
+- video platform;
+- music platform;
+- shopping platform;
+- news application.
+
+Come prepared to answer:
+
+> **What does this system probably know about you, and what does it decide to show you?**
+
+[Open Week 2 Pre-Class Quiz]({{< var forms.week02.quiz >}}){.btn .btn-primary}

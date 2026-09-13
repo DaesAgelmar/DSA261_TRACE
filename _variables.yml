@@ -1,0 +1,13 @@
+forms:
+  week01:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSd_ghgKuqbOPXc63i8ZScNczl6nByxO1Eiwkc83gALH7rbk-A/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSfu0YQrs2WRh87Zmi6ktEPnX_UVnS-7HAPVOrTbGE_zjgccag/viewform"
+  week02:
+    quiz: "https://docs.google.com/forms/d/e/REPLACE_WITH_W02_QUIZ/viewform"
+
+urls:
+  teyit_methodology: "https://teyit.org/metodoloji"
+  ted_choose_news: "https://www.ted.com/talks/damon_brown_how_to_choose_your_news"
+  ted_filter_bubbles: "https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles"
+  ico_cambridge_analytica: "https://ico.org.uk/for-the-public/ico-40/cambridge-analytica-raids/"
+  oii_computational_propaganda: "https://www.oii.ox.ac.uk/research/projects/computational-propaganda/"

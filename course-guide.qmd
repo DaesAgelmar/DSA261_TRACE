@@ -1,0 +1,52 @@
+---
+title: "Course Guide"
+---
+
+## TRACE
+
+TRACE is the shared learning message of the course, not a topic or a software tool.
+
+> **Predict → Encounter → Probe → Explain → Decide → Verify**
+
+You will use the same cycle on different objects: a news claim, search result, recommendation, algorithmic decision, LLM response, prompt, citation, policy, or professional case.
+
+## Weekly rhythm
+
+Every ordinary teaching week contains four persistent components:
+
+| Component | Purpose |
+|---|---|
+| **Pre-Class Quiz** | Make preparation visible and activate prior knowledge |
+| **TRACE Lab** | Experience, investigate, manipulate, explain, and verify a real case |
+| **After-Class Task** | Produce individual evidence of transfer |
+| **Next on DSA261** | Establish the shared reading/viewing culture for the next week |
+
+## Official class schedule
+
+DSA261 is scheduled on **Friday in G1-01** as three 40-minute class periods:
+
+| Time | Phase | Typical activity |
+|---|---|---|
+| **11:00–11:40** | Session 1 | cold case, prediction, encounter, focused concept, guided investigation |
+| **11:40–11:50** | Short break | — |
+| **11:50–12:30** | Session 2 | probing, information seeking, guided technical practice |
+| **12:30–13:30** | Lunch break | — |
+| **13:30–14:10** | Session 3 | pair challenge, decision, verification, evidence capture, next-week briefing |
+
+Although the course is formally listed as theoretical, teaching takes place in the computer laboratory. The design therefore treats each class period as an active TRACE session rather than as a continuous lecture.
+
+Students should normally perform an observable action at least every 10–15 minutes.
+
+## Weekly Tasks
+
+Weekly Tasks are not essays. They are evidence records showing how you searched, prompted, probed, verified, and decided.
+
+AI use is permitted unless a specific task says otherwise. However:
+
+> **AI output is not verification evidence.**
+
+## Assessment direction
+
+- **Week 7:** TRACE Midterm Challenge synthesising W1–W6 evidence and skills.
+- **Weeks 12–13:** Final Project Gate 1 and Gate 2; the project scope and evidence protocol are progressively fixed.
+- **Week 14:** course review, transfer challenge, and final readiness audit.

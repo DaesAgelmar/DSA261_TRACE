@@ -1,0 +1,49 @@
+---
+title: "Learning Path"
+---
+
+## From information exposure to epistemic agency
+
+DSA261 is organised as a progression rather than a list of disconnected AI topics.
+
+### Phase I — Know, Search, Question
+
+**Weeks 1–3**
+
+- source evaluation and information seeking;
+- ranking, recommendation, filter bubbles, and computational propaganda;
+- what is and is not AI.
+
+### Phase II — Understand and Stress-Test AI
+
+**Weeks 4–6**
+
+- how LLMs work conceptually;
+- capability boundaries and skill boosting;
+- algorithmic decision-making, bias, and fairness.
+
+### Week 7 — TRACE Midterm Challenge
+
+No conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.
+
+### Phase III — Use, Control, Verify
+
+**Weeks 8–11**
+
+- prompt design;
+- context management;
+- hallucination and verification;
+- academic integrity and AI-use judgment.
+
+### Phase IV — Govern and Transfer
+
+**Weeks 12–14**
+
+- context-specific AI guidelines;
+- professional accountability;
+- final project design freeze;
+- TRACE review and transfer.
+
+## Skills you are building
+
+`SEEK` · `PROMPT` · `PROBE` · `CONTEXT` · `VERIFY` · `JUDGE` · `TRANSFER`

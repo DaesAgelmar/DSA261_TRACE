@@ -1,0 +1,30 @@
+---
+title: "AI Use Policy"
+---
+
+## Default rule
+
+AI use is generally permitted and often required in DSA261 because learning how to use AI well is part of the course.
+
+Permission to use AI does **not** transfer responsibility to AI.
+
+## What you must be able to show
+
+For assessed TRACE work, you may be asked to document:
+
+- the prompt or query you used;
+- how the prompt/query changed;
+- what the AI contributed;
+- what you rejected or corrected;
+- what external evidence you used;
+- what decision remained yours.
+
+## Verification rule
+
+> **An LLM answer, citation, summary, or confidence statement is not independent verification evidence.**
+
+Verification must leave the model and reach an appropriate external source, dataset, document, or other independently inspectable evidence.
+
+## Disclosure
+
+When a Task asks for AI-use disclosure, report the actual use. Productive, transparent AI use is not penalised. Unverifiable or falsely represented process evidence may be.

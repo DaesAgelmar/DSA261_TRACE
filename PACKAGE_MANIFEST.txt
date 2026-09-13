@@ -1,0 +1,17 @@
+.gitignore
+PACKAGE_MANIFEST.txt
+README.md
+_quarto.yml
+_variables.yml
+ai-policy.qmd
+assets/styles.css
+course-guide.qmd
+google_forms/W01_Form_Setup_Checklist.md
+google_forms/W01_Quiz_Schema.md
+google_forms/W01_Task_Schema.md
+index.qmd
+learning-path.qmd
+portfolio.qmd
+resources.qmd
+scripts/create_w01_google_forms.gs
+weeks/week01.qmd

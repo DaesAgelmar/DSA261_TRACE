@@ -1,0 +1,31 @@
+---
+title: "TRACE Portfolio"
+---
+
+## Evidence, not volume
+
+Your portfolio records evidence that your judgment is becoming more precise and independent.
+
+A strong portfolio does not necessarily contain more text. It shows:
+
+> **better searching → better probing → stronger evidence → more precise explanation → better judgment → independent verification**
+
+## Core evidence codes
+
+| Code | Observable capacity |
+|---|---|
+| `SEEK` | formulate and reformulate searches; trace provenance |
+| `PROMPT` | specify task, context, constraints, evidence, and output |
+| `PROBE` | isolate assumptions, sensitivities, and failure points |
+| `CONTEXT` | manage conversation state and context drift |
+| `VERIFY` | test claims against independent evidence |
+| `JUDGE` | make a defensible use/reject/modify/disclose decision |
+| `TRANSFER` | apply the method to a new problem or discipline |
+
+## Week 1 evidence
+
+- `SEEK`
+- `TRACE`
+- `VERIFY`
+
+The Week 1 artifact is **Task 01 — Source Trace**.
