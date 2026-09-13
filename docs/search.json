@@ -522,35 +522,49 @@
     "href": "index.html",
     "title": "DSA261 — Algorithmic Learning and AI",
     "section": "",
-    "text": "Central question: In an algorithmically mediated world, how do we know what to trust, what to question, and how to use AI to expand our abilities without surrendering judgment?\nTRACE is the recurring learning protocol of the course:\n\nPredict → Encounter → Probe → Explain → Decide → Verify"
+    "text": "Central question: In an algorithmically mediated world, how do we know what to trust, what to question, and how to use AI to expand our abilities without surrendering judgment?\nTRACE is the recurring learning protocol of the course:\n\nPredict → Encounter → Probe → Explain → Decide → Verify\n\nThe course is designed around one larger goal:\n\ndeveloping epistemic agency under algorithmic mediation"
   },
   {
     "objectID": "index.html#welcome-to-dsa261",
     "href": "index.html#welcome-to-dsa261",
     "title": "DSA261 — Algorithmic Learning and AI",
     "section": "",
-    "text": "Central question: In an algorithmically mediated world, how do we know what to trust, what to question, and how to use AI to expand our abilities without surrendering judgment?\nTRACE is the recurring learning protocol of the course:\n\nPredict → Encounter → Probe → Explain → Decide → Verify"
+    "text": "Central question: In an algorithmically mediated world, how do we know what to trust, what to question, and how to use AI to expand our abilities without surrendering judgment?\nTRACE is the recurring learning protocol of the course:\n\nPredict → Encounter → Probe → Explain → Decide → Verify\n\nThe course is designed around one larger goal:\n\ndeveloping epistemic agency under algorithmic mediation"
   },
   {
     "objectID": "index.html#this-is-a-lab-based-course",
     "href": "index.html#this-is-a-lab-based-course",
     "title": "DSA261 — Algorithmic Learning and AI",
     "section": "This is a lab-based course",
-    "text": "This is a lab-based course\nAlthough DSA261 is formally a three-hour theoretical course, teaching takes place in the computer laboratory. You will search, compare, prompt, interrogate, verify, document evidence, and make decisions every week.\nThe goal is not passive familiarity with AI terminology. The goal is observable capability."
+    "text": "This is a lab-based course\nAlthough DSA261 is formally a three-hour theoretical course, teaching takes place in the computer laboratory.\nYou will:\n\nsearch and trace information;\ncompare algorithmic environments;\ninspect AI claims;\nprompt and probe language models;\ntest context and failure modes;\nverify claims against external evidence;\nevaluate algorithmic decisions;\ndocument AI-assisted work;\nmake and defend human judgments.\n\nThe goal is not passive familiarity with AI terminology.\nThe goal is observable capability."
   },
   {
-    "objectID": "index.html#week-1-is-live",
-    "href": "index.html#week-1-is-live",
+    "objectID": "index.html#start-here",
+    "href": "index.html#start-here",
     "title": "DSA261 — Algorithmic Learning and AI",
-    "section": "Week 1 is live",
-    "text": "Week 1 is live\n\n\nWeek 1 — How Do You Know?\nInformation seeking, source tracing, verification, and epistemic agency.\nOpen Week 1 TRACE Lab\n\n\nCourse Guide\nLearn how TRACE, quizzes, weekly Tasks, and evidence work.\nRead the Course Guide"
+    "section": "Start here",
+    "text": "Start here\n\n\nWeekly TRACE Labs\nAccess all fourteen weekly labs, quizzes, Tasks, and preparation materials.\nOpen Weekly Labs\n\n\nLearning Path\nSee how the course develops from information literacy to AI governance and transfer.\nView the Learning Path\n\n\nCourse Guide\nLearn how TRACE, pre-class quizzes, weekly Tasks, evidence, and assessment work.\nRead the Course Guide\n\n\nAI Use Policy\nUnderstand what AI use is permitted, what must be disclosed, and what still requires independent verification.\nRead the AI Use Policy"
   },
   {
     "objectID": "index.html#the-semester-story",
     "href": "index.html#the-semester-story",
     "title": "DSA261 — Algorithmic Learning and AI",
     "section": "The semester story",
-    "text": "The semester story\n\nHow do you know?\nWho shapes what you see?\nWhat does AI actually do?\nCan AI make you better?\nHow can it fail?\nHow do you control and verify it?\nWho remains responsible?"
+    "text": "The semester story\nThe course develops through four connected phases.\n\nPhase I — Know, Search, Question\nWeeks 1–3\nHow do you know whether information is trustworthy?\nWho shapes what you see?\nWhat does an AI claim actually mean?\nYou will work with:\n\nsource tracing;\nranking and recommendation;\ncomputational propaganda;\ntargeting and exposure;\nAI claim auditing.\n\n\n\n\nPhase II — Understand and Stress-Test AI\nWeeks 4–6\nWhat does an LLM actually do?\nWhat can current AI systems genuinely accomplish?\nWhat happens when algorithms make decisions about people?\nYou will work with:\n\nlanguage-model mechanics;\ncontext and generation;\ncapability boundaries;\nskill boosting;\nverification cost;\nbias and fairness;\ncounterfactual probing.\n\n\n\n\nWeek 7 — TRACE Midterm Challenge\nThe first half of the course comes together in one reconstructable investigation.\nThe Midterm Challenge asks you to demonstrate:\n\nprovenance;\nmeaningful probing;\nevidence quality;\nindependent verification;\ndisciplined inference;\ntransparent AI use;\nhuman judgment.\n\nOpen Week 7 — TRACE Midterm Challenge\n\n\n\nPhase III — Use, Control, Verify\nWeeks 8–11\nHow do you use AI deliberately rather than merely interact with it?\nYou will work with:\n\nprompt design;\ncontext management;\ncontext drift;\nhallucination;\ncitation verification;\nacademic integrity;\nAI-use boundaries.\n\n\n\n\nPhase IV — Govern and Transfer\nWeeks 12–14\nHow should AI use change when risk, confidentiality, professional responsibility, or affected people change?\nYou will work with:\n\ncontext-specific AI guidelines;\nprofessional accountability;\nhuman oversight;\nautomation bias;\ndecision rights;\nstop conditions;\ntransfer to unfamiliar problems."
+  },
+  {
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": "DSA261 — Algorithmic Learning and AI",
+    "section": "Assessment",
+    "text": "Assessment\nDSA261 uses three major assessments.\n\n\n\n\n\n\n\n\nAssessment\nWeight\nWhat it tests\n\n\n\n\nTRACE Midterm Challenge\n30%\nCan you investigate a claim, system, or AI output through reconstructable evidence and judgment?\n\n\nTRACE Skill Portfolio\n30%\nCan you demonstrate growing capability across the TRACE evidence dimensions?\n\n\nTRACE Final Project\n40%\nCan you govern AI-assisted work across three authentic discipline-specific tasks?\n\n\n\nWeekly Tasks support these assessments and are primarily formative:\n\nCOMPLETE · REVISE · MISSING\n\nOpen the TRACE Portfolio\nOpen the Final Project"
+  },
+  {
+    "objectID": "index.html#what-you-are-building",
+    "href": "index.html#what-you-are-building",
+    "title": "DSA261 — Algorithmic Learning and AI",
+    "section": "What you are building",
+    "text": "What you are building\nAcross the semester, your evidence should show increasing capability in seven areas:\nSEEK · PROMPT · PROBE · CONTEXT · VERIFY · JUDGE · TRANSFER\nThese are not separate topics.\nThey describe an increasingly independent way of working with information, algorithms, and AI.\n\n\n\n\n\n\n\nImportantThe course rule that does not change\n\n\n\nAI may help you search, generate, compare, structure, and explore.\nBut:\n\nan AI answer is not independent verification evidence, and responsibility for the final judgment remains with you."
   },
   {
     "objectID": "google_forms/W14_Quiz_Schema.html",
@@ -998,7 +1012,7 @@
     "href": "course-guide.html#official-class-schedule",
     "title": "Course Guide",
     "section": "Official class schedule",
-    "text": "Official class schedule\nDSA261 is scheduled on Friday in G1-01 as three 40-minute class periods:\n\n\n\n\n\n\n\n\nTime\nPhase\nTypical activity\n\n\n\n\n11:00–11:40\nSession 1\ncold case, prediction, encounter, focused concept, guided investigation\n\n\n11:40–11:50\nShort break\n—\n\n\n11:50–12:30\nSession 2\nprobing, information seeking, guided technical practice\n\n\n12:30–13:30\nLunch break\n—\n\n\n13:30–14:10\nSession 3\npair challenge, decision, verification, evidence capture, next-week briefing\n\n\n\nAlthough the course is formally listed as theoretical, teaching takes place in the computer laboratory. The design therefore treats each class period as an active TRACE session rather than as a continuous lecture.\nStudents should normally perform an observable action at least every 10–15 minutes."
+    "text": "Official class schedule\nDSA261 is scheduled on Friday in G2-04 as three 40-minute class periods:\n\n\n\n\n\n\n\n\nTime\nPhase\nTypical activity\n\n\n\n\n11:00–11:40\nSession 1\ncold case, prediction, encounter, focused concept, guided investigation\n\n\n11:40–11:50\nShort break\n—\n\n\n11:50–12:30\nSession 2\nprobing, information seeking, guided technical practice\n\n\n12:30–13:30\nLunch break\n—\n\n\n13:30–14:10\nSession 3\npair challenge, decision, verification, evidence capture, next-week briefing\n\n\n\nAlthough the course is formally listed as theoretical, teaching takes place in the computer laboratory. The design therefore treats each class period as an active TRACE session rather than as a continuous lecture.\nStudents should normally perform an observable action at least every 10–15 minutes."
   },
   {
     "objectID": "course-guide.html#weekly-tasks",

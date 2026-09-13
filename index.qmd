@@ -11,38 +11,208 @@ subtitle: "Search. Question. Use AI. Verify. Decide."
 **TRACE** is the recurring learning protocol of the course:
 
 > **Predict → Encounter → Probe → Explain → Decide → Verify**
+
+The course is designed around one larger goal:
+
+> **developing epistemic agency under algorithmic mediation**
 :::
 
 ## This is a lab-based course
 
-Although DSA261 is formally a three-hour theoretical course, teaching takes place in the computer laboratory. You will search, compare, prompt, interrogate, verify, document evidence, and make decisions every week.
+Although DSA261 is formally a three-hour theoretical course, teaching takes place in the computer laboratory.
 
-The goal is not passive familiarity with AI terminology. The goal is **observable capability**.
+You will:
 
-## Week 1 is live
+- search and trace information;
+- compare algorithmic environments;
+- inspect AI claims;
+- prompt and probe language models;
+- test context and failure modes;
+- verify claims against external evidence;
+- evaluate algorithmic decisions;
+- document AI-assisted work;
+- make and defend human judgments.
+
+The goal is not passive familiarity with AI terminology.
+
+The goal is **observable capability**.
+
+---
+
+## Start here
 
 ::: {.action-grid}
-::: {.action-card}
-### Week 1 — How Do You Know?
-Information seeking, source tracing, verification, and epistemic agency.
 
-[Open Week 1 TRACE Lab](weeks/week01.qmd){.btn .btn-primary}
+::: {.action-card}
+### Weekly TRACE Labs
+
+Access all fourteen weekly labs, quizzes, Tasks, and preparation materials.
+
+[Open Weekly Labs](weekly-labs.qmd){.btn .btn-primary}
+:::
+
+::: {.action-card}
+### Learning Path
+
+See how the course develops from information literacy to AI governance and transfer.
+
+[View the Learning Path](learning-path.qmd){.btn .btn-outline-primary}
 :::
 
 ::: {.action-card}
 ### Course Guide
-Learn how TRACE, quizzes, weekly Tasks, and evidence work.
+
+Learn how TRACE, pre-class quizzes, weekly Tasks, evidence, and assessment work.
 
 [Read the Course Guide](course-guide.qmd){.btn .btn-outline-primary}
 :::
+
+::: {.action-card}
+### AI Use Policy
+
+Understand what AI use is permitted, what must be disclosed, and what still requires independent verification.
+
+[Read the AI Use Policy](ai-policy.qmd){.btn .btn-outline-primary}
 :::
+
+:::
+
+---
 
 ## The semester story
 
-1. **How do you know?**
-2. **Who shapes what you see?**
-3. **What does AI actually do?**
-4. **Can AI make you better?**
-5. **How can it fail?**
-6. **How do you control and verify it?**
-7. **Who remains responsible?**
+The course develops through four connected phases.
+
+### Phase I — Know, Search, Question
+
+**Weeks 1–3**
+
+How do you know whether information is trustworthy?  
+Who shapes what you see?  
+What does an AI claim actually mean?
+
+You will work with:
+
+- source tracing;
+- ranking and recommendation;
+- computational propaganda;
+- targeting and exposure;
+- AI claim auditing.
+
+---
+
+### Phase II — Understand and Stress-Test AI
+
+**Weeks 4–6**
+
+What does an LLM actually do?  
+What can current AI systems genuinely accomplish?  
+What happens when algorithms make decisions about people?
+
+You will work with:
+
+- language-model mechanics;
+- context and generation;
+- capability boundaries;
+- skill boosting;
+- verification cost;
+- bias and fairness;
+- counterfactual probing.
+
+---
+
+### Week 7 — TRACE Midterm Challenge
+
+The first half of the course comes together in one reconstructable investigation.
+
+The Midterm Challenge asks you to demonstrate:
+
+- provenance;
+- meaningful probing;
+- evidence quality;
+- independent verification;
+- disciplined inference;
+- transparent AI use;
+- human judgment.
+
+[Open Week 7 — TRACE Midterm Challenge](weeks/week07.qmd){.btn .btn-outline-primary}
+
+---
+
+### Phase III — Use, Control, Verify
+
+**Weeks 8–11**
+
+How do you use AI deliberately rather than merely interact with it?
+
+You will work with:
+
+- prompt design;
+- context management;
+- context drift;
+- hallucination;
+- citation verification;
+- academic integrity;
+- AI-use boundaries.
+
+---
+
+### Phase IV — Govern and Transfer
+
+**Weeks 12–14**
+
+How should AI use change when risk, confidentiality, professional responsibility, or affected people change?
+
+You will work with:
+
+- context-specific AI guidelines;
+- professional accountability;
+- human oversight;
+- automation bias;
+- decision rights;
+- stop conditions;
+- transfer to unfamiliar problems.
+
+---
+
+## Assessment
+
+DSA261 uses three major assessments.
+
+| Assessment | Weight | What it tests |
+|---|---:|---|
+| **TRACE Midterm Challenge** | **30%** | Can you investigate a claim, system, or AI output through reconstructable evidence and judgment? |
+| **TRACE Skill Portfolio** | **30%** | Can you demonstrate growing capability across the TRACE evidence dimensions? |
+| **TRACE Final Project** | **40%** | Can you govern AI-assisted work across three authentic discipline-specific tasks? |
+
+Weekly Tasks support these assessments and are primarily formative:
+
+> **COMPLETE · REVISE · MISSING**
+
+[Open the TRACE Portfolio](portfolio.qmd){.btn .btn-outline-primary}
+
+[Open the Final Project](final-project.qmd){.btn .btn-outline-primary}
+
+---
+
+## What you are building
+
+Across the semester, your evidence should show increasing capability in seven areas:
+
+`SEEK` · `PROMPT` · `PROBE` · `CONTEXT` · `VERIFY` · `JUDGE` · `TRANSFER`
+
+These are not separate topics.
+
+They describe an increasingly independent way of working with information, algorithms, and AI.
+
+---
+
+::: {.callout-important}
+## The course rule that does not change
+
+AI may help you search, generate, compare, structure, and explore.
+
+But:
+
+> **an AI answer is not independent verification evidence, and responsibility for the final judgment remains with you.**
+:::

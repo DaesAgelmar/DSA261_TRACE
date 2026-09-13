@@ -23,7 +23,7 @@ Every ordinary teaching week contains four persistent components:
 
 ## Official class schedule
 
-DSA261 is scheduled on **Friday in G1-01** as three 40-minute class periods:
+DSA261 is scheduled on **Friday in G2-04** as three 40-minute class periods:
 
 | Time | Phase | Typical activity |
 |---|---|---|
