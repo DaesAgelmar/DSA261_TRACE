@@ -1,0 +1,429 @@
+[
+  {
+    "objectID": "weeks/week01.html",
+    "href": "weeks/week01.html",
+    "title": "Week 1 — How Do You Know?",
+    "section": "",
+    "text": "TipThis week’s central question\n\n\n\nHow do you know that something you see online is true?\nThis week is not simply about “finding the correct news story.” The deeper goal is to make visible why we trust a claim, what evidence changes our judgment, and how we trace information back to inspectable evidence."
+  },
+  {
+    "objectID": "weeks/week01.html#trace-this-week",
+    "href": "weeks/week01.html#trace-this-week",
+    "title": "Week 1 — How Do You Know?",
+    "section": "TRACE this week",
+    "text": "TRACE this week\n\nPredict → Encounter → Probe → Explain → Decide → Verify\n\nTRACE is not an answer formula. It is a working protocol for keeping epistemic control with you when you encounter a claim, search result, algorithmic decision, or LLM output."
+  },
+  {
+    "objectID": "weeks/week01.html#learning-goals",
+    "href": "weeks/week01.html#learning-goals",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Learning goals",
+    "text": "Learning goals\nBy the end of this week, you should be able to:\n\nexplain the difference between a claim, a source, and evidence;\ndistinguish the page where information first reaches you from the original source of that information;\ndesign different search queries for the same information need;\nevaluate a source by going beyond the page itself rather than relying only on its appearance;\ntest a claim against at least one independent source;\nexplain why your confidence changed—or did not change—after verification."
+  },
+  {
+    "objectID": "weeks/week01.html#before-class",
+    "href": "weeks/week01.html#before-class",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Before class",
+    "text": "Before class\nThis section must be completed before class.\n\n1. Watch — How to choose your news\nDamon Brown, TED-Ed — approximately 4.5 minutes.\nWatch: How to choose your news\nWhile watching, keep one question in mind:\n\nWhat does the fact that a news item reached you actually tell you about whether it is true?\n\n\n\n2. Read — Teyit methodology\nRead the current Teyit methodology page, focusing especially on:\n\nhow claims are scanned and identified;\nhow claims are selected and prioritised;\nhow evidence and sources are made traceable.\n\nRead: Teyit — Methodology\nWhile reading, look for this distinction:\n\n“This claim sounds believable to me” is not the same as “this claim can be tested against publicly inspectable evidence.”\n\n\n\n3. Complete the pre-class quiz\nThe quiz is a 5–7 minute preparation and diagnostic check. Its purpose is not to reward memorisation. It makes visible the assumptions and verification habits you bring into the lab.\nStart Week 1 Pre-Class Quiz\n\n\n\n\n\n\nNoteBring one example\n\n\n\nThink of one claim you encountered during the last seven days on social media, a news site, a messaging group, a video platform, or another digital environment that made you think:\n\n“Is this actually true?”\n\nBring the URL or a screenshot if you can find it."
+  },
+  {
+    "objectID": "weeks/week01.html#session-1-from-impression-to-investigation",
+    "href": "weeks/week01.html#session-1-from-impression-to-investigation",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Session 1 — From impression to investigation",
+    "text": "Session 1 — From impression to investigation\n\n1. Today’s Case — The claim arrives first\nAt the beginning of class, you will be shown a claim taken from a real digital environment.\nDo not search yet.\nFirst, record the following individually:\n\nProbability that the claim is correct: 0–100\nInitial judgment: Trust / Doubt / Unsure\nThe single strongest signal behind that judgment\n\n\n\n\n\n\n\nWarningTRACE rule\n\n\n\nRecord your prediction before seeing the evidence. Saying “I already thought that” after the result is known is not evidence of learning.\n\n\n\n\n2. Predict\nComplete this sentence in one minute:\n\n“At this point, I am ___% confident in this claim because …”\n\nThen compare only your reasoning with the person next to you. Do not yet argue about who is correct.\n\n\n3. Encounter\nNow inspect the page, post, or artifact containing the claim in full.\nRecord:\n\nWho is making the claim?\nWhere was it published?\nIs there a date?\nIs a source cited?\nIf there is a link, does it lead to the original source or merely to another report?\nIs the claim specific enough to be tested?\n\n\n\n4. Probe I — Search differently\nInvestigate the same claim using at least three meaningfully different search strategies.\nQuery A — Exact phrase\nSearch a distinctive part of the claim in quotation marks.\nQuery B — Source-oriented\nSearch for the institution, researcher, report, dataset, or document supposedly behind the claim.\nQuery C — Evidence-oriented\nSearch for the data, report, study, primary document, or official record that could actually test the claim—not merely another page repeating it.\nDo not stop at the first search result.\n\n\n5. Skill Studio — Source tracing\nTry to reconstruct this chain:\n\nClaim → Publisher → Cited source → Original source → Independent evidence\n\nIf a link in the chain cannot be found, record that as a result. “I could not find it” can be an important finding when the missing link should exist.\n\n\n6. Probe II — Leave the page\nDo not evaluate an unfamiliar source only through its own self-description.\nOpen new tabs and investigate:\n\nWhat do independent sources say about the publisher or author?\nHow is the same claim reported elsewhere?\nIs there an earlier or more original version?\nAre apparently different reports actually independent, or are they all repeating the same source?\n\n\n\n7. Explain — What changed?\nShort class discussion:\n\nWhat signal influenced your initial trust judgment most strongly?\nWhich query produced the most useful result?\nDid many repeated reports actually represent many independent pieces of evidence?\nDid the claim change when you reached the primary or original source?"
+  },
+  {
+    "objectID": "weeks/week01.html#short-break",
+    "href": "weeks/week01.html#short-break",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Short break",
+    "text": "Short break"
+  },
+  {
+    "objectID": "weeks/week01.html#session-2-from-investigation-to-defensible-judgment",
+    "href": "weeks/week01.html#session-2-from-investigation-to-defensible-judgment",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Session 2 — From investigation to defensible judgment",
+    "text": "Session 2 — From investigation to defensible judgment\n\n8. Pair Challenge — Trace before you trust\nWork in pairs on a second claim.\nEach pair must produce four outputs:\n\nOne-sentence claim — What exactly is being claimed?\nBest query — Which search query was most productive?\nStrongest evidence — What is the strongest evidence you found?\nRejected result — Give one result you deliberately did not use and explain why.\n\nWhen groups compare results, compare not only the verdicts but also the search paths that produced them.\n\n\n9. Decide — Make a defensible judgment\nClassify the claim using one of the following categories:\n\nSupported — Available evidence supports the claim.\nContradicted — Credible evidence conflicts with the claim.\nUnsupported — There is not enough evidence to support the claim.\nMissing context — Part of the claim may be correct, but missing context materially changes its meaning.\nUnresolved — The available public evidence does not support a reliable conclusion.\n\nDefend your judgment in two sentences.\n\n\n10. Verify — Independent evidence\nBefore closing the case, ask:\n\nWhat evidence independent of the original claimant supports my final judgment?\n\nIf you cannot find independent evidence, recalibrate your confidence accordingly.\n\n\n11. Recalibrate\nReturn to your initial confidence score.\n\nInitial confidence: ___ / 100\nFinal confidence: ___ / 100\nChange: ___\n\nThe key question is not simply “Was my first guess correct?”\n\nDid my judgment change as much as the evidence warranted?"
+  },
+  {
+    "objectID": "weeks/week01.html#task-01-source-trace",
+    "href": "weeks/week01.html#task-01-source-trace",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Task 01 — Source Trace",
+    "text": "Task 01 — Source Trace\nThis is your individual TRACE evidence task for Week 1.\nChoose one testable digital claim that you personally encountered during the last seven days. Your job is not merely to label the claim “true” or “false.” You must show, in a reconstructable way, how you moved from first impression to a defensible judgment.\n\nMinimum evidence\nYour submission must include:\n\nthe original claim and URL or screenshot;\na one-sentence statement of the claim in your own words;\nyour 0–100 initial confidence before research;\nthree meaningfully different search queries;\nthe earliest/original source you could identify, or an explanation of why it could not be identified;\nat least one independent verification source;\nat least one search result you rejected and why;\na Supported / Contradicted / Unsupported / Missing context / Unresolved verdict;\nyour 0–100 final confidence;\nthe most important evidence that changed or strengthened your judgment;\na brief AI-use disclosure, if applicable.\n\n\n\n\n\n\n\nImportantAI rule for Task 01\n\n\n\nYou may use AI, for example to brainstorm alternative search queries or to help plan your investigation.\nHowever, LLM output is not evidence. Your final verdict must rest on inspectable external evidence. If you use AI, disclose what you used it for and what parts of verification and judgment you performed yourself.\n\n\nSubmit Task 01 — Source Trace\n\n\nCompletion standard\nComplete — A reconstructable search trail, independent evidence, and a defensible verdict are present.\nRevise — A conclusion is present, but the evidence trail is incomplete or the supposed verification is not independent.\nMissing — The submission contains only opinion/LLM output or does not show a verifiable process."
+  },
+  {
+    "objectID": "weeks/week01.html#concepts-to-keep",
+    "href": "weeks/week01.html#concepts-to-keep",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Concepts to keep",
+    "text": "Concepts to keep\n\nclaim\nsource\nevidence\nprovenance\nprimary source\nindependent evidence\nquery formulation\nsource tracing\nlateral reading\ntriangulation\nconfidence calibration\nverification"
+  },
+  {
+    "objectID": "weeks/week01.html#portfolio-evidence-this-week",
+    "href": "weeks/week01.html#portfolio-evidence-this-week",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Portfolio evidence this week",
+    "text": "Portfolio evidence this week\n\nSEEK — Information seeking and query reformulation\nTRACE — Reconstructable investigation trail\nVERIFY — Independent verification and confidence calibration"
+  },
+  {
+    "objectID": "weeks/week01.html#who-decides-what-you-see",
+    "href": "weeks/week01.html#who-decides-what-you-see",
+    "title": "Week 1 — How Do You Know?",
+    "section": "Who decides what you see?",
+    "text": "Who decides what you see?\nNext week we move from whether a claim is trustworthy to a different problem:\n\nWhile you think you are choosing information, what might algorithms be making visible—or invisible—for you?\n\nWeek 2 focuses on search ranking, social-media feeds, recommendation systems, microtargeting, and computational propaganda.\nThe following preparation is required for the Week 2 Pre-Class Quiz.\n\nREQUIRED WATCH — Filter bubbles\nEli Pariser — “Beware online filter bubbles”\nTED — approximately 8:47.\nWatch the talk\nWhile watching, take notes on:\n\nWhen can filtering be useful?\nWhen can the same mechanism become a problem?\nWhere would you draw the boundary between personalisation and manipulation?\n\n\n\nREQUIRED READ — Cambridge Analytica as a data and targeting case\nUK Information Commissioner’s Office — Cambridge Analytica raids\nRead the ICO overview\nAs you read, reconstruct this chain:\n\nData collection → profiling → targeting → claimed influence\n\nDo not assume that evidence of targeting capability automatically proves a large behavioural effect. We will examine that distinction in class.\n\n\nREQUIRED EXPLORE — Computational propaganda\nOxford Internet Institute — Computational Propaganda\nExplore the project\nBe ready to explain, in your own words:\n\nwhat computational propaganda is;\nhow automation, algorithms, and social platforms can work together;\nwhy organised influence activity is not the same as proof that every exposed user was persuaded.\n\n\n\nCULTURAL LENS — Black Mirror: Nosedive\nIf you have legitimate access to Black Mirror, watching “Nosedive” before Week 2 is recommended but not required for the quiz.\nWe will use its thought experiment in class:\n\nWhat happens when scoring, visibility, social incentives, and behaviour become tightly coupled through a platform?\n\n\n\nBring to Week 2\nChoose one digital service you use regularly:\n\nsearch engine;\nsocial-media feed;\nvideo platform;\nmusic platform;\nshopping platform;\nnews application.\n\nCome prepared to answer:\n\nWhat does this system probably know about you, and what does it decide to show you?\n\nOpen Week 2 Pre-Class Quiz"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "TRACE Portfolio",
+    "section": "",
+    "text": "Your portfolio records evidence that your judgment is becoming more precise and independent.\nA strong portfolio does not necessarily contain more text. It shows:\n\nbetter searching → better probing → stronger evidence → more precise explanation → better judgment → independent verification"
+  },
+  {
+    "objectID": "portfolio.html#evidence-not-volume",
+    "href": "portfolio.html#evidence-not-volume",
+    "title": "TRACE Portfolio",
+    "section": "",
+    "text": "Your portfolio records evidence that your judgment is becoming more precise and independent.\nA strong portfolio does not necessarily contain more text. It shows:\n\nbetter searching → better probing → stronger evidence → more precise explanation → better judgment → independent verification"
+  },
+  {
+    "objectID": "portfolio.html#core-evidence-codes",
+    "href": "portfolio.html#core-evidence-codes",
+    "title": "TRACE Portfolio",
+    "section": "Core evidence codes",
+    "text": "Core evidence codes\n\n\n\nCode\nObservable capacity\n\n\n\n\nSEEK\nformulate and reformulate searches; trace provenance\n\n\nPROMPT\nspecify task, context, constraints, evidence, and output\n\n\nPROBE\nisolate assumptions, sensitivities, and failure points\n\n\nCONTEXT\nmanage conversation state and context drift\n\n\nVERIFY\ntest claims against independent evidence\n\n\nJUDGE\nmake a defensible use/reject/modify/disclose decision\n\n\nTRANSFER\napply the method to a new problem or discipline"
+  },
+  {
+    "objectID": "portfolio.html#week-1-evidence",
+    "href": "portfolio.html#week-1-evidence",
+    "title": "TRACE Portfolio",
+    "section": "Week 1 evidence",
+    "text": "Week 1 evidence\n\nSEEK\nTRACE\nVERIFY\n\nThe Week 1 artifact is Task 01 — Source Trace."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSA261 — Algorithmic Learning and AI",
+    "section": "",
+    "text": "Central question: In an algorithmically mediated world, how do we know what to trust, what to question, and how to use AI to expand our abilities without surrendering judgment?\nTRACE is the recurring learning protocol of the course:\n\nPredict → Encounter → Probe → Explain → Decide → Verify"
+  },
+  {
+    "objectID": "index.html#welcome-to-dsa261",
+    "href": "index.html#welcome-to-dsa261",
+    "title": "DSA261 — Algorithmic Learning and AI",
+    "section": "",
+    "text": "Central question: In an algorithmically mediated world, how do we know what to trust, what to question, and how to use AI to expand our abilities without surrendering judgment?\nTRACE is the recurring learning protocol of the course:\n\nPredict → Encounter → Probe → Explain → Decide → Verify"
+  },
+  {
+    "objectID": "index.html#this-is-a-lab-based-course",
+    "href": "index.html#this-is-a-lab-based-course",
+    "title": "DSA261 — Algorithmic Learning and AI",
+    "section": "This is a lab-based course",
+    "text": "This is a lab-based course\nAlthough DSA261 is formally a three-hour theoretical course, teaching takes place in the computer laboratory. You will search, compare, prompt, interrogate, verify, document evidence, and make decisions every week.\nThe goal is not passive familiarity with AI terminology. The goal is observable capability."
+  },
+  {
+    "objectID": "index.html#week-1-is-live",
+    "href": "index.html#week-1-is-live",
+    "title": "DSA261 — Algorithmic Learning and AI",
+    "section": "Week 1 is live",
+    "text": "Week 1 is live\n\n\nWeek 1 — How Do You Know?\nInformation seeking, source tracing, verification, and epistemic agency.\nOpen Week 1 TRACE Lab\n\n\nCourse Guide\nLearn how TRACE, quizzes, weekly Tasks, and evidence work.\nRead the Course Guide"
+  },
+  {
+    "objectID": "index.html#the-semester-story",
+    "href": "index.html#the-semester-story",
+    "title": "DSA261 — Algorithmic Learning and AI",
+    "section": "The semester story",
+    "text": "The semester story\n\nHow do you know?\nWho shapes what you see?\nWhat does AI actually do?\nCan AI make you better?\nHow can it fail?\nHow do you control and verify it?\nWho remains responsible?"
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html",
+    "href": "google_forms/W01_Quiz_Schema.html",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "DSA261 — W01 Pre-Class Quiz: How Do You Know?\n\n\n\nComplete this quiz before class. Its purpose is not to reward memorisation. It checks the concepts and assumptions you bring into the Week 1 TRACE Lab.\n\n\n\nDamon Brown — How to choose your news (TED-Ed)\nTeyit — current methodology page, especially the sections on claim scanning, selection/prioritisation, and traceability of sources/evidence.\n\nEstimated time: 5–7 minutes.\n\n\n\n\n\n\nMake this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade: Immediately after submission\nShow missed questions: ON\nShow correct answers: ON\nShow point values: ON\nShuffle question order: OFF\n\n\n\n\n\nType: Multiple choice\nPoints: 1\nRequired: Yes\nWhich statement best distinguishes a claim from evidence?\nA. A claim is any statement published by a reliable institution; evidence is any link attached to it.\nB. A claim is what is being asserted; evidence is information that can support, contradict, or qualify that assertion.\nC. Claims are subjective; evidence is always objective.\nD. A claim becomes evidence when many websites repeat it.\nCorrect answer: B\nFeedback: Repetition does not transform a claim into independent evidence.\n\n\n\n\nType: Multiple choice\nPoints: 1\nRequired: Yes\nYou find the same statistic on eight news websites. All eight cite the same unnamed “recent study.” What is the strongest next step?\nA. Treat eight websites as eight independent confirmations.\nB. Search for the earliest article and stop there.\nC. Identify and inspect the original study, dataset, report, or institution behind the statistic.\nD. Ask an LLM whether the statistic sounds plausible.\nCorrect answer: C\nFeedback: Multiple pages can reproduce the same unsupported source. Trace the claim toward original evidence.\n\n\n\n\nType: Multiple choice\nPoints: 1\nRequired: Yes\nWhich action best represents leaving the page when evaluating an unfamiliar source?\nA. Read the site’s About page more carefully.\nB. Open new tabs and search independently for the organisation, author, claim, and external assessments.\nC. Count how many images the page contains.\nD. Ask the site’s chatbot whether the site is reliable.\nCorrect answer: B\nFeedback: Independent investigation reduces reliance on a source’s self-description.\n\n\n\n\nType: Multiple choice\nPoints: 1\nRequired: Yes\nWhich claim is most clearly verifiable using publicly inspectable evidence?\nA. The minister secretly dislikes this policy.\nB. Everyone at the meeting felt uncomfortable.\nC. This video was recorded in Ankara on 10 September 2026.\nD. The author wrote the article with bad intentions.\nCorrect answer: C\nFeedback: Date/location/media claims can leave inspectable traces; private intentions usually cannot.\n\n\n\n\nType: Multiple choice\nPoints: 1\nRequired: Yes\nAn LLM gives you a confident answer and cites three sources. How should those citations be treated before you independently check them?\nA. Verified evidence because the model provided citations.\nB. Potential leads that still require external verification.\nC. Primary sources by definition.\nD. Reliable if the titles look academic.\nCorrect answer: B\nFeedback: LLM citations are leads until externally verified.\n\n\n\n\nType: Linear scale (1–5)\nPoints: 0\nRequired: Yes\nHow confident are you that you can verify an unfamiliar online claim?\n\n1: Not confident\n5: Very confident\n\nThis item is diagnostic rather than graded.\n\n\n\n\nType: Paragraph\nPoints: 0\nRequired: Yes\nThink of one claim you encountered recently. In 1–2 sentences, what would your first verification step be?\nThis item is diagnostic. There is no single automatically scored answer.\n\n\n\n\nQuiz submitted. Bring one questionable digital claim you encountered during the last seven days (URL or screenshot if available). In class, you will test whether your first instinct survives a TRACE investigation."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#form-title",
+    "href": "google_forms/W01_Quiz_Schema.html#form-title",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "DSA261 — W01 Pre-Class Quiz: How Do You Know?"
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#student-facing-description",
+    "href": "google_forms/W01_Quiz_Schema.html#student-facing-description",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Complete this quiz before class. Its purpose is not to reward memorisation. It checks the concepts and assumptions you bring into the Week 1 TRACE Lab.\n\n\n\nDamon Brown — How to choose your news (TED-Ed)\nTeyit — current methodology page, especially the sections on claim scanning, selection/prioritisation, and traceability of sources/evidence.\n\nEstimated time: 5–7 minutes."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#recommended-google-forms-settings",
+    "href": "google_forms/W01_Quiz_Schema.html#recommended-google-forms-settings",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade: Immediately after submission\nShow missed questions: ON\nShow correct answers: ON\nShow point values: ON\nShuffle question order: OFF"
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#q1-claim-vs-evidence",
+    "href": "google_forms/W01_Quiz_Schema.html#q1-claim-vs-evidence",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Type: Multiple choice\nPoints: 1\nRequired: Yes\nWhich statement best distinguishes a claim from evidence?\nA. A claim is any statement published by a reliable institution; evidence is any link attached to it.\nB. A claim is what is being asserted; evidence is information that can support, contradict, or qualify that assertion.\nC. Claims are subjective; evidence is always objective.\nD. A claim becomes evidence when many websites repeat it.\nCorrect answer: B\nFeedback: Repetition does not transform a claim into independent evidence."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#q2-repetition-is-not-independence",
+    "href": "google_forms/W01_Quiz_Schema.html#q2-repetition-is-not-independence",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Type: Multiple choice\nPoints: 1\nRequired: Yes\nYou find the same statistic on eight news websites. All eight cite the same unnamed “recent study.” What is the strongest next step?\nA. Treat eight websites as eight independent confirmations.\nB. Search for the earliest article and stop there.\nC. Identify and inspect the original study, dataset, report, or institution behind the statistic.\nD. Ask an LLM whether the statistic sounds plausible.\nCorrect answer: C\nFeedback: Multiple pages can reproduce the same unsupported source. Trace the claim toward original evidence."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#q3-leave-the-page",
+    "href": "google_forms/W01_Quiz_Schema.html#q3-leave-the-page",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Type: Multiple choice\nPoints: 1\nRequired: Yes\nWhich action best represents leaving the page when evaluating an unfamiliar source?\nA. Read the site’s About page more carefully.\nB. Open new tabs and search independently for the organisation, author, claim, and external assessments.\nC. Count how many images the page contains.\nD. Ask the site’s chatbot whether the site is reliable.\nCorrect answer: B\nFeedback: Independent investigation reduces reliance on a source’s self-description."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#q4-verifiability",
+    "href": "google_forms/W01_Quiz_Schema.html#q4-verifiability",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Type: Multiple choice\nPoints: 1\nRequired: Yes\nWhich claim is most clearly verifiable using publicly inspectable evidence?\nA. The minister secretly dislikes this policy.\nB. Everyone at the meeting felt uncomfortable.\nC. This video was recorded in Ankara on 10 September 2026.\nD. The author wrote the article with bad intentions.\nCorrect answer: C\nFeedback: Date/location/media claims can leave inspectable traces; private intentions usually cannot."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#q5-llm-citations",
+    "href": "google_forms/W01_Quiz_Schema.html#q5-llm-citations",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Type: Multiple choice\nPoints: 1\nRequired: Yes\nAn LLM gives you a confident answer and cites three sources. How should those citations be treated before you independently check them?\nA. Verified evidence because the model provided citations.\nB. Potential leads that still require external verification.\nC. Primary sources by definition.\nD. Reliable if the titles look academic.\nCorrect answer: B\nFeedback: LLM citations are leads until externally verified."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#q6-verification-confidence",
+    "href": "google_forms/W01_Quiz_Schema.html#q6-verification-confidence",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Type: Linear scale (1–5)\nPoints: 0\nRequired: Yes\nHow confident are you that you can verify an unfamiliar online claim?\n\n1: Not confident\n5: Very confident\n\nThis item is diagnostic rather than graded."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#q7-first-verification-move",
+    "href": "google_forms/W01_Quiz_Schema.html#q7-first-verification-move",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Type: Paragraph\nPoints: 0\nRequired: Yes\nThink of one claim you encountered recently. In 1–2 sentences, what would your first verification step be?\nThis item is diagnostic. There is no single automatically scored answer."
+  },
+  {
+    "objectID": "google_forms/W01_Quiz_Schema.html#confirmation-message",
+    "href": "google_forms/W01_Quiz_Schema.html#confirmation-message",
+    "title": "DSA261 — Week 01 Pre-Class Quiz",
+    "section": "",
+    "text": "Quiz submitted. Bring one questionable digital claim you encountered during the last seven days (URL or screenshot if available). In class, you will test whether your first instinct survives a TRACE investigation."
+  },
+  {
+    "objectID": "course-guide.html",
+    "href": "course-guide.html",
+    "title": "Course Guide",
+    "section": "",
+    "text": "TRACE is the shared learning message of the course, not a topic or a software tool.\n\nPredict → Encounter → Probe → Explain → Decide → Verify\n\nYou will use the same cycle on different objects: a news claim, search result, recommendation, algorithmic decision, LLM response, prompt, citation, policy, or professional case."
+  },
+  {
+    "objectID": "course-guide.html#trace",
+    "href": "course-guide.html#trace",
+    "title": "Course Guide",
+    "section": "",
+    "text": "TRACE is the shared learning message of the course, not a topic or a software tool.\n\nPredict → Encounter → Probe → Explain → Decide → Verify\n\nYou will use the same cycle on different objects: a news claim, search result, recommendation, algorithmic decision, LLM response, prompt, citation, policy, or professional case."
+  },
+  {
+    "objectID": "course-guide.html#weekly-rhythm",
+    "href": "course-guide.html#weekly-rhythm",
+    "title": "Course Guide",
+    "section": "Weekly rhythm",
+    "text": "Weekly rhythm\nEvery ordinary teaching week contains four persistent components:\n\n\n\n\n\n\n\nComponent\nPurpose\n\n\n\n\nPre-Class Quiz\nMake preparation visible and activate prior knowledge\n\n\nTRACE Lab\nExperience, investigate, manipulate, explain, and verify a real case\n\n\nAfter-Class Task\nProduce individual evidence of transfer\n\n\nNext on DSA261\nEstablish the shared reading/viewing culture for the next week"
+  },
+  {
+    "objectID": "course-guide.html#official-class-schedule",
+    "href": "course-guide.html#official-class-schedule",
+    "title": "Course Guide",
+    "section": "Official class schedule",
+    "text": "Official class schedule\nDSA261 is scheduled on Friday in G1-01 as three 40-minute class periods:\n\n\n\n\n\n\n\n\nTime\nPhase\nTypical activity\n\n\n\n\n11:00–11:40\nSession 1\ncold case, prediction, encounter, focused concept, guided investigation\n\n\n11:40–11:50\nShort break\n—\n\n\n11:50–12:30\nSession 2\nprobing, information seeking, guided technical practice\n\n\n12:30–13:30\nLunch break\n—\n\n\n13:30–14:10\nSession 3\npair challenge, decision, verification, evidence capture, next-week briefing\n\n\n\nAlthough the course is formally listed as theoretical, teaching takes place in the computer laboratory. The design therefore treats each class period as an active TRACE session rather than as a continuous lecture.\nStudents should normally perform an observable action at least every 10–15 minutes."
+  },
+  {
+    "objectID": "course-guide.html#weekly-tasks",
+    "href": "course-guide.html#weekly-tasks",
+    "title": "Course Guide",
+    "section": "Weekly Tasks",
+    "text": "Weekly Tasks\nWeekly Tasks are not essays. They are evidence records showing how you searched, prompted, probed, verified, and decided.\nAI use is permitted unless a specific task says otherwise. However:\n\nAI output is not verification evidence."
+  },
+  {
+    "objectID": "course-guide.html#assessment-direction",
+    "href": "course-guide.html#assessment-direction",
+    "title": "Course Guide",
+    "section": "Assessment direction",
+    "text": "Assessment direction\n\nWeek 7: TRACE Midterm Challenge synthesising W1–W6 evidence and skills.\nWeeks 12–13: Final Project Gate 1 and Gate 2; the project scope and evidence protocol are progressively fixed.\nWeek 14: course review, transfer challenge, and final readiness audit."
+  },
+  {
+    "objectID": "ai-policy.html",
+    "href": "ai-policy.html",
+    "title": "AI Use Policy",
+    "section": "",
+    "text": "AI use is generally permitted and often required in DSA261 because learning how to use AI well is part of the course.\nPermission to use AI does not transfer responsibility to AI."
+  },
+  {
+    "objectID": "ai-policy.html#default-rule",
+    "href": "ai-policy.html#default-rule",
+    "title": "AI Use Policy",
+    "section": "",
+    "text": "AI use is generally permitted and often required in DSA261 because learning how to use AI well is part of the course.\nPermission to use AI does not transfer responsibility to AI."
+  },
+  {
+    "objectID": "ai-policy.html#what-you-must-be-able-to-show",
+    "href": "ai-policy.html#what-you-must-be-able-to-show",
+    "title": "AI Use Policy",
+    "section": "What you must be able to show",
+    "text": "What you must be able to show\nFor assessed TRACE work, you may be asked to document:\n\nthe prompt or query you used;\nhow the prompt/query changed;\nwhat the AI contributed;\nwhat you rejected or corrected;\nwhat external evidence you used;\nwhat decision remained yours."
+  },
+  {
+    "objectID": "ai-policy.html#verification-rule",
+    "href": "ai-policy.html#verification-rule",
+    "title": "AI Use Policy",
+    "section": "Verification rule",
+    "text": "Verification rule\n\nAn LLM answer, citation, summary, or confidence statement is not independent verification evidence.\n\nVerification must leave the model and reach an appropriate external source, dataset, document, or other independently inspectable evidence."
+  },
+  {
+    "objectID": "ai-policy.html#disclosure",
+    "href": "ai-policy.html#disclosure",
+    "title": "AI Use Policy",
+    "section": "Disclosure",
+    "text": "Disclosure\nWhen a Task asks for AI-use disclosure, report the actual use. Productive, transparent AI use is not penalised. Unverifiable or falsely represented process evidence may be."
+  },
+  {
+    "objectID": "google_forms/W01_Form_Setup_Checklist.html",
+    "href": "google_forms/W01_Form_Setup_Checklist.html",
+    "title": "W01 Google Forms — Setup Checklist",
+    "section": "",
+    "text": "The Week 1 Quiz and Task forms have already been created and their student-facing URLs are configured in _variables.yml.\nKeep the Google Forms edit URLs private.\n\n\n\n\n\n\nOpen https://script.google.com/ in the Google account that should own the forms.\nCreate a blank Apps Script project.\nPaste the contents of scripts/create_w01_google_forms.gs.\nRun createDSA261W01Forms.\nApprove the requested Google Forms permissions.\nOpen Execution log and copy the two student URLs.\nPaste them into _variables.yml under forms.week01.quiz and forms.week01.task.\n\n\n\n\nUse:\n\nW01_Quiz_Schema.md\nW01_Task_Schema.md\n\nThe schema files include item type, required status, scoring, options, feedback, and recommended Form settings.\n\n\n\n\n\n\n\nLimit to 1 response if institutional accounts permit.\nRelease grade immediately after submission.\nDo not expose the response summary to students.\nKeep question order fixed.\n\n\n\n\n\nAllow editing until the deadline if desired.\nSend a response copy to students.\nLink responses to a Sheet named DSA261_TRACE_Evidence.\nIf your Workspace permits File Upload items and you want them, manually replace the screenshot Drive-link question with a File Upload item.\n\n\n\n\n\nAdd instructor-only columns to the linked Sheet:\n\nSTATUS — COMPLETE / REVISE / MISSING\nFEEDBACK\nSEEK\nVERIFY\nJUDGMENT"
+  },
+  {
+    "objectID": "google_forms/W01_Form_Setup_Checklist.html#current-status",
+    "href": "google_forms/W01_Form_Setup_Checklist.html#current-status",
+    "title": "W01 Google Forms — Setup Checklist",
+    "section": "",
+    "text": "The Week 1 Quiz and Task forms have already been created and their student-facing URLs are configured in _variables.yml.\nKeep the Google Forms edit URLs private."
+  },
+  {
+    "objectID": "google_forms/W01_Form_Setup_Checklist.html#if-you-need-to-recreate-the-forms",
+    "href": "google_forms/W01_Form_Setup_Checklist.html#if-you-need-to-recreate-the-forms",
+    "title": "W01 Google Forms — Setup Checklist",
+    "section": "",
+    "text": "Open https://script.google.com/ in the Google account that should own the forms.\nCreate a blank Apps Script project.\nPaste the contents of scripts/create_w01_google_forms.gs.\nRun createDSA261W01Forms.\nApprove the requested Google Forms permissions.\nOpen Execution log and copy the two student URLs.\nPaste them into _variables.yml under forms.week01.quiz and forms.week01.task.\n\n\n\n\nUse:\n\nW01_Quiz_Schema.md\nW01_Task_Schema.md\n\nThe schema files include item type, required status, scoring, options, feedback, and recommended Form settings."
+  },
+  {
+    "objectID": "google_forms/W01_Form_Setup_Checklist.html#recommended-manual-checks",
+    "href": "google_forms/W01_Form_Setup_Checklist.html#recommended-manual-checks",
+    "title": "W01 Google Forms — Setup Checklist",
+    "section": "",
+    "text": "Limit to 1 response if institutional accounts permit.\nRelease grade immediately after submission.\nDo not expose the response summary to students.\nKeep question order fixed.\n\n\n\n\n\nAllow editing until the deadline if desired.\nSend a response copy to students.\nLink responses to a Sheet named DSA261_TRACE_Evidence.\nIf your Workspace permits File Upload items and you want them, manually replace the screenshot Drive-link question with a File Upload item."
+  },
+  {
+    "objectID": "google_forms/W01_Form_Setup_Checklist.html#response-sheet-feedback-columns",
+    "href": "google_forms/W01_Form_Setup_Checklist.html#response-sheet-feedback-columns",
+    "title": "W01 Google Forms — Setup Checklist",
+    "section": "",
+    "text": "Add instructor-only columns to the linked Sheet:\n\nSTATUS — COMPLETE / REVISE / MISSING\nFEEDBACK\nSEEK\nVERIFY\nJUDGMENT"
+  },
+  {
+    "objectID": "google_forms/W01_Task_Schema.html",
+    "href": "google_forms/W01_Task_Schema.html",
+    "title": "DSA261 — Week 01 After-Class Task",
+    "section": "",
+    "text": "DSA261 — Task 01: Source Trace\n\n\n\nChoose one verifiable digital claim that you personally encountered during the last seven days. Reconstruct how you moved from first impression to a defensible judgment.\nAI use is permitted for planning, query generation, translation, or similar support. AI output is not independent verification evidence.\n\n\n\n\n\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nEdit after submit: ON until the deadline (recommended)\nSend response copy: Always\nFile upload: Optional, depending on university Google Workspace policy\nDestination: Link responses to a Sheet named DSA261_TRACE_Evidence\n\n\n\nRecommended feedback status in the response Sheet:\n\nCOMPLETE\nREVISE\nMISSING"
+  },
+  {
+    "objectID": "google_forms/W01_Task_Schema.html#form-title",
+    "href": "google_forms/W01_Task_Schema.html#form-title",
+    "title": "DSA261 — Week 01 After-Class Task",
+    "section": "",
+    "text": "DSA261 — Task 01: Source Trace"
+  },
+  {
+    "objectID": "google_forms/W01_Task_Schema.html#student-facing-description",
+    "href": "google_forms/W01_Task_Schema.html#student-facing-description",
+    "title": "DSA261 — Week 01 After-Class Task",
+    "section": "",
+    "text": "Choose one verifiable digital claim that you personally encountered during the last seven days. Reconstruct how you moved from first impression to a defensible judgment.\nAI use is permitted for planning, query generation, translation, or similar support. AI output is not independent verification evidence."
+  },
+  {
+    "objectID": "google_forms/W01_Task_Schema.html#recommended-google-forms-settings",
+    "href": "google_forms/W01_Task_Schema.html#recommended-google-forms-settings",
+    "title": "DSA261 — Week 01 After-Class Task",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nEdit after submit: ON until the deadline (recommended)\nSend response copy: Always\nFile upload: Optional, depending on university Google Workspace policy\nDestination: Link responses to a Sheet named DSA261_TRACE_Evidence\n\n\n\nRecommended feedback status in the response Sheet:\n\nCOMPLETE\nREVISE\nMISSING"
+  },
+  {
+    "objectID": "google_forms/W01_Task_Schema.html#instructor-completion-criteria",
+    "href": "google_forms/W01_Task_Schema.html#instructor-completion-criteria",
+    "title": "DSA261 — Week 01 After-Class Task",
+    "section": "Instructor completion criteria",
+    "text": "Instructor completion criteria\n\nCOMPLETE\n\nAuthentic original artifact is identifiable.\nThree meaningfully different queries are shown.\nStudent distinguishes original/repeated source from independent evidence.\nAt least one rejected result is justified.\nVerdict follows from evidence.\nInitial and final confidence are both present.\nAI use, if any, is transparent and is not treated as evidence.\n\n\n\nREVISE\nTypical triggers: - all three queries are superficial variants; - “independent” evidence merely repeats the same source; - verdict is stronger than available evidence; - missing provenance/search trail; - AI answer used as factual verification.\n\n\nMISSING\n\nNo authentic claim/artifact;\nno traceable search process;\nonly opinion or generated prose submitted;\nevidence links absent without explanation."
+  },
+  {
+    "objectID": "google_forms/W01_Task_Schema.html#confirmation-message",
+    "href": "google_forms/W01_Task_Schema.html#confirmation-message",
+    "title": "DSA261 — Week 01 After-Class Task",
+    "section": "Confirmation message",
+    "text": "Confirmation message\nTask 01 submitted. Your goal was not to guess correctly at the beginning. Your goal was to leave a reconstructable trail showing how evidence changed—or justified not changing—your judgment."
+  },
+  {
+    "objectID": "learning-path.html",
+    "href": "learning-path.html",
+    "title": "Learning Path",
+    "section": "",
+    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\nWeeks 1–3\n\nsource evaluation and information seeking;\nranking, recommendation, filter bubbles, and computational propaganda;\nwhat is and is not AI.\n\n\n\n\nWeeks 4–6\n\nhow LLMs work conceptually;\ncapability boundaries and skill boosting;\nalgorithmic decision-making, bias, and fairness.\n\n\n\n\nNo conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.\n\n\n\nWeeks 8–11\n\nprompt design;\ncontext management;\nhallucination and verification;\nacademic integrity and AI-use judgment.\n\n\n\n\nWeeks 12–14\n\ncontext-specific AI guidelines;\nprofessional accountability;\nfinal project design freeze;\nTRACE review and transfer."
+  },
+  {
+    "objectID": "learning-path.html#from-information-exposure-to-epistemic-agency",
+    "href": "learning-path.html#from-information-exposure-to-epistemic-agency",
+    "title": "Learning Path",
+    "section": "",
+    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\nWeeks 1–3\n\nsource evaluation and information seeking;\nranking, recommendation, filter bubbles, and computational propaganda;\nwhat is and is not AI.\n\n\n\n\nWeeks 4–6\n\nhow LLMs work conceptually;\ncapability boundaries and skill boosting;\nalgorithmic decision-making, bias, and fairness.\n\n\n\n\nNo conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.\n\n\n\nWeeks 8–11\n\nprompt design;\ncontext management;\nhallucination and verification;\nacademic integrity and AI-use judgment.\n\n\n\n\nWeeks 12–14\n\ncontext-specific AI guidelines;\nprofessional accountability;\nfinal project design freeze;\nTRACE review and transfer."
+  },
+  {
+    "objectID": "learning-path.html#skills-you-are-building",
+    "href": "learning-path.html#skills-you-are-building",
+    "title": "Learning Path",
+    "section": "Skills you are building",
+    "text": "Skills you are building\nSEEK · PROMPT · PROBE · CONTEXT · VERIFY · JUDGE · TRANSFER"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Teyit — Methodology\nTED / Damon Brown — How to choose your news"
+  },
+  {
+    "objectID": "resources.html#week-1-information-and-verification",
+    "href": "resources.html#week-1-information-and-verification",
+    "title": "Resources",
+    "section": "",
+    "text": "Teyit — Methodology\nTED / Damon Brown — How to choose your news"
+  },
+  {
+    "objectID": "resources.html#next-on-dsa261-week-2",
+    "href": "resources.html#next-on-dsa261-week-2",
+    "title": "Resources",
+    "section": "Next on DSA261 — Week 2",
+    "text": "Next on DSA261 — Week 2\n\nTED / Eli Pariser — Beware online filter bubbles\nICO — Cambridge Analytica raids\nOxford Internet Institute — Computational Propaganda"
+  },
+  {
+    "objectID": "resources.html#course-principle",
+    "href": "resources.html#course-principle",
+    "title": "Resources",
+    "section": "Course principle",
+    "text": "Course principle\nThese resources are starting points. In TRACE activities, you will often be required to move beyond the assigned page and inspect original or independent evidence."
+  }
+]

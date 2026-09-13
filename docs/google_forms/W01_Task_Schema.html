@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>w01_task_schema – DSA261 — Algorithmic Learning and AI</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-172ba59bd5e0b52282274ba0c0cc16fc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+<link rel="stylesheet" href="../assets/styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">DSA261 — Algorithmic Learning and AI</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../course-guide.html"> 
+<span class="menu-text">Course Guide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../learning-path.html"> 
+<span class="menu-text">Learning Path</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../weeks/week01.html"> 
+<span class="menu-text">Weekly Labs</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../portfolio.html"> 
+<span class="menu-text">Portfolio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../ai-policy.html"> 
+<span class="menu-text">AI Use Policy</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../resources.html"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#dsa261-week-01-after-class-task" id="toc-dsa261-week-01-after-class-task" class="nav-link active" data-scroll-target="#dsa261-week-01-after-class-task">DSA261 — Week 01 After-Class Task</a>
+  <ul class="collapse">
+  <li><a href="#form-title" id="toc-form-title" class="nav-link" data-scroll-target="#form-title">Form title</a></li>
+  <li><a href="#student-facing-description" id="toc-student-facing-description" class="nav-link" data-scroll-target="#student-facing-description">Student-facing description</a></li>
+  <li><a href="#recommended-google-forms-settings" id="toc-recommended-google-forms-settings" class="nav-link" data-scroll-target="#recommended-google-forms-settings">Recommended Google Forms settings</a>
+  <ul class="collapse">
+  <li><a href="#instructor-status-field-outside-the-student-form" id="toc-instructor-status-field-outside-the-student-form" class="nav-link" data-scroll-target="#instructor-status-field-outside-the-student-form">Instructor status field outside the student form</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#section-0-identity-and-provenance" id="toc-section-0-identity-and-provenance" class="nav-link" data-scroll-target="#section-0-identity-and-provenance">Section 0 — Identity and provenance</a>
+  <ul class="collapse">
+  <li><a href="#q1-student-id" id="toc-q1-student-id" class="nav-link" data-scroll-target="#q1-student-id">Q1 — Student ID</a></li>
+  <li><a href="#q2-where-did-you-personally-encounter-the-claim" id="toc-q2-where-did-you-personally-encounter-the-claim" class="nav-link" data-scroll-target="#q2-where-did-you-personally-encounter-the-claim">Q2 — Where did you personally encounter the claim?</a></li>
+  <li><a href="#q3-original-claim-url" id="toc-q3-original-claim-url" class="nav-link" data-scroll-target="#q3-original-claim-url">Q3 — Original claim URL</a></li>
+  <li><a href="#q4-original-artifact-screenshot" id="toc-q4-original-artifact-screenshot" class="nav-link" data-scroll-target="#q4-original-artifact-screenshot">Q4 — Original artifact / screenshot</a></li>
+  </ul></li>
+  <li><a href="#section-1-predict" id="toc-section-1-predict" class="nav-link" data-scroll-target="#section-1-predict">Section 1 — Predict</a>
+  <ul class="collapse">
+  <li><a href="#q5-state-the-claim-in-one-precise-sentence." id="toc-q5-state-the-claim-in-one-precise-sentence." class="nav-link" data-scroll-target="#q5-state-the-claim-in-one-precise-sentence.">Q5 — State the claim in one precise sentence.</a></li>
+  <li><a href="#q6-initial-confidence" id="toc-q6-initial-confidence" class="nav-link" data-scroll-target="#q6-initial-confidence">Q6 — Initial confidence</a></li>
+  <li><a href="#q7-what-was-the-strongest-signal-behind-your-initial-judgment" id="toc-q7-what-was-the-strongest-signal-behind-your-initial-judgment" class="nav-link" data-scroll-target="#q7-what-was-the-strongest-signal-behind-your-initial-judgment">Q7 — What was the strongest signal behind your initial judgment?</a></li>
+  </ul></li>
+  <li><a href="#section-2-probe-search-trail" id="toc-section-2-probe-search-trail" class="nav-link" data-scroll-target="#section-2-probe-search-trail">Section 2 — Probe: search trail</a>
+  <ul class="collapse">
+  <li><a href="#q8-query-a-exact-phrase-or-wording-search" id="toc-q8-query-a-exact-phrase-or-wording-search" class="nav-link" data-scroll-target="#q8-query-a-exact-phrase-or-wording-search">Q8 — Query A: exact-phrase or wording search</a></li>
+  <li><a href="#q9-query-b-source-oriented-search" id="toc-q9-query-b-source-oriented-search" class="nav-link" data-scroll-target="#q9-query-b-source-oriented-search">Q9 — Query B: source-oriented search</a></li>
+  <li><a href="#q10-query-c-evidence-oriented-search" id="toc-q10-query-c-evidence-oriented-search" class="nav-link" data-scroll-target="#q10-query-c-evidence-oriented-search">Q10 — Query C: evidence-oriented search</a></li>
+  <li><a href="#q11-which-query-was-most-useful-and-why" id="toc-q11-which-query-was-most-useful-and-why" class="nav-link" data-scroll-target="#q11-which-query-was-most-useful-and-why">Q11 — Which query was most useful, and why?</a></li>
+  <li><a href="#q12-identify-one-search-result-you-rejected." id="toc-q12-identify-one-search-result-you-rejected." class="nav-link" data-scroll-target="#q12-identify-one-search-result-you-rejected.">Q12 — Identify one search result you rejected.</a></li>
+  </ul></li>
+  <li><a href="#section-3-encounter-and-trace-the-source" id="toc-section-3-encounter-and-trace-the-source" class="nav-link" data-scroll-target="#section-3-encounter-and-trace-the-source">Section 3 — Encounter and trace the source</a>
+  <ul class="collapse">
+  <li><a href="#q13-what-is-the-earliestoriginal-source-you-could-identify" id="toc-q13-what-is-the-earliestoriginal-source-you-could-identify" class="nav-link" data-scroll-target="#q13-what-is-the-earliestoriginal-source-you-could-identify">Q13 — What is the earliest/original source you could identify?</a></li>
+  <li><a href="#q14-is-this-source-the-same-as-the-pageaccount-where-you-first-encountered-the-claim" id="toc-q14-is-this-source-the-same-as-the-pageaccount-where-you-first-encountered-the-claim" class="nav-link" data-scroll-target="#q14-is-this-source-the-same-as-the-pageaccount-where-you-first-encountered-the-claim">Q14 — Is this source the same as the page/account where you first encountered the claim?</a></li>
+  <li><a href="#q15-provide-your-strongest-independent-verification-source." id="toc-q15-provide-your-strongest-independent-verification-source." class="nav-link" data-scroll-target="#q15-provide-your-strongest-independent-verification-source.">Q15 — Provide your strongest independent verification source.</a></li>
+  </ul></li>
+  <li><a href="#section-4-decide-and-verify" id="toc-section-4-decide-and-verify" class="nav-link" data-scroll-target="#section-4-decide-and-verify">Section 4 — Decide and verify</a>
+  <ul class="collapse">
+  <li><a href="#q16-final-verdict" id="toc-q16-final-verdict" class="nav-link" data-scroll-target="#q16-final-verdict">Q16 — Final verdict</a></li>
+  <li><a href="#q17-defend-your-verdict-using-the-strongest-available-evidence." id="toc-q17-defend-your-verdict-using-the-strongest-available-evidence." class="nav-link" data-scroll-target="#q17-defend-your-verdict-using-the-strongest-available-evidence.">Q17 — Defend your verdict using the strongest available evidence.</a></li>
+  <li><a href="#q18-final-confidence" id="toc-q18-final-confidence" class="nav-link" data-scroll-target="#q18-final-confidence">Q18 — Final confidence</a></li>
+  <li><a href="#q19-what-changed-your-confidence-the-most" id="toc-q19-what-changed-your-confidence-the-most" class="nav-link" data-scroll-target="#q19-what-changed-your-confidence-the-most">Q19 — What changed your confidence the most?</a></li>
+  </ul></li>
+  <li><a href="#section-5-ai-use-and-epistemic-agency" id="toc-section-5-ai-use-and-epistemic-agency" class="nav-link" data-scroll-target="#section-5-ai-use-and-epistemic-agency">Section 5 — AI use and epistemic agency</a>
+  <ul class="collapse">
+  <li><a href="#q20-did-you-use-an-aillm-tool-for-this-task" id="toc-q20-did-you-use-an-aillm-tool-for-this-task" class="nav-link" data-scroll-target="#q20-did-you-use-an-aillm-tool-for-this-task">Q20 — Did you use an AI/LLM tool for this Task?</a></li>
+  <li><a href="#q21-which-ai-tools-did-you-use-and-for-what-purpose" id="toc-q21-which-ai-tools-did-you-use-and-for-what-purpose" class="nav-link" data-scroll-target="#q21-which-ai-tools-did-you-use-and-for-what-purpose">Q21 — Which AI tool(s) did you use and for what purpose?</a></li>
+  <li><a href="#q22-paste-the-most-consequential-promptquery-you-gave-the-ai." id="toc-q22-paste-the-most-consequential-promptquery-you-gave-the-ai." class="nav-link" data-scroll-target="#q22-paste-the-most-consequential-promptquery-you-gave-the-ai.">Q22 — Paste the most consequential prompt/query you gave the AI.</a></li>
+  <li><a href="#q23-what-part-of-the-final-judgment-could-the-ai-not-decide-for-you" id="toc-q23-what-part-of-the-final-judgment-could-the-ai-not-decide-for-you" class="nav-link" data-scroll-target="#q23-what-part-of-the-final-judgment-could-the-ai-not-decide-for-you">Q23 — What part of the final judgment could the AI <strong>not</strong> decide for you?</a></li>
+  <li><a href="#q24-what-will-you-do-differently-the-next-time-you-encounter-a-questionable-claim-online" id="toc-q24-what-will-you-do-differently-the-next-time-you-encounter-a-questionable-claim-online" class="nav-link" data-scroll-target="#q24-what-will-you-do-differently-the-next-time-you-encounter-a-questionable-claim-online">Q24 — What will you do differently the next time you encounter a questionable claim online?</a></li>
+  <li><a href="#instructor-completion-criteria" id="toc-instructor-completion-criteria" class="nav-link" data-scroll-target="#instructor-completion-criteria">Instructor completion criteria</a>
+  <ul class="collapse">
+  <li><a href="#complete" id="toc-complete" class="nav-link" data-scroll-target="#complete">COMPLETE</a></li>
+  <li><a href="#revise" id="toc-revise" class="nav-link" data-scroll-target="#revise">REVISE</a></li>
+  <li><a href="#missing" id="toc-missing" class="nav-link" data-scroll-target="#missing">MISSING</a></li>
+  </ul></li>
+  <li><a href="#confirmation-message" id="toc-confirmation-message" class="nav-link" data-scroll-target="#confirmation-message">Confirmation message</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<section id="dsa261-week-01-after-class-task" class="level1">
+<h1>DSA261 — Week 01 After-Class Task</h1>
+<section id="form-title" class="level2">
+<h2 class="anchored" data-anchor-id="form-title">Form title</h2>
+<p><strong>DSA261 — Task 01: Source Trace</strong></p>
+</section>
+<section id="student-facing-description" class="level2">
+<h2 class="anchored" data-anchor-id="student-facing-description">Student-facing description</h2>
+<p>Choose one verifiable digital claim that you <strong>personally encountered during the last seven days</strong>. Reconstruct how you moved from first impression to a defensible judgment.</p>
+<p>AI use is permitted for planning, query generation, translation, or similar support. <strong>AI output is not independent verification evidence.</strong></p>
+<hr>
+</section>
+<section id="recommended-google-forms-settings" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-google-forms-settings">Recommended Google Forms settings</h2>
+<ul>
+<li>Collect email addresses: <strong>ON</strong></li>
+<li>Limit to one response: <strong>ON</strong> if institutional accounts permit</li>
+<li>Edit after submit: <strong>ON until the deadline</strong> (recommended)</li>
+<li>Send response copy: <strong>Always</strong></li>
+<li>File upload: <strong>Optional</strong>, depending on university Google Workspace policy</li>
+<li>Destination: Link responses to a Sheet named <code>DSA261_TRACE_Evidence</code></li>
+</ul>
+<section id="instructor-status-field-outside-the-student-form" class="level3">
+<h3 class="anchored" data-anchor-id="instructor-status-field-outside-the-student-form">Instructor status field outside the student form</h3>
+<p>Recommended feedback status in the response Sheet:</p>
+<ul>
+<li><code>COMPLETE</code></li>
+<li><code>REVISE</code></li>
+<li><code>MISSING</code></li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="section-0-identity-and-provenance" class="level1">
+<h1>Section 0 — Identity and provenance</h1>
+<section id="q1-student-id" class="level3">
+<h3 class="anchored" data-anchor-id="q1-student-id">Q1 — Student ID</h3>
+<ul>
+<li><strong>Type:</strong> Short answer</li>
+<li><strong>Required:</strong> Yes</li>
+</ul>
+</section>
+<section id="q2-where-did-you-personally-encounter-the-claim" class="level3">
+<h3 class="anchored" data-anchor-id="q2-where-did-you-personally-encounter-the-claim">Q2 — Where did you personally encounter the claim?</h3>
+<ul>
+<li><strong>Type:</strong> Multiple choice</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Options:</strong>
+<ul>
+<li>Social media feed</li>
+<li>Messaging group / direct message</li>
+<li>News website</li>
+<li>Search result</li>
+<li>Video platform</li>
+<li>LLM / AI tool</li>
+<li>Other</li>
+</ul></li>
+</ul>
+</section>
+<section id="q3-original-claim-url" class="level3">
+<h3 class="anchored" data-anchor-id="q3-original-claim-url">Q3 — Original claim URL</h3>
+<ul>
+<li><strong>Type:</strong> Short answer</li>
+<li><strong>Required:</strong> Yes when a URL exists</li>
+<li><strong>Validation:</strong> URL</li>
+<li><strong>Instruction:</strong> If there is no stable URL, write <code>NO URL</code> and provide a screenshot/Drive link in Q4.</li>
+</ul>
+</section>
+<section id="q4-original-artifact-screenshot" class="level3">
+<h3 class="anchored" data-anchor-id="q4-original-artifact-screenshot">Q4 — Original artifact / screenshot</h3>
+<ul>
+<li><strong>Type:</strong> File upload <strong>or</strong>, if file upload is unavailable, Short answer for a Drive link</li>
+<li><strong>Required:</strong> Conditional</li>
+<li><strong>Purpose:</strong> Establish that this is an authentic claim the student encountered, not a generic topic generated for the assignment.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="section-1-predict" class="level1">
+<h1>Section 1 — Predict</h1>
+<section id="q5-state-the-claim-in-one-precise-sentence." class="level3">
+<h3 class="anchored" data-anchor-id="q5-state-the-claim-in-one-precise-sentence.">Q5 — State the claim in one precise sentence.</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Instruction:</strong> Separate the testable claim from commentary, emotion, or opinion.</li>
+<li><strong>Suggested limit:</strong> 60 words</li>
+</ul>
+</section>
+<section id="q6-initial-confidence" class="level3">
+<h3 class="anchored" data-anchor-id="q6-initial-confidence">Q6 — Initial confidence</h3>
+<ul>
+<li><strong>Type:</strong> Dropdown</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Options:</strong> 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100</li>
+<li><strong>Prompt:</strong> Before doing your verification search, how likely did you think the claim was to be correct?</li>
+</ul>
+</section>
+<section id="q7-what-was-the-strongest-signal-behind-your-initial-judgment" class="level3">
+<h3 class="anchored" data-anchor-id="q7-what-was-the-strongest-signal-behind-your-initial-judgment">Q7 — What was the strongest signal behind your initial judgment?</h3>
+<ul>
+<li><strong>Type:</strong> Multiple choice + Other</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Options:</strong>
+<ul>
+<li>Source/reputation</li>
+<li>Number of shares/likes</li>
+<li>Familiarity with the topic</li>
+<li>Presence of a photo/video</li>
+<li>Presence of a statistic</li>
+<li>Presence of a citation/link</li>
+<li>Agreement with what I already believed</li>
+<li>Professional language/tone</li>
+<li>Recommendation from someone I trust</li>
+<li>Other</li>
+</ul></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="section-2-probe-search-trail" class="level1">
+<h1>Section 2 — Probe: search trail</h1>
+<section id="q8-query-a-exact-phrase-or-wording-search" class="level3">
+<h3 class="anchored" data-anchor-id="q8-query-a-exact-phrase-or-wording-search">Q8 — Query A: exact-phrase or wording search</h3>
+<ul>
+<li><strong>Type:</strong> Short answer</li>
+<li><strong>Required:</strong> Yes</li>
+</ul>
+</section>
+<section id="q9-query-b-source-oriented-search" class="level3">
+<h3 class="anchored" data-anchor-id="q9-query-b-source-oriented-search">Q9 — Query B: source-oriented search</h3>
+<ul>
+<li><strong>Type:</strong> Short answer</li>
+<li><strong>Required:</strong> Yes</li>
+</ul>
+</section>
+<section id="q10-query-c-evidence-oriented-search" class="level3">
+<h3 class="anchored" data-anchor-id="q10-query-c-evidence-oriented-search">Q10 — Query C: evidence-oriented search</h3>
+<ul>
+<li><strong>Type:</strong> Short answer</li>
+<li><strong>Required:</strong> Yes</li>
+</ul>
+</section>
+<section id="q11-which-query-was-most-useful-and-why" class="level3">
+<h3 class="anchored" data-anchor-id="q11-which-query-was-most-useful-and-why">Q11 — Which query was most useful, and why?</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Suggested limit:</strong> 100 words</li>
+</ul>
+</section>
+<section id="q12-identify-one-search-result-you-rejected." class="level3">
+<h3 class="anchored" data-anchor-id="q12-identify-one-search-result-you-rejected.">Q12 — Identify one search result you rejected.</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Prompt:</strong> Give the URL/title and explain why it did <strong>not</strong> count as strong evidence.</li>
+<li><strong>Suggested limit:</strong> 120 words</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="section-3-encounter-and-trace-the-source" class="level1">
+<h1>Section 3 — Encounter and trace the source</h1>
+<section id="q13-what-is-the-earliestoriginal-source-you-could-identify" class="level3">
+<h3 class="anchored" data-anchor-id="q13-what-is-the-earliestoriginal-source-you-could-identify">Q13 — What is the earliest/original source you could identify?</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Prompt:</strong> Provide title/organisation/author/date/URL where available. If you could not identify an origin, explain what prevented you from doing so.</li>
+</ul>
+</section>
+<section id="q14-is-this-source-the-same-as-the-pageaccount-where-you-first-encountered-the-claim" class="level3">
+<h3 class="anchored" data-anchor-id="q14-is-this-source-the-same-as-the-pageaccount-where-you-first-encountered-the-claim">Q14 — Is this source the same as the page/account where you first encountered the claim?</h3>
+<ul>
+<li><strong>Type:</strong> Multiple choice</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Options:</strong> Yes / No / Could not determine</li>
+</ul>
+</section>
+<section id="q15-provide-your-strongest-independent-verification-source." class="level3">
+<h3 class="anchored" data-anchor-id="q15-provide-your-strongest-independent-verification-source.">Q15 — Provide your strongest independent verification source.</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Prompt:</strong> Give full identification + URL and explain in one sentence why it is independent from the original claim source.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="section-4-decide-and-verify" class="level1">
+<h1>Section 4 — Decide and verify</h1>
+<section id="q16-final-verdict" class="level3">
+<h3 class="anchored" data-anchor-id="q16-final-verdict">Q16 — Final verdict</h3>
+<ul>
+<li><strong>Type:</strong> Multiple choice</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Options:</strong>
+<ul>
+<li>Supported</li>
+<li>Contradicted</li>
+<li>Unsupported</li>
+<li>Missing context</li>
+<li>Unresolved</li>
+</ul></li>
+</ul>
+</section>
+<section id="q17-defend-your-verdict-using-the-strongest-available-evidence." class="level3">
+<h3 class="anchored" data-anchor-id="q17-defend-your-verdict-using-the-strongest-available-evidence.">Q17 — Defend your verdict using the strongest available evidence.</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Suggested limit:</strong> 150 words</li>
+</ul>
+</section>
+<section id="q18-final-confidence" class="level3">
+<h3 class="anchored" data-anchor-id="q18-final-confidence">Q18 — Final confidence</h3>
+<ul>
+<li><strong>Type:</strong> Dropdown</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Options:</strong> 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100</li>
+</ul>
+</section>
+<section id="q19-what-changed-your-confidence-the-most" class="level3">
+<h3 class="anchored" data-anchor-id="q19-what-changed-your-confidence-the-most">Q19 — What changed your confidence the most?</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Suggested limit:</strong> 80 words</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="section-5-ai-use-and-epistemic-agency" class="level1">
+<h1>Section 5 — AI use and epistemic agency</h1>
+<section id="q20-did-you-use-an-aillm-tool-for-this-task" class="level3">
+<h3 class="anchored" data-anchor-id="q20-did-you-use-an-aillm-tool-for-this-task">Q20 — Did you use an AI/LLM tool for this Task?</h3>
+<ul>
+<li><strong>Type:</strong> Multiple choice</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Options:</strong> Yes / No</li>
+</ul>
+</section>
+<section id="q21-which-ai-tools-did-you-use-and-for-what-purpose" class="level3">
+<h3 class="anchored" data-anchor-id="q21-which-ai-tools-did-you-use-and-for-what-purpose">Q21 — Which AI tool(s) did you use and for what purpose?</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required when Q20 = Yes</strong></li>
+</ul>
+</section>
+<section id="q22-paste-the-most-consequential-promptquery-you-gave-the-ai." class="level3">
+<h3 class="anchored" data-anchor-id="q22-paste-the-most-consequential-promptquery-you-gave-the-ai.">Q22 — Paste the most consequential prompt/query you gave the AI.</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required when Q20 = Yes</strong></li>
+</ul>
+</section>
+<section id="q23-what-part-of-the-final-judgment-could-the-ai-not-decide-for-you" class="level3">
+<h3 class="anchored" data-anchor-id="q23-what-part-of-the-final-judgment-could-the-ai-not-decide-for-you">Q23 — What part of the final judgment could the AI <strong>not</strong> decide for you?</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required when Q20 = Yes</strong></li>
+<li><strong>Suggested limit:</strong> 100 words</li>
+</ul>
+</section>
+<section id="q24-what-will-you-do-differently-the-next-time-you-encounter-a-questionable-claim-online" class="level3">
+<h3 class="anchored" data-anchor-id="q24-what-will-you-do-differently-the-next-time-you-encounter-a-questionable-claim-online">Q24 — What will you do differently the next time you encounter a questionable claim online?</h3>
+<ul>
+<li><strong>Type:</strong> Paragraph</li>
+<li><strong>Required:</strong> Yes</li>
+<li><strong>Suggested limit:</strong> 60 words</li>
+</ul>
+<hr>
+</section>
+<section id="instructor-completion-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="instructor-completion-criteria">Instructor completion criteria</h2>
+<section id="complete" class="level3">
+<h3 class="anchored" data-anchor-id="complete">COMPLETE</h3>
+<ul>
+<li>Authentic original artifact is identifiable.</li>
+<li>Three meaningfully different queries are shown.</li>
+<li>Student distinguishes original/repeated source from independent evidence.</li>
+<li>At least one rejected result is justified.</li>
+<li>Verdict follows from evidence.</li>
+<li>Initial and final confidence are both present.</li>
+<li>AI use, if any, is transparent and is not treated as evidence.</li>
+</ul>
+</section>
+<section id="revise" class="level3">
+<h3 class="anchored" data-anchor-id="revise">REVISE</h3>
+<p>Typical triggers: - all three queries are superficial variants; - “independent” evidence merely repeats the same source; - verdict is stronger than available evidence; - missing provenance/search trail; - AI answer used as factual verification.</p>
+</section>
+<section id="missing" class="level3">
+<h3 class="anchored" data-anchor-id="missing">MISSING</h3>
+<ul>
+<li>No authentic claim/artifact;</li>
+<li>no traceable search process;</li>
+<li>only opinion or generated prose submitted;</li>
+<li>evidence links absent without explanation.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="confirmation-message" class="level2">
+<h2 class="anchored" data-anchor-id="confirmation-message">Confirmation message</h2>
+<p><strong>Task 01 submitted.</strong> Your goal was not to guess correctly at the beginning. Your goal was to leave a reconstructable trail showing how evidence changed—or justified not changing—your judgment.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>DSA261 · TRACE course</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Predict · Encounter · Probe · Explain · Decide · Verify</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

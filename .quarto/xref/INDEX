@@ -1,0 +1,32 @@
+{
+  "ai-policy.qmd": {
+    "ai-policy.html": "502d1615"
+  },
+  "course-guide.qmd": {
+    "course-guide.html": "aaf5359b"
+  },
+  "google_forms/W01_Form_Setup_Checklist.md": {
+    "W01_Form_Setup_Checklist.html": "21ac0c4a"
+  },
+  "google_forms/W01_Quiz_Schema.md": {
+    "W01_Quiz_Schema.html": "347585f8"
+  },
+  "google_forms/W01_Task_Schema.md": {
+    "W01_Task_Schema.html": "63e2f4cb"
+  },
+  "index.qmd": {
+    "index.html": "902e7396"
+  },
+  "learning-path.qmd": {
+    "learning-path.html": "49ae6857"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "1e518bc1"
+  },
+  "resources.qmd": {
+    "resources.html": "dffafaca"
+  },
+  "weeks/week01.qmd": {
+    "week01.html": "6817ddb9"
+  }
+}
