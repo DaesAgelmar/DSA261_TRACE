@@ -1551,21 +1551,63 @@
     "href": "learning-path.html",
     "title": "Learning Path",
     "section": "",
-    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\nWeeks 1–3\nSource evaluation, ranking and recommendation, computational propaganda, and AI claim auditing.\n\n\n\nWeeks 4–6\nLLM mechanics, capability boundaries, skill boosting, algorithmic decision-making, bias, and fairness.\n\n\n\nAn original evidence-based investigation integrating Weeks 1–6.\n\n\n\nWeeks 8–11\n\nWeek 8 — Prompt Design Studio\nWeek 9 — Context Drift\nWeek 10 — Hallucination Hunt\nWeek 11 — Academic Integrity and AI-Use Judgment\n\n\n\n\nWeeks 12–14\n\nWeek 12 — Context-Specific AI Guidelines\nWeek 13 — Professional Accountability and Design Freeze\nWeek 14 — TRACE Transfer and Final Readiness\n\n\n\n\nOpen the TRACE Final Project"
+    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\nThe course develops through four phases:\n\nKnow → Understand → Use → Govern\n\nTRACE provides the recurring working method:\n\nPredict → Encounter → Probe → Explain → Decide → Verify"
   },
   {
     "objectID": "learning-path.html#from-information-exposure-to-epistemic-agency",
     "href": "learning-path.html#from-information-exposure-to-epistemic-agency",
     "title": "Learning Path",
     "section": "",
-    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\nWeeks 1–3\nSource evaluation, ranking and recommendation, computational propaganda, and AI claim auditing.\n\n\n\nWeeks 4–6\nLLM mechanics, capability boundaries, skill boosting, algorithmic decision-making, bias, and fairness.\n\n\n\nAn original evidence-based investigation integrating Weeks 1–6.\n\n\n\nWeeks 8–11\n\nWeek 8 — Prompt Design Studio\nWeek 9 — Context Drift\nWeek 10 — Hallucination Hunt\nWeek 11 — Academic Integrity and AI-Use Judgment\n\n\n\n\nWeeks 12–14\n\nWeek 12 — Context-Specific AI Guidelines\nWeek 13 — Professional Accountability and Design Freeze\nWeek 14 — TRACE Transfer and Final Readiness\n\n\n\n\nOpen the TRACE Final Project"
+    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\nThe course develops through four phases:\n\nKnow → Understand → Use → Govern\n\nTRACE provides the recurring working method:\n\nPredict → Encounter → Probe → Explain → Decide → Verify"
+  },
+  {
+    "objectID": "learning-path.html#phase-i-know-search-question",
+    "href": "learning-path.html#phase-i-know-search-question",
+    "title": "Learning Path",
+    "section": "Phase I — Know, Search, Question",
+    "text": "Phase I — Know, Search, Question\nWeeks 1–3\nThe first phase develops information literacy and epistemic discipline before moving deeper into AI systems.\n\nWeek 1 — How Do You Know?\nInformation seeking, source tracing, verification, and confidence calibration.\nWeek 2 — Who Decides What You See?\nRanking, recommendation, targeting, computational propaganda, and the distinction between exposure and effect.\nWeek 3 — Is This AI?\nAutomation, machine learning, predictive AI, generative AI, and AI claim auditing."
+  },
+  {
+    "objectID": "learning-path.html#phase-ii-understand-and-stress-test-ai",
+    "href": "learning-path.html#phase-ii-understand-and-stress-test-ai",
+    "title": "Learning Path",
+    "section": "Phase II — Understand and Stress-Test AI",
+    "text": "Phase II — Understand and Stress-Test AI\nWeeks 4–6\nThe second phase moves from identifying AI systems to understanding and testing their behaviour.\n\nWeek 4 — What Does an LLM Actually Do?\nTokens, prediction, attention, context, generation, retrieval, and controlled variation.\nWeek 5 — Can AI Make You Better?\nCapability boundaries, benchmark interpretation, skill boosting, and verification cost.\nWeek 6 — When Algorithms Decide About People\nRisk scores, false positives, false negatives, fairness metrics, and counterfactual probing."
+  },
+  {
+    "objectID": "learning-path.html#week-7-trace-midterm-challenge",
+    "href": "learning-path.html#week-7-trace-midterm-challenge",
+    "title": "Learning Path",
+    "section": "Week 7 — TRACE Midterm Challenge",
+    "text": "Week 7 — TRACE Midterm Challenge\nThe midterm integrates the first six weeks into one reconstructable investigation.\n\nWeek 7 — TRACE Midterm Challenge\n\nThe assessment focuses on:\n\nprovenance;\nsearch and interaction trails;\nmeaningful probes;\nevidence quality;\nverification;\ninference discipline;\nhuman judgment;\ntransparent AI use."
+  },
+  {
+    "objectID": "learning-path.html#phase-iii-use-control-verify",
+    "href": "learning-path.html#phase-iii-use-control-verify",
+    "title": "Learning Path",
+    "section": "Phase III — Use, Control, Verify",
+    "text": "Phase III — Use, Control, Verify\nWeeks 8–11\nThe third phase develops increasingly deliberate control over LLM-assisted work.\n\nWeek 8 — Prompt Design Studio\nTask specification, context, constraints, evidence requirements, and iterative prompting.\nWeek 9 — Context Drift\nContext-window capacity, context utilisation, irrelevant and conflicting context, and strategic resets.\nWeek 10 — Hallucination Hunt\nFabricated citations, unsupported claims, source distortion, and independent verification.\nWeek 11 — Academic Integrity and AI-Use Judgment\nAI-use boundaries, assessment validity, disclosure, and the Use–Modify–Disclose–Reject framework."
+  },
+  {
+    "objectID": "learning-path.html#phase-iv-govern-and-transfer",
+    "href": "learning-path.html#phase-iv-govern-and-transfer",
+    "title": "Learning Path",
+    "section": "Phase IV — Govern and Transfer",
+    "text": "Phase IV — Govern and Transfer\nWeeks 12–14\nThe final phase shifts from competent use toward governance, accountability, and transfer.\n\nWeek 12 — Context-Specific AI Guidelines\nRisk profiles, professional rules, verification thresholds, and Final Project Gate 1.\nWeek 13 — Professional Accountability and Design Freeze\nHuman oversight, automation bias, decision rights, stop conditions, and Final Project Gate 2.\nWeek 14 — TRACE Transfer and Final Readiness\nTransfer to unfamiliar problems, evidence auditing, and final readiness."
+  },
+  {
+    "objectID": "learning-path.html#final-project",
+    "href": "learning-path.html#final-project",
+    "title": "Learning Path",
+    "section": "Final Project",
+    "text": "Final Project\nThe course concludes with three authentic discipline-specific tasks and a comparative analysis of AI-assisted work.\n\nOpen the TRACE Final Project\n\nThe Final Project asks you to demonstrate:\n\neffective task specification;\nmeaningful probing;\ncontext control;\nindependent verification;\ndocumented failure or limitation;\nexplicit human judgment;\ntransfer across different tasks;\na Personal AI/LLM Use Charter."
   },
   {
     "objectID": "learning-path.html#skills-you-are-building",
     "href": "learning-path.html#skills-you-are-building",
     "title": "Learning Path",
     "section": "Skills you are building",
-    "text": "Skills you are building\nSEEK · PROMPT · PROBE · CONTEXT · VERIFY · JUDGE · TRANSFER"
+    "text": "Skills you are building\nSEEK · PROMPT · PROBE · CONTEXT · VERIFY · JUDGE · TRANSFER\nThese capacities accumulate across the course rather than belonging to only one week."
   },
   {
     "objectID": "resources.html",
