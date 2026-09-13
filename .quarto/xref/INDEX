@@ -1,89 +1,158 @@
 {
   "ai-policy.qmd": {
-    "ai-policy.html": "502d1615"
+    "ai-policy.html": "ea4c3648"
   },
   "course-guide.qmd": {
-    "course-guide.html": "aaf5359b"
+    "course-guide.html": "bd6a48f0"
   },
   "google_forms/W01_Form_Setup_Checklist.md": {
-    "W01_Form_Setup_Checklist.html": "21ac0c4a"
+    "W01_Form_Setup_Checklist.html": "a55d2772"
   },
   "google_forms/W01_Quiz_Schema.md": {
-    "W01_Quiz_Schema.html": "347585f8"
+    "W01_Quiz_Schema.html": "751f7dff"
   },
   "google_forms/W01_Task_Schema.md": {
-    "W01_Task_Schema.html": "63e2f4cb"
-  },
-  "index.qmd": {
-    "index.html": "902e7396"
-  },
-  "learning-path.qmd": {
-    "learning-path.html": "49ae6857"
-  },
-  "portfolio.qmd": {
-    "portfolio.html": "1e518bc1"
-  },
-  "resources.qmd": {
-    "resources.html": "dffafaca"
-  },
-  "weeks/week01.qmd": {
-    "week01.html": "6817ddb9"
+    "W01_Task_Schema.html": "f0867b4c"
   },
   "google_forms/W02_Quiz_Schema.md": {
-    "W02_Quiz_Schema.html": "a6f4f1c1"
+    "W02_Quiz_Schema.html": "f88d6510"
   },
   "google_forms/W02_Task_Schema.md": {
-    "W02_Task_Schema.html": "bac635dd"
+    "W02_Task_Schema.html": "21655111"
   },
   "google_forms/W03_Quiz_Schema.md": {
-    "W03_Quiz_Schema.html": "fff68b97"
+    "W03_Quiz_Schema.html": "3eea20b1"
   },
   "google_forms/W03_Task_Schema.md": {
-    "W03_Task_Schema.html": "474a388f"
+    "W03_Task_Schema.html": "2457ca70"
   },
   "google_forms/W04_Quiz_Schema.md": {
-    "W04_Quiz_Schema.html": "611dddca"
+    "W04_Quiz_Schema.html": "9451f8f6"
   },
   "google_forms/W04_Task_Schema.md": {
-    "W04_Task_Schema.html": "c4fefe05"
+    "W04_Task_Schema.html": "b7f4639f"
   },
   "google_forms/W05_Quiz_Schema.md": {
-    "W05_Quiz_Schema.html": "18c6fd2d"
+    "W05_Quiz_Schema.html": "b795be06"
   },
   "google_forms/W05_Task_Schema.md": {
-    "W05_Task_Schema.html": "6cfd6501"
+    "W05_Task_Schema.html": "d1144389"
   },
   "google_forms/W06_Quiz_Schema.md": {
-    "W06_Quiz_Schema.html": "ab431a35"
+    "W06_Quiz_Schema.html": "89db708f"
   },
   "google_forms/W06_Task_Schema.md": {
-    "W06_Task_Schema.html": "4fe3c13c"
+    "W06_Task_Schema.html": "3e440000"
   },
   "google_forms/W07_Midterm_Schema.md": {
-    "W07_Midterm_Schema.html": "35c195b7"
+    "W07_Midterm_Schema.html": "cfeb0549"
   },
   "google_forms/W07_Quiz_Schema.md": {
-    "W07_Quiz_Schema.html": "274e5bac"
+    "W07_Quiz_Schema.html": "9a8bc6fc"
+  },
+  "index.qmd": {
+    "index.html": "ad64a431"
+  },
+  "learning-path.qmd": {
+    "learning-path.html": "4086dddd"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "8d06c561"
+  },
+  "resources.qmd": {
+    "resources.html": "ba88ac6a"
   },
   "weekly-labs.qmd": {
-    "weekly-labs.html": "0fc0ac0a"
+    "weekly-labs.html": "97735108"
+  },
+  "weeks/week01.qmd": {
+    "week01.html": "9648f552"
   },
   "weeks/week02.qmd": {
-    "week02.html": "760d94c7"
+    "week02.html": "0027d287"
   },
   "weeks/week03.qmd": {
-    "week03.html": "3a6de62b"
+    "week03.html": "e368abfb"
   },
   "weeks/week04.qmd": {
-    "week04.html": "325ae043"
+    "week04.html": "e9b8d389"
   },
   "weeks/week05.qmd": {
-    "week05.html": "128de04b"
+    "week05.html": "3abe7b47"
   },
   "weeks/week06.qmd": {
-    "week06.html": "a89ac384"
+    "week06.html": "45c6f061"
   },
   "weeks/week07.qmd": {
-    "week07.html": "69e1e745"
+    "week07.html": "74aab420"
+  },
+  "final-project.qmd": {
+    "final-project.html": "420f60b9"
+  },
+  "google_forms/Final_Project_Submission_Schema.md": {
+    "Final_Project_Submission_Schema.html": "bd10f83e"
+  },
+  "google_forms/W08_Quiz_Schema.md": {
+    "W08_Quiz_Schema.html": "121028cc"
+  },
+  "google_forms/W08_Task_Schema.md": {
+    "W08_Task_Schema.html": "c06179a9"
+  },
+  "google_forms/W09_Quiz_Schema.md": {
+    "W09_Quiz_Schema.html": "acb0ef42"
+  },
+  "google_forms/W09_Task_Schema.md": {
+    "W09_Task_Schema.html": "d05b7a04"
+  },
+  "google_forms/W10_Quiz_Schema.md": {
+    "W10_Quiz_Schema.html": "3a71d082"
+  },
+  "google_forms/W10_Task_Schema.md": {
+    "W10_Task_Schema.html": "a1654894"
+  },
+  "google_forms/W11_Quiz_Schema.md": {
+    "W11_Quiz_Schema.html": "6869703d"
+  },
+  "google_forms/W11_Task_Schema.md": {
+    "W11_Task_Schema.html": "d0b22156"
+  },
+  "google_forms/W12_Quiz_Schema.md": {
+    "W12_Quiz_Schema.html": "5619580c"
+  },
+  "google_forms/W12_Task_Schema.md": {
+    "W12_Task_Schema.html": "8e804d29"
+  },
+  "google_forms/W13_Quiz_Schema.md": {
+    "W13_Quiz_Schema.html": "99361ea5"
+  },
+  "google_forms/W13_Task_Schema.md": {
+    "W13_Task_Schema.html": "9499707f"
+  },
+  "google_forms/W14_Quiz_Schema.md": {
+    "W14_Quiz_Schema.html": "fd4a7e03"
+  },
+  "google_forms/W14_Task_Schema.md": {
+    "W14_Task_Schema.html": "b8c2f775"
+  },
+  "weeks/week08.qmd": {
+    "week08.html": "d736d8f4"
+  },
+  "weeks/week09.qmd": {
+    "week09.html": "fcd81740"
+  },
+  "weeks/week10.qmd": {
+    "week10.html": "6eb00430"
+  },
+  "weeks/week11.qmd": {
+    "week11.html": "c74fb32a"
+  },
+  "weeks/week12.qmd": {
+    "week12.html": "58ac2671"
+  },
+  "weeks/week13.qmd": {
+    "week13.html": "09ef627a"
+  },
+  "weeks/week14.qmd": {
+    "week14.html": "525e5a00"
   }
 }

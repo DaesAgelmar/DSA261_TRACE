@@ -1,0 +1,176 @@
+---
+title: "Week 14 — TRACE Transfer and Final Readiness"
+subtitle: "Stress-testing epistemic agency across unfamiliar tasks"
+week: 14
+phase: "Govern and Transfer"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO1", "CLO2", "CLO3", "CLO4", "CLO5"]
+evidence: [SEEK, PROMPT, PROBE, CONTEXT, VERIFY, JUDGE, TRANSFER]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**Can you use TRACE when the problem is unfamiliar, ambiguous, and not designed to look like a classroom exercise?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. transfer TRACE to unfamiliar information and AI problems;
+2. identify which TRACE step a workflow is missing;
+3. choose an appropriate verification standard from context;
+4. distinguish confidence from evidence quality;
+5. audit your Final Project for missing provenance, probes, verification, and judgment;
+6. state a personal rule for when to use, modify, disclose, reject, or stop AI use.
+
+## Before class
+
+No new external reading.
+
+### REQUIRED REVIEW
+
+Bring:
+
+- your frozen Final Project contract;
+- access to your strongest TRACE artifacts;
+- one recurring weakness in your own process.
+
+### Complete the readiness quiz
+
+[Start Week 14 Pre-Class Quiz]({{< var forms.week14.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — Transfer stations
+
+Students rotate through short unfamiliar cases.
+
+Possible case families:
+
+- a viral claim;
+- a ranked search result;
+- an AI product claim;
+- an LLM answer with citations;
+- an automated decision;
+- a professional AI-use scenario.
+
+For each case, you have limited time.
+
+### Predict
+
+What is the first tempting conclusion?
+
+### Encounter
+
+What evidence is actually available?
+
+### Probe
+
+What single test would most reduce uncertainty?
+
+### Explain
+
+What can and cannot be inferred?
+
+### Decide
+
+What action is justified now?
+
+### Verify
+
+What independent evidence would change the decision?
+
+## Session 2 — Missing-step audit
+
+Each group receives a flawed workflow.
+
+Examples:
+
+- strong prompt, no verification;
+- many sources, no provenance;
+- verified facts, inflated causal claim;
+- clear AI disclosure, no independent work;
+- human approval, no real override authority;
+- huge context, no context control.
+
+Identify the missing TRACE capacity.
+
+### TRACE transfer matrix
+
+Ask whether the same method works across:
+
+- academic work;
+- workplace analysis;
+- public information;
+- high-stakes decisions;
+- everyday AI use.
+
+The details change.
+
+The epistemic discipline should remain recognisable.
+
+## Session 3 — Final Project readiness audit
+
+Audit all three frozen tasks.
+
+### For every task confirm
+
+- provenance captured;
+- authentic task clearly defined;
+- AI role documented;
+- prompts/interactions preserved;
+- at least one meaningful probe;
+- independent verification planned;
+- failure/limitation evidence preserved;
+- final human judgment explicit;
+- AI-use disclosure complete.
+
+### Across all three tasks confirm
+
+- tasks are meaningfully different;
+- comparison criteria are common enough to compare;
+- verification cost can be discussed;
+- one genuine failure case is documented;
+- your Personal AI/LLM Use Charter is evidence-based.
+
+---
+
+# After class
+
+## Task 14 — TRACE Transfer Audit
+
+Submit:
+
+1. one unfamiliar case from today's transfer activity;
+2. the TRACE step that most changed your initial judgment;
+3. one weakness you identified in your own routine;
+4. how you will correct that weakness;
+5. Final Project Task A readiness status;
+6. Final Project Task B readiness status;
+7. Final Project Task C readiness status;
+8. any unresolved evidence or verification gap;
+9. your strongest portfolio artifact and why;
+10. your provisional one-sentence Personal AI/LLM Use Charter;
+11. AI-use disclosure.
+
+[Submit Task 14 — TRACE Transfer Audit]({{< var forms.week14.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`SEEK` · `PROMPT` · `PROBE` · `CONTEXT` · `VERIFY` · `JUDGE` · `TRANSFER`
+
+---
+
+# Final Project
+
+The Final Project is submitted during the official final-assessment period.
+
+[Open Final Project requirements](../final-project.qmd){.btn .btn-outline-primary}
+
+[Submit Final Project]({{< var forms.final_project.submit >}}){.btn .btn-primary}
+
+> **The final product is not three polished AI outputs. It is evidence that you can govern an AI-assisted process.**

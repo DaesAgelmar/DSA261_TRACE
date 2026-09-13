@@ -1,0 +1,235 @@
+---
+title: "Week 8 — Prompt Design Studio"
+subtitle: "From magic words to task specification, constraints, evidence, and iterative control"
+week: 8
+phase: "Use, Control, Verify"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO3", "CLO4"]
+evidence: [PROMPT, PROBE, VERIFY]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**Is a good prompt mainly clever wording, or a well-specified task?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. distinguish prompt decoration from meaningful task specification;
+2. specify task, context, constraints, output criteria, and evidence requirements;
+3. improve a weak prompt through controlled iteration;
+4. request intermediate products and concise rationale without asking for hidden chain-of-thought;
+5. compare outputs using explicit quality criteria rather than preference alone;
+6. identify which prompt improvements transfer across model providers.
+
+## Before class
+
+### REQUIRED READ A — OpenAI
+
+**Prompt engineering best practices for ChatGPT**
+
+[Open the guide]({{< var urls.openai_prompting >}}){.btn .btn-outline-primary}
+
+Focus on:
+
+- clarity and specificity;
+- sufficient context;
+- iterative refinement.
+
+### REQUIRED READ B — Google
+
+**Prompt design strategies**
+
+[Open the guide]({{< var urls.google_prompting >}}){.btn .btn-outline-primary}
+
+Look for principles that are not tied to one model or interface.
+
+### COMPARE — Anthropic
+
+**Prompting best practices**
+
+[Open the guide]({{< var urls.anthropic_prompting >}}){.btn .btn-outline-primary}
+
+You do not need to memorise provider-specific syntax.
+
+Bring **three principles that appear provider-independent**.
+
+### Complete the pre-class quiz
+
+[Start Week 8 Pre-Class Quiz]({{< var forms.week08.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — The weak prompt
+
+### Today's Case
+
+You receive a deliberately weak prompt:
+
+> “Explain this report and tell me what to do.”
+
+### Predict
+
+Before improving it, record:
+
+- what the model will probably assume;
+- what information is missing;
+- which output features are impossible to evaluate.
+
+### Encounter — Prompt anatomy
+
+Build a working structure:
+
+> **Task → Context → Constraints → Evidence → Output → Evaluation**
+
+Not every prompt needs all six parts.
+
+The important question is:
+
+> **Which missing part would materially improve this task?**
+
+### Probe — One change at a time
+
+Run the same task under controlled prompt versions:
+
+**A — Minimal instruction**  
+**B — Clear task + context**  
+**C — Task + context + constraints**  
+**D — Task + context + evidence/output criteria**
+
+Record what changed after each addition.
+
+::: {.callout-warning}
+## No magic-prompt rule
+
+A longer prompt is not automatically a better prompt.
+
+Every added instruction should serve a task requirement.
+:::
+
+## Session 2 — Decomposition without hidden reasoning
+
+### Staged prompting
+
+For a complex task, separate:
+
+1. understand the task;
+2. identify missing information;
+3. produce a plan or intermediate artifact;
+4. produce the requested output;
+5. check the output against criteria.
+
+You may ask for:
+
+- assumptions;
+- a short rationale;
+- a checklist;
+- a comparison table;
+- evidence to inspect;
+- uncertainty or limitations.
+
+Do **not** depend on requests for private or hidden chain-of-thought.
+
+### Pair Challenge — Repair the prompt
+
+Each pair receives a weak prompt from a different domain.
+
+Produce:
+
+- Version 1: minimal repair;
+- Version 2: structured task specification;
+- Version 3: verification-aware prompt.
+
+Compare usefulness, not verbosity.
+
+## Session 3 — Provider-independent prompting
+
+### Cross-provider principle audit
+
+From the three preparation resources, identify principles that survive changes in provider terminology.
+
+Candidate principles may include:
+
+- clarity;
+- context;
+- examples when needed;
+- constraints;
+- output specification;
+- iteration;
+- evaluation.
+
+### Decide
+
+For your task, identify:
+
+- one instruction that clearly improved performance;
+- one instruction that added complexity without value;
+- one aspect that still required human judgment.
+
+### Verify
+
+Check at least one factual or source-based output independently.
+
+---
+
+# After class
+
+## Task 08 — Prompt Reconstruction
+
+Choose one authentic, low-risk task from your discipline.
+
+Start with a deliberately weak prompt and improve it through **three controlled versions**.
+
+Submit:
+
+1. target task;
+2. weak baseline prompt;
+3. Version 1;
+4. Version 2;
+5. Version 3;
+6. what changed between versions;
+7. your output-quality criteria;
+8. evidence showing which version performed better;
+9. one instruction that did not help;
+10. one independently verified element;
+11. AI-use disclosure.
+
+[Submit Task 08 — Prompt Reconstruction]({{< var forms.week08.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`PROMPT` · `PROBE` · `VERIFY`
+
+---
+
+# Next on DSA261 — Week 9
+
+## When more context becomes less useful
+
+### REQUIRED READ — Lost in the Middle
+
+**Liu et al. (2024) — Lost in the Middle: How Language Models Use Long Contexts**
+
+Read the abstract and introduction.
+
+[Open the paper]({{< var urls.lost_in_middle >}}){.btn .btn-outline-primary}
+
+### REQUIRED EXPLORE — Long context
+
+**Google AI for Developers — Long context**
+
+Read:
+
+- “What is a context window?”
+- the FAQ on query placement and unnecessary context.
+
+[Open the guide]({{< var urls.google_long_context >}}){.btn .btn-outline-primary}
+
+Bring one example of a conversation or task where **adding more information could make the task harder rather than easier**.
+
+[Open Week 9 Pre-Class Quiz]({{< var forms.week09.quiz >}}){.btn .btn-primary}

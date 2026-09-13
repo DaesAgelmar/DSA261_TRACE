@@ -1,0 +1,119 @@
+---
+title: "TRACE Final Project"
+subtitle: "Three authentic tasks, one comparative judgment, and a personal AI/LLM use charter"
+---
+
+::: {.callout-important}
+## Weight
+
+**40% of the course grade**
+:::
+
+## Purpose
+
+The Final Project tests whether you can transfer TRACE to authentic work in your own discipline or professional context.
+
+You will complete **three meaningfully different tasks** using AI where appropriate.
+
+The assessment is not based on whether AI produced impressive outputs.
+
+It is based on whether you can:
+
+> **specify → probe → verify → judge → disclose → transfer**
+
+## Project structure
+
+### Task A
+
+One authentic discipline-specific task.
+
+### Task B
+
+A second task that differs meaningfully in purpose, evidence, or risk.
+
+### Task C
+
+A third task that creates a useful contrast with A and B.
+
+All three tasks must pass:
+
+- **Gate 1 — Week 12**
+- **Gate 2 / Design Freeze — Week 13**
+- **Readiness Audit — Week 14**
+
+## Required evidence for each task
+
+For **A, B, and C**, submit:
+
+1. authentic purpose;
+2. task definition;
+3. why AI was or was not appropriate;
+4. model/tool used;
+5. important prompts/interactions;
+6. context supplied;
+7. one meaningful TRACE probe;
+8. independent verification evidence;
+9. one error, failure, limitation, or rejected AI contribution;
+10. final human judgment;
+11. verification cost;
+12. AI-use disclosure.
+
+## Cross-task comparison
+
+Compare A, B, and C using common criteria.
+
+At minimum discuss:
+
+- where AI increased capability;
+- where AI increased verification burden;
+- where prompting mattered;
+- where context mattered;
+- where model output was unreliable;
+- where human judgment could not be delegated;
+- what transferred across all three tasks;
+- what remained context-specific.
+
+## Genuine failure requirement
+
+Your project must preserve at least **one genuine failure case**.
+
+Do not hide or replace it with a cleaner example.
+
+Explain:
+
+- what failed;
+- how you detected it;
+- what risk it created;
+- how the workflow changed afterward.
+
+## Personal AI/LLM Use Charter
+
+Conclude with a one-page charter.
+
+Your charter should state your current rules for:
+
+- when to use AI;
+- when to modify AI output;
+- when to disclose AI use;
+- when to reject AI output;
+- when to verify independently;
+- when to reset context;
+- when to stop or escalate;
+- what responsibility always remains yours.
+
+The charter should emerge from your course evidence, not from generic ethical slogans.
+
+## Submission package
+
+Submit:
+
+- Task A evidence;
+- Task B evidence;
+- Task C evidence;
+- cross-task comparison;
+- genuine failure case;
+- Personal AI/LLM Use Charter;
+- complete AI-use disclosure;
+- evidence packet link if required.
+
+[Submit the Final Project]({{< var forms.final_project.submit >}}){.btn .btn-primary}

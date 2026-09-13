@@ -1,14 +1,13 @@
 ---
 title: "TRACE Portfolio"
+subtitle: "Evidence, not volume"
 ---
-
-## Evidence, not volume
 
 Your portfolio records evidence that your judgment is becoming more precise and independent.
 
 A strong portfolio does not necessarily contain more text. It shows:
 
-> **better searching → better probing → stronger evidence → more precise explanation → better judgment → independent verification**
+> **better searching → better prompting → better probing → stronger evidence → better context control → better judgment → independent verification → transfer**
 
 ## Core evidence codes
 
@@ -19,13 +18,58 @@ A strong portfolio does not necessarily contain more text. It shows:
 | `PROBE` | isolate assumptions, sensitivities, and failure points |
 | `CONTEXT` | manage conversation state and context drift |
 | `VERIFY` | test claims against independent evidence |
-| `JUDGE` | make a defensible use/reject/modify/disclose decision |
+| `JUDGE` | make a defensible use/modify/disclose/reject decision |
 | `TRANSFER` | apply the method to a new problem or discipline |
 
-## Week 1 evidence
+## Weekly evidence map
 
-- `SEEK`
-- `TRACE`
-- `VERIFY`
+| Week | Main artifact | Evidence codes |
+|---|---|---|
+| 1 | Source Trace | `SEEK` `VERIFY` |
+| 2 | Algorithmic Visibility Audit | `SEEK` `PROBE` `JUDGE` |
+| 3 | AI Claim Audit | `PROBE` `JUDGE` `TRANSFER` |
+| 4 | Model Variation Log | `PROBE` `CONTEXT` `VERIFY` |
+| 5 | Personal Skill Boost Test | `PROMPT` `PROBE` `VERIFY` `TRANSFER` |
+| 6 | Counterfactual Fairness Probe | `PROBE` `JUDGE` `VERIFY` |
+| 7 | TRACE Midterm Challenge | integrated evidence |
+| 8 | Prompt Reconstruction | `PROMPT` `PROBE` `VERIFY` |
+| 9 | Context Stress Test | `CONTEXT` `PROBE` `VERIFY` |
+| 10 | Verification Dossier | `SEEK` `PROBE` `VERIFY` `JUDGE` |
+| 11 | AI-Use Boundary Audit | `JUDGE` `VERIFY` `TRANSFER` |
+| 12 | Final Project Gate 1 | `JUDGE` `VERIFY` `TRANSFER` |
+| 13 | Final Project Design Freeze | `JUDGE` `VERIFY` `TRANSFER` |
+| 14 | TRACE Transfer Audit | all seven capacities |
 
-The Week 1 artifact is **Task 01 — Source Trace**.
+## TRACE Skill Portfolio — 30%
+
+Weekly Tasks are primarily formative and receive:
+
+- **COMPLETE**
+- **REVISE**
+- **MISSING**
+
+For the summative portfolio, select **five strong artifacts** from the course.
+
+Together, the five selected artifacts must provide evidence for **all seven evidence codes**.
+
+### Portfolio submission must include
+
+1. five selected artifacts;
+2. an evidence index mapping each TRACE capacity to exact evidence;
+3. one artifact showing meaningful revision after feedback;
+4. one example where your confidence decreased after verification;
+5. one example where AI improved your capability;
+6. one example where AI increased verification cost;
+7. a short transfer reflection.
+
+## Evidence index
+
+Do not write:
+
+> “Task 10 shows VERIFY.”
+
+Write:
+
+> “Task 10, Claim 3: I opened the cited source, found that it did not support the generated claim, rejected the claim, and replaced it with evidence from the original document.”
+
+The portfolio is graded on **observable evidence of capability**, not on self-description alone.

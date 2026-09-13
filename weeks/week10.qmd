@@ -1,0 +1,195 @@
+---
+title: "Week 10 — Hallucination Hunt"
+subtitle: "Fabricated citations, unsupported claims, source distortion, and independent verification"
+week: 10
+phase: "Use, Control, Verify"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO4"]
+evidence: [SEEK, PROBE, VERIFY, JUDGE]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**How can an answer sound credible, contain citations, and still fail as evidence?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. identify several forms of hallucination or unsupported generation;
+2. distinguish a plausible citation from a verified citation;
+3. verify claims by opening and inspecting primary or authoritative sources;
+4. recognise source distortion even when the cited source is real;
+5. explain why confidence and fluency are not reliability measures;
+6. construct a claim-by-claim verification dossier.
+
+## Before class
+
+### REQUIRED READ — Mata v. Avianca
+
+[Open the sanctions order]({{< var urls.mata_avianca_order >}}){.btn .btn-outline-primary}
+
+The court did **not** treat the mere use of AI as inherently improper.
+
+Focus on the professional gatekeeping failure:
+
+- nonexistent authorities were submitted;
+- authenticity problems were raised;
+- the false material was not promptly corrected.
+
+### Complete the pre-class quiz
+
+[Start Week 10 Pre-Class Quiz]({{< var forms.week10.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — Plausibility is not verification
+
+### Today's Case — The convincing citation
+
+You receive an LLM-generated answer containing several citations.
+
+Before searching, classify each citation:
+
+- likely real;
+- suspicious;
+- impossible to judge from appearance.
+
+### Predict
+
+How confident are you that a realistic journal title, DOI, court citation, or author list is genuine?
+
+Record **0–100**.
+
+### Encounter — Hallucination taxonomy
+
+We will distinguish at least four failure types:
+
+**Fabrication**  
+The source or fact does not exist.
+
+**Unsupported claim**  
+The claim may be possible, but no adequate evidence is supplied.
+
+**Source distortion**  
+The source exists but does not support the claim attributed to it.
+
+**Inference inflation**  
+Evidence supports a narrower statement than the model presents.
+
+### Probe — Citation verification ladder
+
+For each citation:
+
+> **Existence → Identity → Source access → Claim match → Independent corroboration when needed**
+
+A search result snippet is not the final verification step.
+
+## Session 2 — Verification dossier
+
+### Claim decomposition
+
+Take one paragraph and break it into atomic claims.
+
+For each claim record:
+
+- claim;
+- source supplied;
+- source exists?;
+- source supports claim?;
+- independent evidence?;
+- verdict.
+
+### Pair Challenge — Real source, wrong claim
+
+Pairs receive a set containing:
+
+- a real and correctly used source;
+- a fabricated source;
+- a real source that does not support the claim;
+- a partly supported claim that is overstated.
+
+The objective is to distinguish **source existence** from **source adequacy**.
+
+## Session 3 — The professional gatekeeper
+
+### Mata v. Avianca responsibility map
+
+Identify:
+
+> **AI output → researcher/drafter → reviewer/signatory → filing/publication → affected parties**
+
+At which points could the failure have been stopped?
+
+### Decide
+
+For each investigated claim choose:
+
+- verified;
+- contradicted;
+- source exists but does not support claim;
+- unverifiable;
+- requires stronger evidence.
+
+### Verify
+
+Correct the answer using inspectable evidence.
+
+---
+
+# After class
+
+## Task 10 — Verification Dossier
+
+Generate or select one AI-assisted answer containing at least **five externally checkable claims**.
+
+Submit:
+
+1. original question/task;
+2. original AI output;
+3. five claims extracted from the output;
+4. supplied source/citation for each claim, if any;
+5. existence check;
+6. source-to-claim match check;
+7. independent verification where appropriate;
+8. verdict for each claim;
+9. corrected answer;
+10. one example of the most dangerous plausible error;
+11. AI-use disclosure.
+
+[Submit Task 10 — Verification Dossier]({{< var forms.week10.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`SEEK` · `PROBE` · `VERIFY` · `JUDGE`
+
+---
+
+# Next on DSA261 — Week 11
+
+## Permission is not the same as integrity
+
+### REQUIRED READ — AI Assessment Scale
+
+**Perkins, Roe & Furze — AI Assessment Scale**
+
+Explore the current five-level framework.
+
+[Open AIAS]({{< var urls.aias_site >}}){.btn .btn-outline-primary}
+
+### REQUIRED COURSE READING
+
+Review the DSA261 AI Use Policy.
+
+[Open the course AI Use Policy](../ai-policy.qmd){.btn .btn-outline-primary}
+
+Bring one example of an assignment where:
+
+- AI use should be allowed;
+- but unrestricted AI use would undermine the learning objective.
+
+[Open Week 11 Pre-Class Quiz]({{< var forms.week11.quiz >}}){.btn .btn-primary}

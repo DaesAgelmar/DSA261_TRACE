@@ -1,0 +1,229 @@
+---
+title: "Week 12 — Context-Specific AI Guidelines"
+subtitle: "Risk profiles, professional rules, verification thresholds, and Final Project Gate 1"
+week: 12
+phase: "Govern and Transfer"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO2", "CLO4", "CLO5"]
+evidence: [JUDGE, VERIFY, TRANSFER]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**Why can the same AI action be acceptable in one context and irresponsible in another?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. distinguish a general risk-management framework from a profession-specific rule;
+2. identify how stakes, reversibility, confidentiality, and duty of care change acceptable AI use;
+3. define a verification threshold appropriate to a task;
+4. identify when sensitive or confidential information should not be entered into an AI system;
+5. construct context-specific AI-use guidelines;
+6. submit three discipline-specific Final Project task candidates with risk and verification plans.
+
+## Before class
+
+### REQUIRED READ A — NIST Generative AI Profile
+
+[Open the NIST profile]({{< var urls.nist_gai_profile >}}){.btn .btn-outline-primary}
+
+NIST's profile is cross-sectoral.
+
+Its value for this course is not a list of universal prohibitions.
+
+It is the idea that risk controls should reflect:
+
+> **goals + context + risk tolerance + affected people + available safeguards**
+
+### REQUIRED READ B — AP standards
+
+[Open AP standards]({{< var urls.ap_ai_standards >}}){.btn .btn-outline-primary}
+
+Observe how a specific profession converts broad principles into operational rules around:
+
+- verification;
+- editorial judgment;
+- sensitive information;
+- generated media;
+- accountability.
+
+### Complete the pre-class quiz
+
+[Start Week 12 Pre-Class Quiz]({{< var forms.week12.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — General principle, specific rule
+
+### Today's Case
+
+Consider the same AI function:
+
+> **Summarise a document.**
+
+Now place it in four contexts:
+
+- public news article;
+- confidential HR file;
+- medical note;
+- student's own lecture notes.
+
+### Predict
+
+Should the same rule apply in all four cases?
+
+What changes?
+
+### Encounter — Risk dimensions
+
+Use the following dimensions:
+
+- **stakes**
+- **reversibility**
+- **confidentiality**
+- **affected people**
+- **source sensitivity**
+- **verification difficulty**
+- **time pressure**
+- **professional duty**
+- **consequence of error**
+
+### Probe — Change one contextual variable
+
+Take one AI use case and alter only:
+
+- confidentiality;
+- stakes;
+- affected population;
+- reversibility.
+
+Does your acceptable-use rule change?
+
+Why?
+
+## Session 2 — From framework to policy
+
+### Compare NIST and AP
+
+Ask:
+
+- Which document is more general?
+- Which defines operational boundaries?
+- Which risks are specific to journalism?
+- Which principles transfer to other professions?
+
+### Pair Challenge — Write a mini-policy
+
+Choose a professional context.
+
+Write five rules:
+
+1. acceptable use;
+2. prohibited/high-risk use;
+3. verification requirement;
+4. disclosure requirement;
+5. human responsibility.
+
+### Decide
+
+Does the policy control the **actual risk**, or merely the presence of AI?
+
+## Session 3 — Final Project Gate 1
+
+The Final Project contains **three authentic discipline-specific tasks**.
+
+Today you propose all three.
+
+For each candidate task define:
+
+> **Task → Why it matters → AI role → Risk → Verification → Evidence artifact**
+
+### Gate 1 criteria
+
+Each task must be:
+
+- authentic enough to matter outside the classroom;
+- feasible within the course;
+- different enough to reveal transfer;
+- low enough risk to conduct safely;
+- capable of independent verification;
+- capable of producing inspectable evidence.
+
+### Gate 1 outcome
+
+Each proposed task receives:
+
+- **APPROVE**
+- **REVISE**
+- **REPLACE**
+
+---
+
+# After class
+
+## Task 12 — Final Project Gate 1
+
+Submit **three candidate Final Project tasks**.
+
+For each task provide:
+
+1. task title;
+2. discipline/professional context;
+3. authentic purpose;
+4. expected AI role;
+5. main risks;
+6. confidentiality/data concerns;
+7. independent verification plan;
+8. evidence you will preserve;
+9. expected failure mode;
+10. why this task adds something different from the other two.
+
+Finish with:
+
+11. proposed cross-task comparison question;
+12. initial idea for your Personal AI/LLM Use Charter;
+13. AI-use disclosure.
+
+[Submit Task 12 — Final Project Gate 1]({{< var forms.week12.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`JUDGE` · `VERIFY` · `TRANSFER`
+
+---
+
+# Next on DSA261 — Week 13
+
+## Who remains responsible?
+
+### REQUIRED READ A — EU AI Act: Human Oversight
+
+Read Article 14 through the European Commission's AI Act Service Desk.
+
+[Open Article 14]({{< var urls.eu_ai_act_human_oversight >}}){.btn .btn-outline-primary}
+
+Focus on:
+
+- understanding system capacities and limitations;
+- automation bias;
+- interpreting outputs;
+- disregarding or overriding outputs;
+- intervention.
+
+### REQUIRED READ B — AI Literacy
+
+Read the European Commission's AI literacy guidance.
+
+[Open AI literacy guidance]({{< var urls.eu_ai_literacy >}}){.btn .btn-outline-primary}
+
+Guiding question:
+
+> **What does meaningful human oversight require from the human?**
+
+[Open Week 13 Pre-Class Quiz]({{< var forms.week13.quiz >}}){.btn .btn-primary}

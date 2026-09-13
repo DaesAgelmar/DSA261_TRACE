@@ -1,0 +1,232 @@
+---
+title: "Week 11 — Academic Integrity and AI-Use Judgment"
+subtitle: "Permission, disclosure, learning goals, and the Use–Modify–Disclose–Reject decision"
+week: 11
+phase: "Use, Control, Verify"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO3", "CLO4", "CLO5"]
+evidence: [JUDGE, VERIFY, TRANSFER]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**If AI use is allowed, what still makes the work yours?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. explain why academic integrity is not reducible to a simple AI ban;
+2. distinguish levels of AI involvement in assessment;
+3. align AI permission with a learning objective;
+4. decide when AI output should be used, modified, disclosed, or rejected;
+5. identify when AI use undermines the validity of an assessment;
+6. write a precise AI-use boundary for an assignment.
+
+## Before class
+
+### REQUIRED READ — AI Assessment Scale
+
+**AI Assessment Scale (AIAS)**
+
+[Explore the current framework]({{< var urls.aias_site >}}){.btn .btn-outline-primary}
+
+Focus on the five levels:
+
+- No AI;
+- AI Planning;
+- AI Collaboration;
+- Full AI;
+- AI Exploration.
+
+The scale is not a ranking from “bad” to “good”.
+
+The appropriate level depends on the assessment purpose and learning outcomes.
+
+### REQUIRED COURSE READING — DSA261 AI Use Policy
+
+[Open the course AI Use Policy](../ai-policy.qmd){.btn .btn-outline-primary}
+
+Pay particular attention to:
+
+- process evidence;
+- independent verification;
+- disclosure;
+- responsibility.
+
+### Complete the pre-class quiz
+
+[Start Week 11 Pre-Class Quiz]({{< var forms.week11.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — Same AI tool, different assessment
+
+### Today's Case
+
+You receive four assignments:
+
+- foundational concept explanation;
+- literature-search planning;
+- data interpretation;
+- professional policy memo.
+
+For each assignment, predict:
+
+- whether AI use should be allowed;
+- what kind of use would preserve the learning objective;
+- what kind of use would invalidate the assessment.
+
+### Encounter — AIAS as a design framework
+
+Map each assignment to an AIAS level.
+
+Then ask:
+
+> **What must the student still demonstrate independently at this level?**
+
+### Probe — Change the learning objective
+
+Keep the assignment format constant but change the learning objective.
+
+Does the acceptable AI level change?
+
+Why?
+
+::: {.callout-warning}
+## Integrity rule
+
+“AI allowed” does not mean:
+
+> **anything the model produces may be submitted without judgment, verification, or disclosure.**
+:::
+
+## Session 2 — Use, Modify, Disclose, Reject
+
+For an AI contribution, choose one action:
+
+### USE
+
+The contribution is appropriate for the task and has been checked to the required standard.
+
+### MODIFY
+
+The contribution is useful but incomplete, inaccurate, poorly fitted, or insufficiently yours.
+
+### DISCLOSE
+
+The contribution materially affected the work and must be made visible according to the assignment policy.
+
+### REJECT
+
+The contribution is unreliable, prohibited, unnecessary, or would undermine the learning objective.
+
+These actions can overlap.
+
+Example:
+
+> You may **modify + disclose** an AI-assisted draft.
+
+### Pair Challenge — Boundary cases
+
+Evaluate cases such as:
+
+- grammar correction;
+- idea generation;
+- outline generation;
+- source discovery;
+- summarisation;
+- first-draft writing;
+- code generation;
+- data interpretation;
+- citation generation.
+
+The correct judgment depends on the assignment, stakes, and required evidence.
+
+## Session 3 — Write the rule before the work begins
+
+### Assignment Policy Builder
+
+Write a student-facing AI-use rule containing:
+
+1. **Allowed**
+2. **Not allowed**
+3. **Required verification**
+4. **Required disclosure**
+5. **What the student must still demonstrate**
+
+### Decide
+
+Is the rule:
+
+- clear enough for a student?
+- enforceable?
+- aligned with learning outcomes?
+- capable of distinguishing productive AI use from substitution?
+
+### Verify
+
+Compare your rule with the DSA261 policy and the AIAS framework.
+
+---
+
+# After class
+
+## Task 11 — AI-Use Boundary Audit
+
+Choose **three different academic or professional tasks**.
+
+For each task:
+
+1. state the learning or professional objective;
+2. assign an AIAS level;
+3. define allowed AI use;
+4. define prohibited or inappropriate AI use;
+5. state what must be independently verified;
+6. state what must be disclosed;
+7. apply **Use / Modify / Disclose / Reject** to one concrete AI contribution;
+8. explain why the boundary fits the task.
+
+Finish with:
+
+9. one principle that should transfer across all three contexts;
+10. one principle that must remain context-specific;
+11. AI-use disclosure.
+
+[Submit Task 11 — AI-Use Boundary Audit]({{< var forms.week11.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`JUDGE` · `VERIFY` · `TRANSFER`
+
+---
+
+# Next on DSA261 — Week 12
+
+## Rules should change with risk
+
+### REQUIRED READ A — NIST Generative AI Profile
+
+**NIST AI Risk Management Framework: Generative Artificial Intelligence Profile**
+
+Read the publication summary and inspect how the profile is meant to adapt risk management to a specific technology and context.
+
+[Open the NIST profile]({{< var urls.nist_gai_profile >}}){.btn .btn-outline-primary}
+
+### REQUIRED READ B — AP standards around generative AI
+
+Read the Associated Press standards.
+
+[Open AP standards]({{< var urls.ap_ai_standards >}}){.btn .btn-outline-primary}
+
+Prepare to compare:
+
+> **a cross-sector risk framework**  
+> with  
+> **a profession-specific operating policy**
+
+[Open Week 12 Pre-Class Quiz]({{< var forms.week12.quiz >}}){.btn .btn-primary}

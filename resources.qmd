@@ -2,17 +2,76 @@
 title: "Resources"
 ---
 
-## Week 1 — Information and verification
+## Phase I — Know, Search, Question
+
+### Week 1 — Information and verification
 
 - [Teyit — Methodology]({{< var urls.teyit_methodology >}})
 - [TED / Damon Brown — How to choose your news]({{< var urls.ted_choose_news >}})
 
-## Next on DSA261 — Week 2
+### Week 2 — Algorithmic visibility
 
 - [TED / Eli Pariser — Beware online filter bubbles]({{< var urls.ted_filter_bubbles >}})
 - [ICO — Cambridge Analytica raids]({{< var urls.ico_cambridge_analytica >}})
 - [Oxford Internet Institute — Computational Propaganda]({{< var urls.oii_computational_propaganda >}})
 
+### Week 3 — AI claim auditing
+
+- [AI Snake Oil]({{< var urls.ai_snake_oil_faq >}})
+
+## Phase II — Understand and Stress-Test AI
+
+### Week 4 — LLM concepts
+
+- [Jay Alammar — The Illustrated Transformer]({{< var urls.illustrated_transformer >}})
+- [Jay Alammar — The Illustrated GPT-2]({{< var urls.illustrated_gpt2 >}})
+
+### Week 5 — Capability boundaries
+
+- [METR — Measuring AI Ability to Complete Long Tasks]({{< var urls.metr_time_horizon_blog >}})
+- [METR — Time Horizons]({{< var urls.metr_time_horizons >}})
+
+### Week 6 — Fairness
+
+- [ProPublica — Machine Bias]({{< var urls.propublica_machine_bias >}})
+- [ProPublica — Response to Northpointe]({{< var urls.propublica_compas_response >}})
+
+## Phase III — Use, Control, Verify
+
+### Week 8 — Prompt design
+
+- [OpenAI — Prompt engineering best practices]({{< var urls.openai_prompting >}})
+- [Google — Prompt design strategies]({{< var urls.google_prompting >}})
+- [Anthropic — Prompting best practices]({{< var urls.anthropic_prompting >}})
+
+### Week 9 — Context management
+
+- [Liu et al. — Lost in the Middle]({{< var urls.lost_in_middle >}})
+- [Google — Long context]({{< var urls.google_long_context >}})
+
+### Week 10 — Hallucination and verification
+
+- [Mata v. Avianca — Opinion and Order on Sanctions]({{< var urls.mata_avianca_order >}})
+
+### Week 11 — Academic integrity
+
+- [AI Assessment Scale]({{< var urls.aias_site >}})
+- [Reimagining the AI Assessment Scale]({{< var urls.aias_revised_paper >}})
+
+## Phase IV — Govern and Transfer
+
+### Week 12 — Context-specific AI guidelines
+
+- [NIST — Generative AI Profile]({{< var urls.nist_gai_profile >}})
+- [Associated Press — Standards around generative AI]({{< var urls.ap_ai_standards >}})
+
+### Week 13 — Human oversight and AI literacy
+
+- [EU AI Act Service Desk — Article 14: Human oversight]({{< var urls.eu_ai_act_human_oversight >}})
+- [European Commission — AI literacy Q&A]({{< var urls.eu_ai_literacy >}})
+
 ## Course principle
 
-These resources are starting points. In TRACE activities, you will often be required to move beyond the assigned page and inspect original or independent evidence.
+These resources are starting points.
+
+In TRACE activities, you will often be required to move beyond the assigned page and inspect original, authoritative, or independent evidence.

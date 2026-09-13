@@ -1,0 +1,186 @@
+---
+title: "Week 13 — Professional Accountability and Design Freeze"
+subtitle: "Human oversight, automation bias, decision rights, stop conditions, and Final Project Gate 2"
+week: 13
+phase: "Govern and Transfer"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO2", "CLO4", "CLO5"]
+evidence: [JUDGE, VERIFY, TRANSFER]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**If a human is “in the loop”, what must that human actually be able and willing to do?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. distinguish nominal human presence from meaningful human oversight;
+2. explain automation bias;
+3. identify who has authority to accept, reject, override, or stop an AI-assisted process;
+4. define stop conditions before a high-stakes failure occurs;
+5. map accountability across a human–AI workflow;
+6. freeze a Final Project design that specifies responsibility and verification in advance.
+
+## Before class
+
+### REQUIRED READ — EU AI Act: Human Oversight
+
+[Open Article 14]({{< var urls.eu_ai_act_human_oversight >}}){.btn .btn-outline-primary}
+
+For high-risk systems, Article 14 emphasises human capacity to understand limits, monitor operation, interpret outputs, avoid over-reliance, and disregard or override outputs when appropriate.
+
+### REQUIRED READ — AI Literacy
+
+[Open AI literacy guidance]({{< var urls.eu_ai_literacy >}}){.btn .btn-outline-primary}
+
+AI literacy is context-sensitive.
+
+The knowledge needed by a user depends on:
+
+- technical knowledge;
+- experience;
+- education/training;
+- use context;
+- people affected.
+
+### Complete the pre-class quiz
+
+[Start Week 13 Pre-Class Quiz]({{< var forms.week13.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — Human in the loop is not enough
+
+### Today's Case
+
+A professional receives an AI recommendation and clicks **Approve**.
+
+Is this meaningful oversight?
+
+### Predict
+
+What must the human know or be able to do before “approval” becomes meaningful?
+
+### Encounter — Oversight capabilities
+
+A meaningful overseer may need to:
+
+- understand the system's purpose;
+- understand relevant limitations;
+- recognise anomalous output;
+- interpret the recommendation;
+- seek additional evidence;
+- reject the output;
+- override the output;
+- stop the process;
+- document the decision.
+
+### Probe — Remove authority
+
+Imagine the human can see the output but:
+
+- cannot inspect evidence;
+- cannot change the decision;
+- cannot stop the process.
+
+Is the person truly overseeing the system?
+
+## Session 2 — Automation bias and responsibility
+
+### Accountability chain
+
+Map:
+
+> **Input → AI operation → Output → Human interpretation → Decision → Consequence → Review**
+
+Assign a responsible actor to every stage.
+
+### Pair Challenge — Stop conditions
+
+For one professional use case define:
+
+- **continue condition**
+- **verify-more condition**
+- **override condition**
+- **stop condition**
+- **escalation condition**
+
+### Explain
+
+Human oversight is not:
+
+> “A person was somewhere near the system.”
+
+It is a set of **competences + decision rights + verification opportunities + accountability**.
+
+## Session 3 — Final Project Gate 2: Design Freeze
+
+Bring your Week 12 Gate 1 feedback.
+
+For each of the three Final Project tasks freeze:
+
+1. exact task;
+2. AI role;
+3. input/context boundary;
+4. prompt/interaction plan;
+5. required TRACE probe;
+6. verification source;
+7. evidence-capture method;
+8. expected failure mode;
+9. human decision;
+10. stop/override condition.
+
+### Final Project contract
+
+After Gate 2, changes require instructor approval if they materially change:
+
+- the task;
+- the risk profile;
+- the evidence standard;
+- the final comparison.
+
+---
+
+# After class
+
+## Task 13 — Final Project Gate 2: Design Freeze
+
+Submit the complete contract for all three Final Project tasks.
+
+Also submit:
+
+- cross-task comparison criteria;
+- the failure case you intend to document;
+- how verification cost will be recorded;
+- your provisional Personal AI/LLM Use Charter structure;
+- unresolved risks or dependencies;
+- AI-use disclosure.
+
+[Submit Task 13 — Final Project Design Freeze]({{< var forms.week13.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`JUDGE` · `VERIFY` · `TRANSFER`
+
+---
+
+# Next on DSA261 — Week 14
+
+## Can TRACE transfer?
+
+No new external reading is assigned.
+
+Before class:
+
+1. review your strongest W1–W13 evidence;
+2. bring your frozen Final Project contract;
+3. identify one TRACE step you still tend to skip;
+4. complete the Week 14 readiness quiz.
+
+[Open Week 14 Pre-Class Quiz]({{< var forms.week14.quiz >}}){.btn .btn-primary}

@@ -1,0 +1,215 @@
+---
+title: "Week 9 — Context Drift"
+subtitle: "Context windows, relevance, lost-in-the-middle effects, state management, and strategic resets"
+week: 9
+phase: "Use, Control, Verify"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO3", "CLO4"]
+evidence: [CONTEXT, PROBE, VERIFY]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**If a model can accept more context, does that mean it can use all of that context equally well?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. distinguish context-window capacity from effective context use;
+2. explain the lost-in-the-middle finding at a conceptual level;
+3. identify irrelevant, stale, conflicting, and missing context;
+4. use a compact context brief to stabilise a long task;
+5. recognise when a fresh session or context reset is preferable to continued prompting;
+6. test context sensitivity through controlled variants.
+
+## Before class
+
+### REQUIRED READ — Lost in the Middle
+
+**Liu et al. (2024)**
+
+[Open the paper]({{< var urls.lost_in_middle >}}){.btn .btn-outline-primary}
+
+The key question is not whether a model can technically accept long input.
+
+It is:
+
+> **Can it reliably use the relevant information wherever that information appears?**
+
+### REQUIRED EXPLORE — Long context
+
+[Open Google's long-context guide]({{< var urls.google_long_context >}}){.btn .btn-outline-primary}
+
+### Complete the pre-class quiz
+
+[Start Week 9 Pre-Class Quiz]({{< var forms.week09.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — More context is not automatically better
+
+### Today's Case — One fact, three positions
+
+The instructor provides the same document set in three orders.
+
+The relevant information appears:
+
+- near the beginning;
+- in the middle;
+- near the end.
+
+### Predict
+
+Which position do you expect to be easiest for the model to use?
+
+Why?
+
+### Encounter — Capacity versus use
+
+Separate:
+
+**Context capacity**  
+How much information can enter the interaction?
+
+from
+
+**Context utilisation**  
+How reliably can the model use the information relevant to the task?
+
+### Probe — Position test
+
+Run equivalent questions against the three context arrangements.
+
+Record:
+
+- whether the answer changes;
+- whether the correct evidence is cited;
+- whether irrelevant material is used.
+
+::: {.callout-note}
+## Important inference boundary
+
+A classroom test can reveal sensitivity in the tested model and task.
+
+It does not prove that every model always exhibits the same positional pattern.
+:::
+
+## Session 2 — Context drift in conversations
+
+### Four context problems
+
+**Irrelevant context**  
+Information that is present but not useful.
+
+**Stale context**  
+Earlier assumptions that are no longer valid.
+
+**Conflicting context**  
+Instructions or facts that point in different directions.
+
+**Missing context**  
+Information required for a defensible answer but never supplied.
+
+### Context Brief
+
+Build a compact state record:
+
+> **Goal → Known facts → Constraints → Decisions already made → Open questions → Evidence standard**
+
+Use the brief to start a fresh session.
+
+### Pair Challenge — Continue or reset?
+
+Given a long messy conversation, choose:
+
+- continue;
+- summarise and continue;
+- create a context brief and reset;
+- start again from primary evidence.
+
+Defend the choice.
+
+## Session 3 — Context stress test
+
+### Controlled conditions
+
+Use the same target task under:
+
+**A — Compact relevant context**  
+**B — Long mixed context**  
+**C — Long context with a contradiction**  
+**D — Fresh session with a context brief**
+
+Compare:
+
+- instruction fidelity;
+- factual fidelity;
+- omission;
+- contradiction handling;
+- verification burden.
+
+### Decide
+
+Which condition provides the best **usefulness-to-verification-cost** ratio?
+
+### Verify
+
+Check whether the model used the source evidence you intended it to use.
+
+---
+
+# After class
+
+## Task 09 — Context Stress Test
+
+Choose one non-sensitive task that genuinely benefits from context.
+
+Submit:
+
+1. target task;
+2. compact relevant context;
+3. mixed/expanded context;
+4. one introduced irrelevant or conflicting element;
+5. fresh-session context brief;
+6. output differences;
+7. evidence of context drift or context robustness;
+8. which context strategy you would use in practice;
+9. what your small test cannot establish;
+10. one independently verified output element;
+11. AI-use disclosure.
+
+[Submit Task 09 — Context Stress Test]({{< var forms.week09.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`CONTEXT` · `PROBE` · `VERIFY`
+
+---
+
+# Next on DSA261 — Week 10
+
+## When plausible output is false
+
+### REQUIRED READ — Mata v. Avianca
+
+Read the opening pages and the conclusion of the court's sanctions order.
+
+[Open the court filing]({{< var urls.mata_avianca_order >}}){.btn .btn-outline-primary}
+
+Prepare to distinguish:
+
+- using AI;
+- trusting AI;
+- filing unverified AI output;
+- continuing to defend material after its authenticity is questioned.
+
+### Guiding question
+
+> **Where exactly did the professional failure occur?**
+
+[Open Week 10 Pre-Class Quiz]({{< var forms.week10.quiz >}}){.btn .btn-primary}

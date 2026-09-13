@@ -13,10 +13,12 @@ website:
         text: Course Guide
       - href: learning-path.qmd
         text: Learning Path
-      - href: weeks/week01.qmd
+      - href: weekly-labs.qmd
         text: Weekly Labs
       - href: portfolio.qmd
         text: Portfolio
+      - href: final-project.qmd
+        text: Final Project
       - href: ai-policy.qmd
         text: AI Use Policy
       - href: resources.qmd

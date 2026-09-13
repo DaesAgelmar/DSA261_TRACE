@@ -8,39 +8,40 @@ DSA261 is organised as a progression rather than a list of disconnected AI topic
 
 ### Phase I — Know, Search, Question
 
-- [Week 1 — How Do You Know?](weeks/week01.qmd)
-- [Week 2 — Who Decides What You See?](weeks/week02.qmd)
-- [Week 3 — Is This AI?](weeks/week03.qmd)
+**Weeks 1–3**
+
+Source evaluation, ranking and recommendation, computational propaganda, and AI claim auditing.
 
 ### Phase II — Understand and Stress-Test AI
 
-- [Week 4 — What Does an LLM Actually Do?](weeks/week04.qmd)
-- [Week 5 — Can AI Make You Better?](weeks/week05.qmd)
-- [Week 6 — When Algorithms Decide About People](weeks/week06.qmd)
+**Weeks 4–6**
+
+LLM mechanics, capability boundaries, skill boosting, algorithmic decision-making, bias, and fairness.
 
 ### Week 7 — TRACE Midterm Challenge
 
-[Open the Week 7 TRACE Midterm Challenge](weeks/week07.qmd)
-
-No conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.
+An original evidence-based investigation integrating Weeks 1–6.
 
 ### Phase III — Use, Control, Verify
 
 **Weeks 8–11**
 
-- prompt design;
-- context management;
-- hallucination and verification;
-- academic integrity and AI-use judgment.
+- [Week 8 — Prompt Design Studio](weeks/week08.qmd)
+- [Week 9 — Context Drift](weeks/week09.qmd)
+- [Week 10 — Hallucination Hunt](weeks/week10.qmd)
+- [Week 11 — Academic Integrity and AI-Use Judgment](weeks/week11.qmd)
 
 ### Phase IV — Govern and Transfer
 
 **Weeks 12–14**
 
-- context-specific AI guidelines;
-- professional accountability;
-- final project design freeze;
-- TRACE review and transfer.
+- [Week 12 — Context-Specific AI Guidelines](weeks/week12.qmd)
+- [Week 13 — Professional Accountability and Design Freeze](weeks/week13.qmd)
+- [Week 14 — TRACE Transfer and Final Readiness](weeks/week14.qmd)
+
+### Final Project
+
+[Open the TRACE Final Project](final-project.qmd)
 
 ## Skills you are building
 

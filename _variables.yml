@@ -22,9 +22,41 @@ forms:
   week06:
     quiz: "https://docs.google.com/forms/d/e/1FAIpQLSen1q43s5M43sEPm3mVj%2D%2DtNf6mL_L7A_He_QeHWRLms5LUdg/viewform"
     task: "https://docs.google.com/forms/d/e/1FAIpQLSci_f1UmQ5rM9jQrBoYz1e6z_ckipIROCaqs9Hj12lZASOnng/viewform"
+
   week07:
     quiz: "https://docs.google.com/forms/d/e/1FAIpQLSda1FWVK6e8jUYiP0NKAEUdtqmWZCFPG1cD1RT00pdF97sJ7g/viewform"
     midterm: "https://docs.google.com/forms/d/e/1FAIpQLSdaBTY4sP8qQaDjM-Crld5HQErNTmHl8z0mkUnXZC0kSZXGOA/viewform"
+
+  week08:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSe1mW15mzD-8AKc_f25aCiavCqDoV_CJYQcmoQsP3wOd173Bg/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSc_YFj0K6Moweo4ZYab692xxhiqE7qWU4r0rI21S3gnBzsl8Q/viewform"
+
+  week09:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSds0Fo5XHkXEugLX07jaWKG_NYR5dbf4dAUAbCamennrmlj9g/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSfS9X9jY-HeO7fbc7jPtFkNtBdJuZZa59EdOMXU5lPG2-jpDQ/viewform"
+
+  week10:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLScFNXjLDsqWFYEXIAuevWarBaz66DRRpRwCa5kFthvTvRa6MA/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSfIqI7ymK0mUXzbWytjKkEfyOIeCfXh_giJiL4B5Eb3pr2TGg/viewform"
+
+  week11:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLScmOCMD6HTRVvtcEKAV6E0AjKbivRUaZbNVCiam1kFTO3ljEA/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSdRq9ceqhsvPWfmFRIEvj2FX3U8WWfRDiRHPEr47MhkXPjYlg/viewform"
+
+  week12:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSc4OcCnJx9tQKot12MLZeOC1qQ2-WC9rsjlEjSeYDkBfW-zCw/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLScPTpGomFK-UaKnxoO6PHAN5MXum4MkYw5OT-WFyUU2gVVuWQ/viewform"
+
+  week13:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSfRHf9nJZ0RbEBNcWziV_SuwYBGDHgOBEva4u0Bw3zZb8hz1w/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSeshJdHZavzMFEG39cB830E25mCP-z9CR0feKR35JUTC8sGWQ/viewform"
+
+  week14:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSdzd-hQA3oL0hqQMC_dL6aO1eueLUOscGakcQUyZDfnxo3mXA/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSfpei-1cpA9Jkuoto94t8hsSArMlUvoLy-ig4etmbm_ACu1Iw/viewform"
+
+  final_project:
+    submit: "https://docs.google.com/forms/d/e/1FAIpQLScEVmB8aYwuFrDTF9HcvP4svjFNmqWRdtyq1kyrTa7IJ5-XLA/viewform"
 
 urls:
   teyit_methodology: "https://teyit.org/metodoloji"
@@ -43,3 +75,12 @@ urls:
   openai_prompting: "https://help.openai.com/en/articles/10032626"
   google_prompting: "https://ai.google.dev/gemini-api/docs/prompting-strategies"
   anthropic_prompting: "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables"
+  lost_in_middle: "https://aclanthology.org/2024.tacl-1.9/"
+  google_long_context: "https://ai.google.dev/gemini-api/docs/long-context"
+  mata_avianca_order: "https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2022cv01461/575368/54"
+  aias_site: "https://aiassessmentscale.com/"
+  aias_revised_paper: "https://doi.org/10.53761/rrm4y757"
+  nist_gai_profile: "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence"
+  ap_ai_standards: "https://www.ap.org/standards-around-generative-ai"
+  eu_ai_act_human_oversight: "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14"
+  eu_ai_literacy: "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers"
