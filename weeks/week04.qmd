@@ -1,0 +1,219 @@
+---
+title: "Week 4 — What Does an LLM Actually Do?"
+subtitle: "Prediction, tokens, attention, context, generation, and model variability"
+week: 4
+phase: "Understand and Stress-Test AI"
+trace_focus: [Predict, Encounter, Probe, Explain, Verify]
+clo: ["CLO2", "CLO3"]
+evidence: [PROBE, CONTEXT, VERIFY]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**Is an LLM remembering, retrieving, reasoning, predicting language—or some combination depending on the system around it?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. explain next-token generation conceptually without equations;
+2. explain why output depends on preceding context;
+3. describe self-attention at an intuitive level;
+4. distinguish **model training**, **generation**, and **external retrieval/tool use**;
+5. explain why repeated runs can produce different outputs;
+6. design a controlled comparison in which one interaction variable is changed at a time.
+
+## Before class
+
+### REQUIRED READ
+
+**Jay Alammar — The Illustrated Transformer**
+
+Read:
+
+- **A High-Level Look**
+- **Self-Attention at a High Level**
+
+[Open the reading]({{< var urls.illustrated_transformer >}}){.btn .btn-outline-primary}
+
+::: {.callout-note}
+## Important scope note
+
+The original Transformer was presented as an encoder–decoder architecture.
+
+Modern chat LLMs may use different transformer arrangements and additional tools.
+
+We are learning the **architecture family and core intuition**, not claiming that every current assistant is architecturally identical to the original diagram.
+:::
+
+### Complete the pre-class quiz
+
+[Start Week 4 Pre-Class Quiz]({{< var forms.week04.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — Become the language model
+
+### Today's Case — Predict the next token
+
+The instructor gives an incomplete sequence.
+
+Before any explanation, predict the next item.
+
+Then compare class predictions.
+
+Questions:
+
+- Did everyone predict the same continuation?
+- Could several continuations be plausible?
+- What changed when more context was added?
+
+### Predict
+
+Complete:
+
+> “The most likely next word is ___ because ___.”
+
+Then the instructor modifies the preceding context.
+
+Predict again.
+
+### Encounter — Probability, not a database lookup
+
+Build the conceptual pipeline:
+
+> **Input → Tokens → Contextual representations → Next-token distribution → Selected token → Repeat**
+
+### Attention intuition
+
+Use:
+
+> “The animal did not cross the street because it was too tired.”
+
+What does **it** refer to?
+
+Discuss why processing one token can benefit from information elsewhere in the sequence.
+
+## Session 2 — Training, generation, retrieval
+
+### Three processes students often mix together
+
+**Training**  
+Model parameters are adjusted using large amounts of data.
+
+**Generation / inference**  
+A trained model produces outputs from the current input and context.
+
+**Retrieval / tool use**  
+A surrounding system may search the web, query a database, use memory, call a calculator, or access files.
+
+::: {.callout-warning}
+## Critical distinction
+
+A chat assistant that can browse the web is not evidence that the underlying language model “stored the whole web” or “looked up the answer from its training data.”
+
+Tool use changes the system.
+:::
+
+### Probe — Controlled model variation
+
+Use one non-time-sensitive prompt.
+
+Run it:
+
+- in three fresh sessions; or
+- under three controlled prompt conditions.
+
+Change **one variable at a time**.
+
+Record what changed, what remained stable, what you can infer, and what you cannot infer.
+
+### Explain — Variability is information
+
+Do not conclude:
+
+> “The model is random, so nothing can be trusted.”
+
+Instead ask:
+
+> **Which aspects are stable enough to use, and which require verification?**
+
+## Session 3 — Context as an experimental variable
+
+### Pair Challenge — Change the context, not the task
+
+Pairs receive the same target task.
+
+- Version A: minimal context
+- Version B: relevant context
+- Version C: relevant context plus one misleading or irrelevant detail
+
+Compare outputs.
+
+### Decide
+
+Which condition produced the most useful response?
+
+What is your evidence?
+
+### Verify
+
+Choose one factual or inferential element and verify it outside the model.
+
+---
+
+# After class
+
+## Task 04 — Model Variation Log
+
+Choose one discipline-relevant, non-sensitive task.
+
+Run it under at least three controlled conditions.
+
+Submit:
+
+1. target task;
+2. baseline prompt;
+3. Condition A/B/C;
+4. exact variable changed;
+5. outputs or evidence links;
+6. stable features;
+7. unstable features;
+8. one externally verified element;
+9. what the comparison does **not** allow you to conclude;
+10. AI-use disclosure.
+
+[Submit Task 04 — Model Variation Log]({{< var forms.week04.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`PROBE` · `CONTEXT` · `VERIFY`
+
+---
+
+# Next on DSA261 — Week 5
+
+## Can AI make you better?
+
+### REQUIRED READ — METR Time Horizons
+
+**Measuring AI Ability to Complete Long Software Tasks**
+
+[Read the METR overview]({{< var urls.metr_time_horizon_blog >}}){.btn .btn-outline-primary}
+
+Then inspect:
+
+[Explore current time-horizon measurements]({{< var urls.metr_time_horizons >}}){.btn .btn-outline-primary}
+
+Prepare answers to:
+
+1. What exactly is being measured?
+2. What does “50% time horizon” mean?
+3. What kinds of tasks are included?
+4. What would be an **invalid generalisation** from this benchmark?
+
+[Open Week 5 Pre-Class Quiz]({{< var forms.week05.quiz >}}){.btn .btn-primary}

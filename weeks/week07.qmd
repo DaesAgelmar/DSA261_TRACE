@@ -1,0 +1,286 @@
+---
+title: "Week 7 — TRACE Midterm Challenge"
+subtitle: "An original evidence-based investigation integrating Weeks 1–6"
+week: 7
+phase: "Midterm Challenge"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO1", "CLO2", "CLO3", "CLO4"]
+evidence: [SEEK, PROBE, VERIFY, JUDGE, TRANSFER]
+---
+
+::: {.callout-important}
+## This is not a conventional exam
+
+The Week 7 Midterm is an **original TRACE investigation**.
+
+AI use is permitted.
+
+The assessment is designed so that polished AI-generated prose cannot replace:
+
+- provenance;
+- your search/interaction trail;
+- your probe decisions;
+- independent evidence;
+- verification;
+- final judgment.
+:::
+
+## Midterm weight
+
+**30% of the course grade**
+
+## Central challenge
+
+> **Can you investigate a digital claim, algorithmic system, AI claim, LLM output, or automated decision in a way that another person can reconstruct and audit?**
+
+## Before class
+
+### Case seed
+
+Your candidate case should already have been registered through Week 6.
+
+### Review your TRACE evidence
+
+Bring access to your W1–W6 materials.
+
+### Complete the readiness quiz
+
+The readiness quiz checks procedures, evidence requirements, and assessment rules.
+
+It is **not** a content-memory exam.
+
+[Start Week 7 Readiness Quiz]({{< var forms.week07.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Midterm Lab
+
+## Session 1 — Authenticate and frame the investigation
+
+### Confirm your artifact
+
+Your case may be:
+
+- a news or social-media claim;
+- a search/recommendation pattern;
+- a claim about algorithmic influence;
+- an AI product/media claim;
+- an LLM output;
+- an automated decision;
+- another instructor-approved digital artifact.
+
+### Receive your Challenge Code
+
+Each student receives one additional constraint.
+
+**A — Source Origin**  
+Trace the claim toward primary/original evidence.
+
+**B — Cross-System Comparison**  
+Test the case in two information or AI systems.
+
+**C — Counterfactual Probe**  
+Change one relevant variable at a time and observe the result.
+
+**D — Effect vs Exposure**  
+Separate evidence that something was shown/targeted from evidence that it changed behaviour.
+
+**E — Capability Scope**  
+Identify what a capability metric establishes and where the claim overgeneralises.
+
+**F — Fairness Lens**  
+Apply an appropriate error/fairness criterion to the case.
+
+The instructor may adapt a code when it does not fit the registered case.
+
+### Predict
+
+Before new investigation record:
+
+- initial verdict;
+- initial confidence: **0–100**;
+- strongest reason;
+- most important uncertainty.
+
+### Frame one investigable question
+
+Weak:
+
+> “Is AI dangerous?”
+
+Better:
+
+> “Does the evidence supplied for this hiring tool support the claim that it predicts employee performance accurately across the relevant population?”
+
+## Session 2 — Probe and evidence trail
+
+### Minimum investigation requirements
+
+Your evidence trail must contain:
+
+- at least **three search queries / prompts / interaction variants**;
+- at least **two meaningful TRACE probes**;
+- at least **two external sources**, where external verification is relevant;
+- at least **one rejected result** with justification;
+- evidence addressing your Challenge Code.
+
+### Evidence classification
+
+For each important item classify it as:
+
+- **Primary/original evidence**
+- **Independent secondary evidence**
+- **Claimant/vendor evidence**
+- **LLM-generated lead**
+- **Unverified lead**
+- **Rejected evidence**
+
+### Explain
+
+At the end of Session 2 write three provisional statements:
+
+1. What is currently established?
+2. What remains uncertain?
+3. What would be an overclaim?
+
+## Session 3 — Decide and verify
+
+### Final judgment
+
+Use a verdict appropriate to your case.
+
+Examples:
+
+- Supported
+- Contradicted
+- Unsupported
+- Missing context
+- Unresolved
+- Mechanism established; effect unknown
+- Capability plausible; evidence incomplete
+- Sensitive to tested variable
+- Evidence insufficient for fairness claim
+
+### Recalibrate confidence
+
+Record:
+
+- Initial confidence: ___ / 100
+- Final confidence: ___ / 100
+- Why confidence changed or did not change
+
+### Human judgment statement
+
+Answer:
+
+> **What part of this investigation could AI assist with but could not legitimately decide for you?**
+
+### Submit
+
+[Submit TRACE Midterm Challenge]({{< var forms.week07.midterm >}}){.btn .btn-primary}
+
+---
+
+# Required submission structure
+
+## A. Case provenance
+
+- original artifact;
+- URL/screenshot;
+- where and when you encountered it;
+- Week 6 registration reference.
+
+## B. Initial position
+
+- precise investigable question;
+- initial verdict;
+- initial confidence;
+- strongest initial signal.
+
+## C. Search / interaction log
+
+- three or more queries/prompts/conditions;
+- why each changed;
+- relevant outputs.
+
+## D. TRACE probes
+
+- Probe 1;
+- Probe 2;
+- assigned Challenge Code.
+
+## E. Evidence
+
+- primary/original evidence where available;
+- independent evidence;
+- one rejected result;
+- source relationships.
+
+## F. Judgment
+
+- final verdict;
+- final confidence;
+- inference boundary;
+- strongest remaining uncertainty.
+
+## G. AI-use disclosure
+
+- tool(s);
+- purpose;
+- consequential prompts;
+- what you independently verified;
+- what remained your judgment.
+
+---
+
+# Assessment rubric
+
+| Dimension | Weight |
+|---|---:|
+| Case framing and provenance | 15% |
+| Search / interaction trail | 20% |
+| Quality of probes | 20% |
+| Evidence and independent verification | 25% |
+| Final judgment and inference discipline | 15% |
+| AI-use transparency and process integrity | 5% |
+
+::: {.callout-warning}
+## What is not rewarded
+
+- polished prose without evidence;
+- many links with no source relationship analysis;
+- treating an LLM answer as verification;
+- claiming causation from exposure;
+- claiming general capability from one benchmark;
+- claiming discrimination from one counterfactual example.
+:::
+
+# After class
+
+Complete any evidence packaging required by the submission deadline announced in the form.
+
+Do not replace your in-class evidence trail with a newly generated narrative.
+
+---
+
+# Next on DSA261 — Week 8
+
+## Prompt design: better instructions or better thinking?
+
+Before Week 8, compare provider guidance.
+
+### REQUIRED READ A — OpenAI
+
+[Prompt engineering best practices for ChatGPT]({{< var urls.openai_prompting >}}){.btn .btn-outline-primary}
+
+### REQUIRED READ B — Google or Anthropic
+
+[Google — Prompt design strategies]({{< var urls.google_prompting >}}){.btn .btn-outline-primary}
+
+[Anthropic — Prompting best practices]({{< var urls.anthropic_prompting >}}){.btn .btn-outline-primary}
+
+Do not memorise provider-specific tricks.
+
+Bring three principles that appear to be **provider-independent**.
+
+> **Is good prompting mainly about “magic words”, or about specifying a task, context, constraints, evidence, and evaluation criteria?**

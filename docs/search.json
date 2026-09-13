@@ -382,14 +382,14 @@
     "href": "learning-path.html",
     "title": "Learning Path",
     "section": "",
-    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\nWeeks 1–3\n\nsource evaluation and information seeking;\nranking, recommendation, filter bubbles, and computational propaganda;\nwhat is and is not AI.\n\n\n\n\nWeeks 4–6\n\nhow LLMs work conceptually;\ncapability boundaries and skill boosting;\nalgorithmic decision-making, bias, and fairness.\n\n\n\n\nNo conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.\n\n\n\nWeeks 8–11\n\nprompt design;\ncontext management;\nhallucination and verification;\nacademic integrity and AI-use judgment.\n\n\n\n\nWeeks 12–14\n\ncontext-specific AI guidelines;\nprofessional accountability;\nfinal project design freeze;\nTRACE review and transfer."
+    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\n\nWeek 1 — How Do You Know?\nWeek 2 — Who Decides What You See?\nWeek 3 — Is This AI?\n\n\n\n\n\nWeek 4 — What Does an LLM Actually Do?\nWeek 5 — Can AI Make You Better?\nWeek 6 — When Algorithms Decide About People\n\n\n\n\nOpen the Week 7 TRACE Midterm Challenge\nNo conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.\n\n\n\nWeeks 8–11\n\nprompt design;\ncontext management;\nhallucination and verification;\nacademic integrity and AI-use judgment.\n\n\n\n\nWeeks 12–14\n\ncontext-specific AI guidelines;\nprofessional accountability;\nfinal project design freeze;\nTRACE review and transfer."
   },
   {
     "objectID": "learning-path.html#from-information-exposure-to-epistemic-agency",
     "href": "learning-path.html#from-information-exposure-to-epistemic-agency",
     "title": "Learning Path",
     "section": "",
-    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\nWeeks 1–3\n\nsource evaluation and information seeking;\nranking, recommendation, filter bubbles, and computational propaganda;\nwhat is and is not AI.\n\n\n\n\nWeeks 4–6\n\nhow LLMs work conceptually;\ncapability boundaries and skill boosting;\nalgorithmic decision-making, bias, and fairness.\n\n\n\n\nNo conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.\n\n\n\nWeeks 8–11\n\nprompt design;\ncontext management;\nhallucination and verification;\nacademic integrity and AI-use judgment.\n\n\n\n\nWeeks 12–14\n\ncontext-specific AI guidelines;\nprofessional accountability;\nfinal project design freeze;\nTRACE review and transfer."
+    "text": "DSA261 is organised as a progression rather than a list of disconnected AI topics.\n\n\n\nWeek 1 — How Do You Know?\nWeek 2 — Who Decides What You See?\nWeek 3 — Is This AI?\n\n\n\n\n\nWeek 4 — What Does an LLM Actually Do?\nWeek 5 — Can AI Make You Better?\nWeek 6 — When Algorithms Decide About People\n\n\n\n\nOpen the Week 7 TRACE Midterm Challenge\nNo conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.\n\n\n\nWeeks 8–11\n\nprompt design;\ncontext management;\nhallucination and verification;\nacademic integrity and AI-use judgment.\n\n\n\n\nWeeks 12–14\n\ncontext-specific AI guidelines;\nprofessional accountability;\nfinal project design freeze;\nTRACE review and transfer."
   },
   {
     "objectID": "learning-path.html#skills-you-are-building",
@@ -425,5 +425,803 @@
     "title": "Resources",
     "section": "Course principle",
     "text": "Course principle\nThese resources are starting points. In TRACE activities, you will often be required to move beyond the assigned page and inspect original or independent evidence."
+  },
+  {
+    "objectID": "weeks/week07.html",
+    "href": "weeks/week07.html",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "",
+    "text": "ImportantThis is not a conventional exam\n\n\n\nThe Week 7 Midterm is an original TRACE investigation.\nAI use is permitted.\nThe assessment is designed so that polished AI-generated prose cannot replace:\n\nprovenance;\nyour search/interaction trail;\nyour probe decisions;\nindependent evidence;\nverification;\nfinal judgment."
+  },
+  {
+    "objectID": "weeks/week07.html#midterm-weight",
+    "href": "weeks/week07.html#midterm-weight",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "Midterm weight",
+    "text": "Midterm weight\n30% of the course grade"
+  },
+  {
+    "objectID": "weeks/week07.html#central-challenge",
+    "href": "weeks/week07.html#central-challenge",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "Central challenge",
+    "text": "Central challenge\n\nCan you investigate a digital claim, algorithmic system, AI claim, LLM output, or automated decision in a way that another person can reconstruct and audit?"
+  },
+  {
+    "objectID": "weeks/week07.html#before-class",
+    "href": "weeks/week07.html#before-class",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "Before class",
+    "text": "Before class\n\nCase seed\nYour candidate case should already have been registered through Week 6.\n\n\nReview your TRACE evidence\nBring access to your W1–W6 materials.\n\n\nComplete the readiness quiz\nThe readiness quiz checks procedures, evidence requirements, and assessment rules.\nIt is not a content-memory exam.\nStart Week 7 Readiness Quiz"
+  },
+  {
+    "objectID": "weeks/week07.html#session-1-authenticate-and-frame-the-investigation",
+    "href": "weeks/week07.html#session-1-authenticate-and-frame-the-investigation",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "Session 1 — Authenticate and frame the investigation",
+    "text": "Session 1 — Authenticate and frame the investigation\n\nConfirm your artifact\nYour case may be:\n\na news or social-media claim;\na search/recommendation pattern;\na claim about algorithmic influence;\nan AI product/media claim;\nan LLM output;\nan automated decision;\nanother instructor-approved digital artifact.\n\n\n\nReceive your Challenge Code\nEach student receives one additional constraint.\nA — Source Origin\nTrace the claim toward primary/original evidence.\nB — Cross-System Comparison\nTest the case in two information or AI systems.\nC — Counterfactual Probe\nChange one relevant variable at a time and observe the result.\nD — Effect vs Exposure\nSeparate evidence that something was shown/targeted from evidence that it changed behaviour.\nE — Capability Scope\nIdentify what a capability metric establishes and where the claim overgeneralises.\nF — Fairness Lens\nApply an appropriate error/fairness criterion to the case.\nThe instructor may adapt a code when it does not fit the registered case.\n\n\nPredict\nBefore new investigation record:\n\ninitial verdict;\ninitial confidence: 0–100;\nstrongest reason;\nmost important uncertainty.\n\n\n\nFrame one investigable question\nWeak:\n\n“Is AI dangerous?”\n\nBetter:\n\n“Does the evidence supplied for this hiring tool support the claim that it predicts employee performance accurately across the relevant population?”"
+  },
+  {
+    "objectID": "weeks/week07.html#session-2-probe-and-evidence-trail",
+    "href": "weeks/week07.html#session-2-probe-and-evidence-trail",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "Session 2 — Probe and evidence trail",
+    "text": "Session 2 — Probe and evidence trail\n\nMinimum investigation requirements\nYour evidence trail must contain:\n\nat least three search queries / prompts / interaction variants;\nat least two meaningful TRACE probes;\nat least two external sources, where external verification is relevant;\nat least one rejected result with justification;\nevidence addressing your Challenge Code.\n\n\n\nEvidence classification\nFor each important item classify it as:\n\nPrimary/original evidence\nIndependent secondary evidence\nClaimant/vendor evidence\nLLM-generated lead\nUnverified lead\nRejected evidence\n\n\n\nExplain\nAt the end of Session 2 write three provisional statements:\n\nWhat is currently established?\nWhat remains uncertain?\nWhat would be an overclaim?"
+  },
+  {
+    "objectID": "weeks/week07.html#session-3-decide-and-verify",
+    "href": "weeks/week07.html#session-3-decide-and-verify",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "Session 3 — Decide and verify",
+    "text": "Session 3 — Decide and verify\n\nFinal judgment\nUse a verdict appropriate to your case.\nExamples:\n\nSupported\nContradicted\nUnsupported\nMissing context\nUnresolved\nMechanism established; effect unknown\nCapability plausible; evidence incomplete\nSensitive to tested variable\nEvidence insufficient for fairness claim\n\n\n\nRecalibrate confidence\nRecord:\n\nInitial confidence: ___ / 100\nFinal confidence: ___ / 100\nWhy confidence changed or did not change\n\n\n\nHuman judgment statement\nAnswer:\n\nWhat part of this investigation could AI assist with but could not legitimately decide for you?\n\n\n\nSubmit\nSubmit TRACE Midterm Challenge"
+  },
+  {
+    "objectID": "weeks/week07.html#a.-case-provenance",
+    "href": "weeks/week07.html#a.-case-provenance",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "A. Case provenance",
+    "text": "A. Case provenance\n\noriginal artifact;\nURL/screenshot;\nwhere and when you encountered it;\nWeek 6 registration reference."
+  },
+  {
+    "objectID": "weeks/week07.html#b.-initial-position",
+    "href": "weeks/week07.html#b.-initial-position",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "B. Initial position",
+    "text": "B. Initial position\n\nprecise investigable question;\ninitial verdict;\ninitial confidence;\nstrongest initial signal."
+  },
+  {
+    "objectID": "weeks/week07.html#c.-search-interaction-log",
+    "href": "weeks/week07.html#c.-search-interaction-log",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "C. Search / interaction log",
+    "text": "C. Search / interaction log\n\nthree or more queries/prompts/conditions;\nwhy each changed;\nrelevant outputs."
+  },
+  {
+    "objectID": "weeks/week07.html#d.-trace-probes",
+    "href": "weeks/week07.html#d.-trace-probes",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "D. TRACE probes",
+    "text": "D. TRACE probes\n\nProbe 1;\nProbe 2;\nassigned Challenge Code."
+  },
+  {
+    "objectID": "weeks/week07.html#e.-evidence",
+    "href": "weeks/week07.html#e.-evidence",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "E. Evidence",
+    "text": "E. Evidence\n\nprimary/original evidence where available;\nindependent evidence;\none rejected result;\nsource relationships."
+  },
+  {
+    "objectID": "weeks/week07.html#f.-judgment",
+    "href": "weeks/week07.html#f.-judgment",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "F. Judgment",
+    "text": "F. Judgment\n\nfinal verdict;\nfinal confidence;\ninference boundary;\nstrongest remaining uncertainty."
+  },
+  {
+    "objectID": "weeks/week07.html#g.-ai-use-disclosure",
+    "href": "weeks/week07.html#g.-ai-use-disclosure",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "G. AI-use disclosure",
+    "text": "G. AI-use disclosure\n\ntool(s);\npurpose;\nconsequential prompts;\nwhat you independently verified;\nwhat remained your judgment."
+  },
+  {
+    "objectID": "weeks/week07.html#prompt-design-better-instructions-or-better-thinking",
+    "href": "weeks/week07.html#prompt-design-better-instructions-or-better-thinking",
+    "title": "Week 7 — TRACE Midterm Challenge",
+    "section": "Prompt design: better instructions or better thinking?",
+    "text": "Prompt design: better instructions or better thinking?\nBefore Week 8, compare provider guidance.\n\nREQUIRED READ A — OpenAI\nPrompt engineering best practices for ChatGPT\n\n\nREQUIRED READ B — Google or Anthropic\nGoogle — Prompt design strategies\nAnthropic — Prompting best practices\nDo not memorise provider-specific tricks.\nBring three principles that appear to be provider-independent.\n\nIs good prompting mainly about “magic words”, or about specifying a task, context, constraints, evidence, and evaluation criteria?"
+  },
+  {
+    "objectID": "weeks/week05.html",
+    "href": "weeks/week05.html",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "",
+    "text": "TipThis week’s central question\n\n\n\nDoes access to a more capable model automatically make the user more capable?"
+  },
+  {
+    "objectID": "weeks/week05.html#learning-goals",
+    "href": "weeks/week05.html#learning-goals",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "Learning goals",
+    "text": "Learning goals\nBy the end of this week, you should be able to:\n\ndistinguish a model benchmark from a general claim about “AI capability”;\nexplain the METR time-horizon construct and its scope;\nidentify when extrapolation goes beyond benchmark evidence;\ncompare unaided, naive-AI, structured-AI, and verified-AI task performance;\nrecognise verification cost as part of AI-assisted work;\nexplain why AI access and effective AI use are not the same capability."
+  },
+  {
+    "objectID": "weeks/week05.html#before-class",
+    "href": "weeks/week05.html#before-class",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "Before class",
+    "text": "Before class\n\nREQUIRED READ — METR\nRead the METR overview\nInspect the current measurements\n\n\n\n\n\n\nWarningScope warning\n\n\n\nMETR’s time-horizon work measures performance on a suite of software tasks in terms of the human-expert time associated with those tasks.\nIt is not a direct measure of “how long AI can do any human job.”\n\n\n\n\nComplete the pre-class quiz\nStart Week 5 Pre-Class Quiz"
+  },
+  {
+    "objectID": "weeks/week05.html#session-1-read-a-capability-claim-like-a-measurement-scientist",
+    "href": "weeks/week05.html#session-1-read-a-capability-claim-like-a-measurement-scientist",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "Session 1 — Read a capability claim like a measurement scientist",
+    "text": "Session 1 — Read a capability claim like a measurement scientist\n\nToday’s Case — “AI task horizon doubles every ~7 months”\nBefore opening the methodology, record:\n\nwhat you think the sentence means;\nwhat population of tasks you think it refers to;\nwhat evidence would be needed to generalise it to your field.\n\n\n\nEncounter — The metric\nWork through:\n\nHuman expert task duration → AI success probability → estimated time horizon\n\n\n\nProbe — Construct validity\nIdentify:\n\ntask domain;\ntask selection;\nsuccess criterion;\nmodel/tool setup;\n50% reliability threshold;\nextrapolation.\n\nThen answer:\n\nWhich headline is justified by the measurement, and which would overstate it?\n\n\n\nExplain\nSeparate:\nbenchmark capability\nfrom\nreal-world usefulness\nfrom\nprofessional replacement"
+  },
+  {
+    "objectID": "weeks/week05.html#session-2-skill-boost-experiment",
+    "href": "weeks/week05.html#session-2-skill-boost-experiment",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "Session 2 — Skill Boost Experiment",
+    "text": "Session 2 — Skill Boost Experiment\n\nFour conditions\n\n\n\nRound\nCondition\n\n\n\n\nA\nHuman only\n\n\nB\nNaive AI use\n\n\nC\nStructured AI use\n\n\nD\nStructured + independently verified AI use\n\n\n\nTrack completion time, completeness, factual accuracy, source quality, usefulness, and verification effort.\n\n\n\n\n\n\nNoteExperimental caution\n\n\n\nThis classroom activity is a learning diagnostic, not a clean causal experiment.\nPractice effects, task differences, prior expertise, and model variation can influence results.\n\n\n\n\nProbe — Where did the gain come from?\nWas improvement caused by faster drafting, idea generation, restructuring, domain knowledge, better search terms, or reduced cognitive load?\nOr did AI add checking cost, false confidence, fabricated details, or extra editing?"
+  },
+  {
+    "objectID": "weeks/week05.html#session-3-augmentation-is-a-joint-system",
+    "href": "weeks/week05.html#session-3-augmentation-is-a-joint-system",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "Session 3 — Augmentation is a joint system",
+    "text": "Session 3 — Augmentation is a joint system\n\nPair Challenge — Same model, different user strategy\nPairs receive the same model and same task.\n\nStudent A uses a minimal prompt.\nStudent B uses task decomposition, context, constraints, and explicit verification requirements.\n\nCompare outputs.\n\n\nExplain\nDevelop:\n\nAI access ≠ AI capability\n\nA more useful unit of analysis is often:\n\nUser + task + model + prompt/context + verification process\n\n\n\nDecide\nChoose:\n\nAI adds clear value;\nAI adds value only with verification;\nAI adds speed but reduces reliability;\nAI creates more work than it saves;\nevidence is insufficient."
+  },
+  {
+    "objectID": "weeks/week05.html#task-05-personal-skill-boost-test",
+    "href": "weeks/week05.html#task-05-personal-skill-boost-test",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "Task 05 — Personal Skill Boost Test",
+    "text": "Task 05 — Personal Skill Boost Test\nChoose one authentic, low-risk task from your discipline.\nSubmit:\n\ntask definition;\nbaseline/human approach;\nnaive-AI approach;\nstructured-AI approach;\nverified-AI approach;\ntime or effort estimate for each condition;\nquality criteria;\none error or limitation introduced by AI;\nverification cost;\nfinal judgment: where did AI genuinely boost your capability?\nAI-use disclosure.\n\nSubmit Task 05 — Personal Skill Boost Test"
+  },
+  {
+    "objectID": "weeks/week05.html#portfolio-evidence-this-week",
+    "href": "weeks/week05.html#portfolio-evidence-this-week",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "Portfolio evidence this week",
+    "text": "Portfolio evidence this week\nPROMPT · PROBE · VERIFY · TRANSFER"
+  },
+  {
+    "objectID": "weeks/week05.html#when-algorithms-decide-about-people",
+    "href": "weeks/week05.html#when-algorithms-decide-about-people",
+    "title": "Week 5 — Can AI Make You Better?",
+    "section": "When algorithms decide about people",
+    "text": "When algorithms decide about people\n\nREQUIRED READ — Machine Bias\nProPublica — Machine Bias\nRead Machine Bias\nFocus on what COMPAS was designed to predict, what outcome ProPublica used, false positives, false negatives, and why groups can experience different error patterns.\n\n\nREQUIRED SHORT READ — The dispute\nRead ProPublica’s response to Northpointe\nCome prepared for:\n\nCan the same model appear “fair” under one metric and “unfair” under another?\n\nOpen Week 6 Pre-Class Quiz"
+  },
+  {
+    "objectID": "weeks/week03.html",
+    "href": "weeks/week03.html",
+    "title": "Week 3 — Is This AI?",
+    "section": "",
+    "text": "TipThis week’s central question\n\n\n\nWhen someone says “AI”, what exactly are they claiming?"
+  },
+  {
+    "objectID": "weeks/week03.html#learning-goals",
+    "href": "weeks/week03.html#learning-goals",
+    "title": "Week 3 — Is This AI?",
+    "section": "Learning goals",
+    "text": "Learning goals\nBy the end of this week, you should be able to:\n\nexplain why AI is an umbrella term rather than one single technology;\ndistinguish rule-based automation, machine learning, predictive AI, generative AI, and LLM-based systems at a practical level;\nseparate a system’s technical function from the way it is marketed;\ntranslate anthropomorphic claims such as “understands”, “knows”, or “predicts people” into testable statements;\nevaluate whether available evidence supports a claimed AI capability;\navoid both AI hype and the opposite error of assuming all AI claims are meaningless."
+  },
+  {
+    "objectID": "weeks/week03.html#before-class",
+    "href": "weeks/week03.html#before-class",
+    "title": "Week 3 — Is This AI?",
+    "section": "Before class",
+    "text": "Before class\n\nREQUIRED READ — AI Snake Oil\nRead the FAQ\n\n\nBring one AI claim\nBring one real-world claim that uses the label AI.\n\n\nComplete the pre-class quiz\nStart Week 3 Pre-Class Quiz\n\n\n\n\n\n\nNoteCultural lens — Black Mirror: Be Right Back\n\n\n\nUse the episode as a thought experiment about the difference between:\n\na person\nand\na model constructed from traces of that person"
+  },
+  {
+    "objectID": "weeks/week03.html#session-1-classification-before-definition",
+    "href": "weeks/week03.html#session-1-classification-before-definition",
+    "title": "Week 3 — Is This AI?",
+    "section": "Session 1 — Classification before definition",
+    "text": "Session 1 — Classification before definition\n\nToday’s Case — Eight systems, one label\nYou will receive short descriptions of systems such as an automatic tax rule, spam filter, recommender, credit-risk model, facial-recognition system, LLM chatbot, text-to-image generator, and scripted customer-service workflow.\n\n\nPredict\nFor each system choose:\n\nNot AI\nAI\nUnsure\n\nRecord the feature that drove your judgment.\n\n\nEncounter — Build the conceptual map\nConstruct:\n\nAutomation → Algorithmic system → Machine learning → Predictive AI / Generative AI → LLM\n\nThe categories can overlap.\nThe goal is not one perfect dictionary definition. The goal is:\n\nWhat is the system actually doing, and what evidence would demonstrate that capability?\n\n\n\nProbe — Remove the label\nTake an AI-marketing statement and remove:\nAI / intelligent / smart / understands / thinks / knows\nRewrite it as an observable function."
+  },
+  {
+    "objectID": "weeks/week03.html#session-2-capability-versus-claim",
+    "href": "weeks/week03.html#session-2-capability-versus-claim",
+    "title": "Week 3 — Is This AI?",
+    "section": "Session 2 — Capability versus claim",
+    "text": "Session 2 — Capability versus claim\n\nPredictive AI and generative AI\nCompare:\nTask A: predict whether a person will do something in the future.\nTask B: generate a plausible text, image, or structured response.\nAsk:\n\nWhat counts as success?\nWhat data are required?\nWhat kind of error matters?\nHow can performance be tested?\n\n\n\nClaim Ladder\nReconstruct:\n\nLabel → Function → Metric → Evidence → Decision consequence\n\nIf the metric or evidence is missing, the chain is incomplete.\n\n\nExplain — Useful technology can still be overclaimed\nAvoid two extremes:\n\n“AI is magic.”\n“AI is all fake.”\n\nBoth prevent careful evaluation."
+  },
+  {
+    "objectID": "weeks/week03.html#session-3-claim-audit",
+    "href": "weeks/week03.html#session-3-claim-audit",
+    "title": "Week 3 — Is This AI?",
+    "section": "Session 3 — Claim audit",
+    "text": "Session 3 — Claim audit\n\nPair Challenge — AI Claim Audit\nExchange the real-world AI claims brought to class.\nFor the partner’s claim:\n\nidentify the claimed capability;\nclassify the system as far as evidence allows;\nidentify the performance metric that would matter;\nidentify missing evidence;\nrewrite the claim in a testable form.\n\n\n\nDecide\nChoose:\n\nCapability clearly specified and supported\nCapability plausible but evidence incomplete\nMarketing language exceeds demonstrated function\nInsufficient information to classify\nClaim is not testable as written\n\n\n\nVerify\nFind one source outside the vendor or claimant."
+  },
+  {
+    "objectID": "weeks/week03.html#task-03-ai-claim-audit",
+    "href": "weeks/week03.html#task-03-ai-claim-audit",
+    "title": "Week 3 — Is This AI?",
+    "section": "Task 03 — AI Claim Audit",
+    "text": "Task 03 — AI Claim Audit\nSubmit:\n\noriginal AI claim + URL/screenshot;\nexact capability being claimed;\nsystem classification;\nrewritten testable claim;\nrelevant performance metric;\nevidence supplied by claimant/vendor;\none independent source;\nmissing evidence;\nfinal judgment;\nAI-use disclosure.\n\nSubmit Task 03 — AI Claim Audit"
+  },
+  {
+    "objectID": "weeks/week03.html#portfolio-evidence-this-week",
+    "href": "weeks/week03.html#portfolio-evidence-this-week",
+    "title": "Week 3 — Is This AI?",
+    "section": "Portfolio evidence this week",
+    "text": "Portfolio evidence this week\nPROBE · JUDGE · TRANSFER"
+  },
+  {
+    "objectID": "weeks/week03.html#what-does-an-llm-actually-do",
+    "href": "weeks/week03.html#what-does-an-llm-actually-do",
+    "title": "Week 3 — Is This AI?",
+    "section": "What does an LLM actually do?",
+    "text": "What does an LLM actually do?\n\nREQUIRED READ — The Illustrated Transformer\nJay Alammar — The Illustrated Transformer\nOpen the reading\nFor this course, read only:\n\nA High-Level Look\nSelf-Attention at a High Level\n\nYou do not need the mathematical sections.\n\n\nOPTIONAL VISUAL EXTENSION\nJay Alammar — The Illustrated GPT-2\nExplore the visual guide\n\n\nCULTURAL LENS — Black Mirror: The Entire History of You\nOptional.\n\nPerfect stored recall is not the same thing as probabilistic language generation.\n\nOpen Week 4 Pre-Class Quiz"
+  },
+  {
+    "objectID": "weekly-labs.html",
+    "href": "weekly-labs.html",
+    "title": "Weekly TRACE Labs",
+    "section": "",
+    "text": "Every ordinary teaching week follows:"
+  },
+  {
+    "objectID": "weekly-labs.html#phase-i-know-search-question",
+    "href": "weekly-labs.html#phase-i-know-search-question",
+    "title": "Weekly TRACE Labs",
+    "section": "Phase I — Know, Search, Question",
+    "text": "Phase I — Know, Search, Question\n\nWeek 1 — How Do You Know?\nInformation seeking, source tracing, and verification.\n\n\nWeek 2 — Who Decides What You See?\nRanking, recommendation, targeting, and computational propaganda.\n\n\nWeek 3 — Is This AI?\nAutomation, predictive AI, generative AI, and claim auditing."
+  },
+  {
+    "objectID": "weekly-labs.html#phase-ii-understand-and-stress-test-ai",
+    "href": "weekly-labs.html#phase-ii-understand-and-stress-test-ai",
+    "title": "Weekly TRACE Labs",
+    "section": "Phase II — Understand and Stress-Test AI",
+    "text": "Phase II — Understand and Stress-Test AI\n\nWeek 4 — What Does an LLM Actually Do?\nPrediction, tokens, attention, context, and model variability.\n\n\nWeek 5 — Can AI Make You Better?\nCapability boundaries, benchmarks, skill boosting, and verification cost.\n\n\nWeek 6 — When Algorithms Decide About People\nRisk scores, bias, fairness, and counterfactual probing."
+  },
+  {
+    "objectID": "weekly-labs.html#midterm",
+    "href": "weekly-labs.html#midterm",
+    "title": "Weekly TRACE Labs",
+    "section": "Midterm",
+    "text": "Midterm\n\nWeek 7 — TRACE Midterm Challenge\nAn original evidence-based investigation integrating Weeks 1–6."
+  },
+  {
+    "objectID": "weekly-labs.html#phase-iii-use-control-verify",
+    "href": "weekly-labs.html#phase-iii-use-control-verify",
+    "title": "Weekly TRACE Labs",
+    "section": "Phase III — Use, Control, Verify",
+    "text": "Phase III — Use, Control, Verify\nWeeks 8–11 will add prompt design, context management, hallucination verification, and academic integrity."
+  },
+  {
+    "objectID": "weekly-labs.html#phase-iv-govern-and-transfer",
+    "href": "weekly-labs.html#phase-iv-govern-and-transfer",
+    "title": "Weekly TRACE Labs",
+    "section": "Phase IV — Govern and Transfer",
+    "text": "Phase IV — Govern and Transfer\nWeeks 12–14 will add context-specific guidelines, professional accountability, and final-project transfer."
+  },
+  {
+    "objectID": "google_forms/W07_Quiz_Schema.html",
+    "href": "google_forms/W07_Quiz_Schema.html",
+    "title": "DSA261 — W07 TRACE Midterm Readiness Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF\n\n\n\n\n\n\nThe Week 7 assessment primarily rewards:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Memorisation\nB. Polished prose\nC. Reconstructable evidence and judgment (Correct)\nD. Model choice\n\n\n\n\n\nLLM output counts as independent verification evidence:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Always\nB. Only when confident\nC. No; it may be a lead but requires external verification (Correct)\nD. Only if it cites sources\n\n\n\n\n\nThe Challenge Code is used to:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Randomly change grades\nB. Add an individual investigation constraint (Correct)\nC. Replace the student’s case\nD. Ban AI\n\n\n\n\n\nA strong final judgment should:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Be stronger than the evidence\nB. Match claim strength to evidence strength (Correct)\nC. Avoid uncertainty\nD. Ignore rejected results\n\n\n\n\n\nWhich is required?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. At least one rejected result with justification (Correct)\nB. No AI use\nC. A five-page essay\nD. One predetermined correct verdict\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?\n\n\n\n\nQuiz submitted. Bring the required preparation and evidence specified on the Week 7 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W07_Quiz_Schema.html#recommended-settings",
+    "href": "google_forms/W07_Quiz_Schema.html#recommended-settings",
+    "title": "DSA261 — W07 TRACE Midterm Readiness Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF"
+  },
+  {
+    "objectID": "google_forms/W07_Quiz_Schema.html#questions",
+    "href": "google_forms/W07_Quiz_Schema.html#questions",
+    "title": "DSA261 — W07 TRACE Midterm Readiness Quiz",
+    "section": "",
+    "text": "The Week 7 assessment primarily rewards:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Memorisation\nB. Polished prose\nC. Reconstructable evidence and judgment (Correct)\nD. Model choice\n\n\n\n\n\nLLM output counts as independent verification evidence:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Always\nB. Only when confident\nC. No; it may be a lead but requires external verification (Correct)\nD. Only if it cites sources\n\n\n\n\n\nThe Challenge Code is used to:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Randomly change grades\nB. Add an individual investigation constraint (Correct)\nC. Replace the student’s case\nD. Ban AI\n\n\n\n\n\nA strong final judgment should:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Be stronger than the evidence\nB. Match claim strength to evidence strength (Correct)\nC. Avoid uncertainty\nD. Ignore rejected results\n\n\n\n\n\nWhich is required?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. At least one rejected result with justification (Correct)\nB. No AI use\nC. A five-page essay\nD. One predetermined correct verdict\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?"
+  },
+  {
+    "objectID": "google_forms/W07_Quiz_Schema.html#confirmation-message",
+    "href": "google_forms/W07_Quiz_Schema.html#confirmation-message",
+    "title": "DSA261 — W07 TRACE Midterm Readiness Quiz",
+    "section": "",
+    "text": "Quiz submitted. Bring the required preparation and evidence specified on the Week 7 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W06_Task_Schema.html",
+    "href": "google_forms/W06_Task_Schema.html",
+    "title": "DSA261 — Task 06: Counterfactual Fairness Probe",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired\n\n\n\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\n\nCOMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W06_Task_Schema.html#recommended-settings",
+    "href": "google_forms/W06_Task_Schema.html#recommended-settings",
+    "title": "DSA261 — Task 06: Counterfactual Fairness Probe",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired"
+  },
+  {
+    "objectID": "google_forms/W06_Task_Schema.html#student-fields",
+    "href": "google_forms/W06_Task_Schema.html#student-fields",
+    "title": "DSA261 — Task 06: Counterfactual Fairness Probe",
+    "section": "",
+    "text": "Type: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes"
+  },
+  {
+    "objectID": "google_forms/W06_Task_Schema.html#instructor-status",
+    "href": "google_forms/W06_Task_Schema.html#instructor-status",
+    "title": "DSA261 — Task 06: Counterfactual Fairness Probe",
+    "section": "",
+    "text": "COMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W05_Task_Schema.html",
+    "href": "google_forms/W05_Task_Schema.html",
+    "title": "DSA261 — Task 05: Personal Skill Boost Test",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired\n\n\n\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\n\nCOMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W05_Task_Schema.html#recommended-settings",
+    "href": "google_forms/W05_Task_Schema.html#recommended-settings",
+    "title": "DSA261 — Task 05: Personal Skill Boost Test",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired"
+  },
+  {
+    "objectID": "google_forms/W05_Task_Schema.html#student-fields",
+    "href": "google_forms/W05_Task_Schema.html#student-fields",
+    "title": "DSA261 — Task 05: Personal Skill Boost Test",
+    "section": "",
+    "text": "Type: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes"
+  },
+  {
+    "objectID": "google_forms/W05_Task_Schema.html#instructor-status",
+    "href": "google_forms/W05_Task_Schema.html#instructor-status",
+    "title": "DSA261 — Task 05: Personal Skill Boost Test",
+    "section": "",
+    "text": "COMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W04_Task_Schema.html",
+    "href": "google_forms/W04_Task_Schema.html",
+    "title": "DSA261 — Task 04: Model Variation Log",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired\n\n\n\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\n\nCOMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W04_Task_Schema.html#recommended-settings",
+    "href": "google_forms/W04_Task_Schema.html#recommended-settings",
+    "title": "DSA261 — Task 04: Model Variation Log",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired"
+  },
+  {
+    "objectID": "google_forms/W04_Task_Schema.html#student-fields",
+    "href": "google_forms/W04_Task_Schema.html#student-fields",
+    "title": "DSA261 — Task 04: Model Variation Log",
+    "section": "",
+    "text": "Type: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes"
+  },
+  {
+    "objectID": "google_forms/W04_Task_Schema.html#instructor-status",
+    "href": "google_forms/W04_Task_Schema.html#instructor-status",
+    "title": "DSA261 — Task 04: Model Variation Log",
+    "section": "",
+    "text": "COMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W03_Task_Schema.html",
+    "href": "google_forms/W03_Task_Schema.html",
+    "title": "DSA261 — Task 03: AI Claim Audit",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired\n\n\n\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\n\nCOMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W03_Task_Schema.html#recommended-settings",
+    "href": "google_forms/W03_Task_Schema.html#recommended-settings",
+    "title": "DSA261 — Task 03: AI Claim Audit",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired"
+  },
+  {
+    "objectID": "google_forms/W03_Task_Schema.html#student-fields",
+    "href": "google_forms/W03_Task_Schema.html#student-fields",
+    "title": "DSA261 — Task 03: AI Claim Audit",
+    "section": "",
+    "text": "Type: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes"
+  },
+  {
+    "objectID": "google_forms/W03_Task_Schema.html#instructor-status",
+    "href": "google_forms/W03_Task_Schema.html#instructor-status",
+    "title": "DSA261 — Task 03: AI Claim Audit",
+    "section": "",
+    "text": "COMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W02_Task_Schema.html",
+    "href": "google_forms/W02_Task_Schema.html",
+    "title": "DSA261 — Task 02: Algorithmic Visibility Audit",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired\n\n\n\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\n\nCOMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W02_Task_Schema.html#recommended-settings",
+    "href": "google_forms/W02_Task_Schema.html#recommended-settings",
+    "title": "DSA261 — Task 02: Algorithmic Visibility Audit",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired"
+  },
+  {
+    "objectID": "google_forms/W02_Task_Schema.html#student-fields",
+    "href": "google_forms/W02_Task_Schema.html#student-fields",
+    "title": "DSA261 — Task 02: Algorithmic Visibility Audit",
+    "section": "",
+    "text": "Type: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes"
+  },
+  {
+    "objectID": "google_forms/W02_Task_Schema.html#instructor-status",
+    "href": "google_forms/W02_Task_Schema.html#instructor-status",
+    "title": "DSA261 — Task 02: Algorithmic Visibility Audit",
+    "section": "",
+    "text": "COMPLETE / REVISE / MISSING"
+  },
+  {
+    "objectID": "google_forms/W02_Quiz_Schema.html",
+    "href": "google_forms/W02_Quiz_Schema.html",
+    "title": "DSA261 — W02 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF\n\n\n\n\n\n\nWhich statement is strongest?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Different rankings prove manipulation.\nB. Targeting capability proves persuasion.\nC. Different rankings demonstrate different visibility conditions but require more evidence for effect claims. (Correct)\nD. A filter bubble means information has been deleted from the internet.\n\n\n\n\n\nWhich sequence best represents the Cambridge Analytica evidence ladder?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Persuasion → profiling → data collection\nB. Data collection → profiling → targeting → exposure → effect (Correct)\nC. Targeting → effect → data collection\nD. Exposure → data collection → profiling\n\n\n\n\n\nComputational propaganda can involve:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Only human journalists\nB. Bots, fake accounts, trolls, automation and platform dynamics (Correct)\nC. Only paid advertising\nD. Only false facts\n\n\n\n\n\nEvidence that a user saw a message is evidence of:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Exposure (Correct)\nB. Persuasion\nC. Vote change\nD. Causation\n\n\n\n\n\nA responsible visibility audit should:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Infer motive from ranking differences\nB. Compare conditions and limit claims to what observations support (Correct)\nC. Assume the first result is the most truthful\nD. Use only one query\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?\n\n\n\n\nQuiz submitted. Bring the required preparation and evidence specified on the Week 2 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W02_Quiz_Schema.html#recommended-settings",
+    "href": "google_forms/W02_Quiz_Schema.html#recommended-settings",
+    "title": "DSA261 — W02 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF"
+  },
+  {
+    "objectID": "google_forms/W02_Quiz_Schema.html#questions",
+    "href": "google_forms/W02_Quiz_Schema.html#questions",
+    "title": "DSA261 — W02 Pre-Class Quiz",
+    "section": "",
+    "text": "Which statement is strongest?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Different rankings prove manipulation.\nB. Targeting capability proves persuasion.\nC. Different rankings demonstrate different visibility conditions but require more evidence for effect claims. (Correct)\nD. A filter bubble means information has been deleted from the internet.\n\n\n\n\n\nWhich sequence best represents the Cambridge Analytica evidence ladder?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Persuasion → profiling → data collection\nB. Data collection → profiling → targeting → exposure → effect (Correct)\nC. Targeting → effect → data collection\nD. Exposure → data collection → profiling\n\n\n\n\n\nComputational propaganda can involve:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Only human journalists\nB. Bots, fake accounts, trolls, automation and platform dynamics (Correct)\nC. Only paid advertising\nD. Only false facts\n\n\n\n\n\nEvidence that a user saw a message is evidence of:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Exposure (Correct)\nB. Persuasion\nC. Vote change\nD. Causation\n\n\n\n\n\nA responsible visibility audit should:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Infer motive from ranking differences\nB. Compare conditions and limit claims to what observations support (Correct)\nC. Assume the first result is the most truthful\nD. Use only one query\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?"
+  },
+  {
+    "objectID": "google_forms/W02_Quiz_Schema.html#confirmation-message",
+    "href": "google_forms/W02_Quiz_Schema.html#confirmation-message",
+    "title": "DSA261 — W02 Pre-Class Quiz",
+    "section": "",
+    "text": "Quiz submitted. Bring the required preparation and evidence specified on the Week 2 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W03_Quiz_Schema.html",
+    "href": "google_forms/W03_Quiz_Schema.html",
+    "title": "DSA261 — W03 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF\n\n\n\n\n\n\nAI is best treated as:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. One single technology\nB. An umbrella term covering different technologies and applications (Correct)\nC. A synonym for LLM\nD. Any software with automation\n\n\n\n\n\nPredictive AI is primarily used to:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Generate plausible text\nB. Predict an outcome or behaviour from data (Correct)\nC. Store files\nD. Sort alphabetically\n\n\n\n\n\nA marketing claim should first be rewritten as:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. A moral judgment\nB. An observable/testable function (Correct)\nC. A longer slogan\nD. A model name\n\n\n\n\n\nWhich is the strongest evidence of a claimed capability?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Vendor says ‘AI-powered’\nB. An evaluation that matches the intended task and population (Correct)\nC. Professional-looking interface\nD. Number of followers\n\n\n\n\n\nWhich position best fits AI Snake Oil’s framing?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. All AI is useless\nB. All AI is equally reliable\nC. Useful AI and overclaimed AI can coexist (Correct)\nD. Generative AI is the only important AI\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?\n\n\n\n\nQuiz submitted. Bring the required preparation and evidence specified on the Week 3 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W03_Quiz_Schema.html#recommended-settings",
+    "href": "google_forms/W03_Quiz_Schema.html#recommended-settings",
+    "title": "DSA261 — W03 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF"
+  },
+  {
+    "objectID": "google_forms/W03_Quiz_Schema.html#questions",
+    "href": "google_forms/W03_Quiz_Schema.html#questions",
+    "title": "DSA261 — W03 Pre-Class Quiz",
+    "section": "",
+    "text": "AI is best treated as:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. One single technology\nB. An umbrella term covering different technologies and applications (Correct)\nC. A synonym for LLM\nD. Any software with automation\n\n\n\n\n\nPredictive AI is primarily used to:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Generate plausible text\nB. Predict an outcome or behaviour from data (Correct)\nC. Store files\nD. Sort alphabetically\n\n\n\n\n\nA marketing claim should first be rewritten as:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. A moral judgment\nB. An observable/testable function (Correct)\nC. A longer slogan\nD. A model name\n\n\n\n\n\nWhich is the strongest evidence of a claimed capability?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Vendor says ‘AI-powered’\nB. An evaluation that matches the intended task and population (Correct)\nC. Professional-looking interface\nD. Number of followers\n\n\n\n\n\nWhich position best fits AI Snake Oil’s framing?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. All AI is useless\nB. All AI is equally reliable\nC. Useful AI and overclaimed AI can coexist (Correct)\nD. Generative AI is the only important AI\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?"
+  },
+  {
+    "objectID": "google_forms/W03_Quiz_Schema.html#confirmation-message",
+    "href": "google_forms/W03_Quiz_Schema.html#confirmation-message",
+    "title": "DSA261 — W03 Pre-Class Quiz",
+    "section": "",
+    "text": "Quiz submitted. Bring the required preparation and evidence specified on the Week 3 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W04_Quiz_Schema.html",
+    "href": "google_forms/W04_Quiz_Schema.html",
+    "title": "DSA261 — W04 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF\n\n\n\n\n\n\nA language model generates text primarily by:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Retrieving a stored sentence verbatim\nB. Predicting subsequent tokens conditional on context (Correct)\nC. Searching the web by default\nD. Following a fixed script\n\n\n\n\n\nSelf-attention helps a transformer:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Delete earlier tokens\nB. Relate information across positions in context (Correct)\nC. Guarantee truth\nD. Access private data\n\n\n\n\n\nWhich distinction is correct?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Training and web search are the same\nB. Generation and external retrieval are different processes (Correct)\nC. Context is irrelevant after training\nD. Tool use proves the model stored the output\n\n\n\n\n\nRepeated outputs can differ because:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. The model has no structure\nB. Generation is probabilistic and context-sensitive (Correct)\nC. The internet changed every time\nD. The prompt has no effect\n\n\n\n\n\nA controlled comparison changes:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Many variables at once\nB. One relevant variable at a time where possible (Correct)\nC. The final judgment after seeing results\nD. Nothing\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?\n\n\n\n\nQuiz submitted. Bring the required preparation and evidence specified on the Week 4 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W04_Quiz_Schema.html#recommended-settings",
+    "href": "google_forms/W04_Quiz_Schema.html#recommended-settings",
+    "title": "DSA261 — W04 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF"
+  },
+  {
+    "objectID": "google_forms/W04_Quiz_Schema.html#questions",
+    "href": "google_forms/W04_Quiz_Schema.html#questions",
+    "title": "DSA261 — W04 Pre-Class Quiz",
+    "section": "",
+    "text": "A language model generates text primarily by:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Retrieving a stored sentence verbatim\nB. Predicting subsequent tokens conditional on context (Correct)\nC. Searching the web by default\nD. Following a fixed script\n\n\n\n\n\nSelf-attention helps a transformer:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Delete earlier tokens\nB. Relate information across positions in context (Correct)\nC. Guarantee truth\nD. Access private data\n\n\n\n\n\nWhich distinction is correct?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Training and web search are the same\nB. Generation and external retrieval are different processes (Correct)\nC. Context is irrelevant after training\nD. Tool use proves the model stored the output\n\n\n\n\n\nRepeated outputs can differ because:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. The model has no structure\nB. Generation is probabilistic and context-sensitive (Correct)\nC. The internet changed every time\nD. The prompt has no effect\n\n\n\n\n\nA controlled comparison changes:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Many variables at once\nB. One relevant variable at a time where possible (Correct)\nC. The final judgment after seeing results\nD. Nothing\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?"
+  },
+  {
+    "objectID": "google_forms/W04_Quiz_Schema.html#confirmation-message",
+    "href": "google_forms/W04_Quiz_Schema.html#confirmation-message",
+    "title": "DSA261 — W04 Pre-Class Quiz",
+    "section": "",
+    "text": "Quiz submitted. Bring the required preparation and evidence specified on the Week 4 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W05_Quiz_Schema.html",
+    "href": "google_forms/W05_Quiz_Schema.html",
+    "title": "DSA261 — W05 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF\n\n\n\n\n\n\nMETR’s time-horizon metric is defined using:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Number of words generated\nB. Human expert completion time associated with software tasks (Correct)\nC. Model parameter count\nD. User satisfaction only\n\n\n\n\n\nA 50% time horizon refers to:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Tasks the AI always completes\nB. Task duration at which predicted success is 50% (Correct)\nC. 50% of all human jobs\nD. Half the context window\n\n\n\n\n\nWhich is an overgeneralisation?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. The benchmark suggests progress on the measured software-task suite\nB. The result directly proves AI can autonomously do all professional work of the same duration (Correct)\nC. Reliability thresholds matter\nD. Task selection matters\n\n\n\n\n\nVerification cost means:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Subscription price\nB. Effort required to check and correct AI-assisted work (Correct)\nC. GPU electricity only\nD. Time to write the prompt only\n\n\n\n\n\nThe course proposition ‘AI access ≠ AI capability’ means:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Models do not matter\nB. User, task, prompt/context and verification also shape outcomes (Correct)\nC. Only experts can use AI\nD. AI never improves performance\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?\n\n\n\n\nQuiz submitted. Bring the required preparation and evidence specified on the Week 5 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W05_Quiz_Schema.html#recommended-settings",
+    "href": "google_forms/W05_Quiz_Schema.html#recommended-settings",
+    "title": "DSA261 — W05 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF"
+  },
+  {
+    "objectID": "google_forms/W05_Quiz_Schema.html#questions",
+    "href": "google_forms/W05_Quiz_Schema.html#questions",
+    "title": "DSA261 — W05 Pre-Class Quiz",
+    "section": "",
+    "text": "METR’s time-horizon metric is defined using:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Number of words generated\nB. Human expert completion time associated with software tasks (Correct)\nC. Model parameter count\nD. User satisfaction only\n\n\n\n\n\nA 50% time horizon refers to:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Tasks the AI always completes\nB. Task duration at which predicted success is 50% (Correct)\nC. 50% of all human jobs\nD. Half the context window\n\n\n\n\n\nWhich is an overgeneralisation?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. The benchmark suggests progress on the measured software-task suite\nB. The result directly proves AI can autonomously do all professional work of the same duration (Correct)\nC. Reliability thresholds matter\nD. Task selection matters\n\n\n\n\n\nVerification cost means:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Subscription price\nB. Effort required to check and correct AI-assisted work (Correct)\nC. GPU electricity only\nD. Time to write the prompt only\n\n\n\n\n\nThe course proposition ‘AI access ≠ AI capability’ means:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Models do not matter\nB. User, task, prompt/context and verification also shape outcomes (Correct)\nC. Only experts can use AI\nD. AI never improves performance\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?"
+  },
+  {
+    "objectID": "google_forms/W05_Quiz_Schema.html#confirmation-message",
+    "href": "google_forms/W05_Quiz_Schema.html#confirmation-message",
+    "title": "DSA261 — W05 Pre-Class Quiz",
+    "section": "",
+    "text": "Quiz submitted. Bring the required preparation and evidence specified on the Week 5 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W06_Quiz_Schema.html",
+    "href": "google_forms/W06_Quiz_Schema.html",
+    "title": "DSA261 — W06 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF\n\n\n\n\n\n\nA false positive occurs when:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. The system predicts the event and it does not occur (Correct)\nB. The system predicts no event and it occurs\nC. The prediction is correct\nD. No score is produced\n\n\n\n\n\nOverall accuracy can hide:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Nothing important\nB. Different error patterns across groups (Correct)\nC. The model name\nD. Only formatting problems\n\n\n\n\n\nWhich statement is most defensible?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Fairness has one universally correct metric\nB. Different fairness criteria can conflict (Correct)\nC. Equal accuracy guarantees equal error rates\nD. Any group difference proves discrimination\n\n\n\n\n\nA counterfactual probe changes:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. One attribute while holding others constant as far as possible (Correct)\nB. Every attribute simultaneously\nC. Only the explanation\nD. The dataset size\n\n\n\n\n\nOne counterfactual example can establish:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Population-level discrimination\nB. Sensitivity in that tested case (Correct)\nC. Legal liability\nD. Causal effects in all users\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?\n\n\n\n\nQuiz submitted. Bring the required preparation and evidence specified on the Week 6 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W06_Quiz_Schema.html#recommended-settings",
+    "href": "google_forms/W06_Quiz_Schema.html#recommended-settings",
+    "title": "DSA261 — W06 Pre-Class Quiz",
+    "section": "",
+    "text": "Make this a quiz: ON\nCollect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nRelease grade immediately: ON\nShuffle question order: OFF"
+  },
+  {
+    "objectID": "google_forms/W06_Quiz_Schema.html#questions",
+    "href": "google_forms/W06_Quiz_Schema.html#questions",
+    "title": "DSA261 — W06 Pre-Class Quiz",
+    "section": "",
+    "text": "A false positive occurs when:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. The system predicts the event and it does not occur (Correct)\nB. The system predicts no event and it occurs\nC. The prediction is correct\nD. No score is produced\n\n\n\n\n\nOverall accuracy can hide:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Nothing important\nB. Different error patterns across groups (Correct)\nC. The model name\nD. Only formatting problems\n\n\n\n\n\nWhich statement is most defensible?\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Fairness has one universally correct metric\nB. Different fairness criteria can conflict (Correct)\nC. Equal accuracy guarantees equal error rates\nD. Any group difference proves discrimination\n\n\n\n\n\nA counterfactual probe changes:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. One attribute while holding others constant as far as possible (Correct)\nB. Every attribute simultaneously\nC. Only the explanation\nD. The dataset size\n\n\n\n\n\nOne counterfactual example can establish:\nType: Multiple choice\nPoints: 1\nRequired: Yes\n\nA. Population-level discrimination\nB. Sensitivity in that tested case (Correct)\nC. Legal liability\nD. Causal effects in all users\n\n\n\n\n\nType: Linear scale 1–5\nPoints: 0\nRequired: Yes\nHow confident are you that you can apply this week’s core distinction before the lab?"
+  },
+  {
+    "objectID": "google_forms/W06_Quiz_Schema.html#confirmation-message",
+    "href": "google_forms/W06_Quiz_Schema.html#confirmation-message",
+    "title": "DSA261 — W06 Pre-Class Quiz",
+    "section": "",
+    "text": "Quiz submitted. Bring the required preparation and evidence specified on the Week 6 TRACE Lab page."
+  },
+  {
+    "objectID": "google_forms/W07_Midterm_Schema.html",
+    "href": "google_forms/W07_Midterm_Schema.html",
+    "title": "DSA261 — W07 TRACE Midterm Challenge",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired\n\n\n\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\n\n\nCase framing and provenance — 15%\nSearch / interaction trail — 20%\nQuality of probes — 20%\nEvidence and independent verification — 25%\nFinal judgment and inference discipline — 15%\nAI-use transparency and process integrity — 5%"
+  },
+  {
+    "objectID": "google_forms/W07_Midterm_Schema.html#recommended-settings",
+    "href": "google_forms/W07_Midterm_Schema.html#recommended-settings",
+    "title": "DSA261 — W07 TRACE Midterm Challenge",
+    "section": "",
+    "text": "Collect email addresses: ON\nLimit to one response: ON if institutional accounts permit\nSend response copy: Always\nLink responses to the course evidence Sheet\nAllow editing until the instructor-set deadline if desired"
+  },
+  {
+    "objectID": "google_forms/W07_Midterm_Schema.html#student-fields",
+    "href": "google_forms/W07_Midterm_Schema.html#student-fields",
+    "title": "DSA261 — W07 TRACE Midterm Challenge",
+    "section": "",
+    "text": "Type: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Paragraph\nRequired: Yes\n\n\n\nType: Short answer\nRequired: Yes"
+  },
+  {
+    "objectID": "google_forms/W07_Midterm_Schema.html#midterm-grading-dimensions",
+    "href": "google_forms/W07_Midterm_Schema.html#midterm-grading-dimensions",
+    "title": "DSA261 — W07 TRACE Midterm Challenge",
+    "section": "",
+    "text": "Case framing and provenance — 15%\nSearch / interaction trail — 20%\nQuality of probes — 20%\nEvidence and independent verification — 25%\nFinal judgment and inference discipline — 15%\nAI-use transparency and process integrity — 5%"
+  },
+  {
+    "objectID": "weeks/week02.html",
+    "href": "weeks/week02.html",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "",
+    "text": "TipThis week’s central question\n\n\n\nWhen you think you are choosing information, what might algorithms already have chosen for you?"
+  },
+  {
+    "objectID": "weeks/week02.html#learning-goals",
+    "href": "weeks/week02.html#learning-goals",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "Learning goals",
+    "text": "Learning goals\nBy the end of this week, you should be able to:\n\ndistinguish ranking, recommendation, personalisation, and targeting;\nexplain why being shown content does not by itself prove that the content changed someone’s behaviour;\nidentify how query wording and platform design can alter the information environment;\ndistinguish evidence of data collection, profiling, targeting, exposure, and persuasion;\nconduct a small visibility audit without overclaiming that differences prove manipulation;\nexplain why algorithmic influence claims require both mechanism evidence and outcome evidence."
+  },
+  {
+    "objectID": "weeks/week02.html#before-class",
+    "href": "weeks/week02.html#before-class",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "Before class",
+    "text": "Before class\nThis preparation was assigned at the end of Week 1 and must be completed before class.\n\nREQUIRED WATCH — Filter bubbles\nEli Pariser — “Beware online filter bubbles”\nWatch the talk\nFocus on personalisation, invisible filtering, and the difference between information being available and information becoming visible.\n\n\nREQUIRED READ — Cambridge Analytica\nUK Information Commissioner’s Office — Cambridge Analytica raids\nRead the ICO overview\nReconstruct:\n\nData collection → Profiling → Targeting → Exposure → Claimed influence\n\n\n\nREQUIRED EXPLORE — Computational propaganda\nOxford Internet Institute — Computational Propaganda\nExplore the project\nBe ready to explain how bots, fake accounts, trolls, automation, and platform dynamics can work together.\n\n\nComplete the pre-class quiz\nStart Week 2 Pre-Class Quiz\n\n\n\n\n\n\nNoteCultural lens — Black Mirror: Nosedive\n\n\n\nOptional viewing.\nGuiding question:\n\nWhat happens when visibility, scoring, incentives, and behaviour become tightly coupled through a platform?"
+  },
+  {
+    "objectID": "weeks/week02.html#session-1-visibility-is-not-neutral",
+    "href": "weeks/week02.html#session-1-visibility-is-not-neutral",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "Session 1 — Visibility is not neutral",
+    "text": "Session 1 — Visibility is not neutral\n\nToday’s Case — Same need, different information environment\nYou will receive one information need.\nBefore searching, predict:\n\nwhat the first three results are likely to look like;\nwhich sources you expect to dominate;\nwhether two systems should show essentially the same information.\n\n\n\nPredict\nRecord:\n\nexpected overlap between two systems: 0–100%;\nexpected overlap between two differently worded queries: 0–100%;\none reason results might differ.\n\n\n\nEncounter — Ranking audit\nRun the same information need using:\n\nQuery A: neutral/descriptive wording;\nQuery B: meaningfully different framing;\nSystem 1: one search environment;\nSystem 2: a second search environment available in the lab.\n\nCapture the top five results for each condition.\n\n\nProbe — What changed?\nCompare result overlap, source types, ordering, sponsored content, recency, viewpoint diversity, and snippets/headlines.\n\n\n\n\n\n\nWarningInference rule\n\n\n\nDifferent rankings demonstrate different visibility conditions.\nThey do not, by themselves, prove manipulation, persuasion, or discriminatory intent."
+  },
+  {
+    "objectID": "weeks/week02.html#session-2-from-targeting-to-persuasion",
+    "href": "weeks/week02.html#session-2-from-targeting-to-persuasion",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "Session 2 — From targeting to persuasion",
+    "text": "Session 2 — From targeting to persuasion\n\nCase Ladder — Cambridge Analytica\nFor each step classify the evidence as:\nEstablished / Plausible but incomplete / Requires stronger causal evidence\n\nUser data were collected.\nProfiles were constructed.\nAudiences could be targeted.\nTargeted users were exposed to messages.\nExposure changed attitudes.\nChanged attitudes altered voting behaviour.\n\nThe objective is not to defend or dismiss Cambridge Analytica. It is to identify where the evidence burden changes.\n\n\nExplain — Targeting capability is not behavioural effect\nDiscuss:\n\nIf a platform can target people precisely, does that demonstrate that the messages are persuasive?\n\nSeparate capability evidence from effect evidence.\n\n\nTroll farms and computational propaganda\nIdentify automation, coordination, amplification, imitation of consensus, and potential exposure.\nThen ask:\n\nWhat evidence would we need to claim that this campaign changed attitudes or votes?\n\n\n\nEvidence check — Exposure is not effect\nThe instructor introduces empirical evidence on exposure to the Russian Internet Research Agency campaign.\nCompare:\n\nlarge-scale operation\nwith\nmeasured relationship with attitude or voting change\n\nThe methodological lesson is:\n\nAn influence attempt can be real even when behavioural effect is uncertain, small, concentrated, or difficult to identify."
+  },
+  {
+    "objectID": "weeks/week02.html#session-3-when-can-we-say-the-algorithm-influenced-me",
+    "href": "weeks/week02.html#session-3-when-can-we-say-the-algorithm-influenced-me",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "Session 3 — When can we say “the algorithm influenced me”?",
+    "text": "Session 3 — When can we say “the algorithm influenced me”?\n\nPair Challenge — Influence Claim Audit\nEach pair receives one statement such as:\n\n“The algorithm radicalised users.”\n“This campaign changed the election.”\n“Personalisation trapped users in a bubble.”\n“The recommender made this product go viral.”\n\nProduce:\n\nthe exact claim;\nevidence for the mechanism;\nevidence for exposure;\nevidence for outcome;\nthe strongest inference you can responsibly make.\n\n\n\nDecide\nChoose one:\n\nMechanism established; effect unknown\nExposure established; effect unknown\nEffect evidence present but limited\nClaim supported within stated scope\nClaim overstates available evidence\n\n\n\nVerify\nAsk:\n\nWhat evidence independent of the platform, campaign, or claimant supports this judgment?"
+  },
+  {
+    "objectID": "weeks/week02.html#task-02-algorithmic-visibility-audit",
+    "href": "weeks/week02.html#task-02-algorithmic-visibility-audit",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "Task 02 — Algorithmic Visibility Audit",
+    "text": "Task 02 — Algorithmic Visibility Audit\nChoose one non-sensitive information need relevant to your daily or academic life.\nRun:\n\n2 meaningfully different queries × 2 search/recommendation environments\n\nSubmit:\n\ninformation need;\nQuery A and Query B;\nSystem 1 and System 2;\ntop five results for each condition;\nresult overlap;\nsource-type differences;\none explanation for why visibility may have changed;\none explanation you cannot justify from your data;\na short distinction between visibility, targeting, and persuasion;\nAI-use disclosure if applicable.\n\nSubmit Task 02 — Algorithmic Visibility Audit"
+  },
+  {
+    "objectID": "weeks/week02.html#portfolio-evidence-this-week",
+    "href": "weeks/week02.html#portfolio-evidence-this-week",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "Portfolio evidence this week",
+    "text": "Portfolio evidence this week\nSEEK · PROBE · JUDGE"
+  },
+  {
+    "objectID": "weeks/week02.html#what-is-ai-and-what-is-being-sold-as-ai",
+    "href": "weeks/week02.html#what-is-ai-and-what-is-being-sold-as-ai",
+    "title": "Week 2 — Who Decides What You See?",
+    "section": "What is AI — and what is being sold as AI?",
+    "text": "What is AI — and what is being sold as AI?\n\nREQUIRED READ — AI Snake Oil\nArvind Narayanan & Sayash Kapoor — AI Snake Oil: “FAQ about the book and our writing process”\nRead the AI Snake Oil FAQ\nFocus on AI as an umbrella term, the distinction between types of AI, predictive AI, and why usefulness in one domain does not validate claims in another.\n\n\nREQUIRED EXPLORE — One AI claim in the wild\nFind one product, advertisement, news headline, university service, financial service, recruitment tool, or public-sector system that uses the term AI.\nBring the claim, the URL or screenshot, and one sentence describing what you think the system actually does.\n\n\nCULTURAL LENS — Black Mirror: Be Right Back\nOptional.\n\nIf a system can imitate a person’s language from digital traces, what does it mean to say that it “knows” that person?\n\nOpen Week 3 Pre-Class Quiz"
+  },
+  {
+    "objectID": "weeks/week04.html",
+    "href": "weeks/week04.html",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "",
+    "text": "TipThis week’s central question\n\n\n\nIs an LLM remembering, retrieving, reasoning, predicting language—or some combination depending on the system around it?"
+  },
+  {
+    "objectID": "weeks/week04.html#learning-goals",
+    "href": "weeks/week04.html#learning-goals",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Learning goals",
+    "text": "Learning goals\nBy the end of this week, you should be able to:\n\nexplain next-token generation conceptually without equations;\nexplain why output depends on preceding context;\ndescribe self-attention at an intuitive level;\ndistinguish model training, generation, and external retrieval/tool use;\nexplain why repeated runs can produce different outputs;\ndesign a controlled comparison in which one interaction variable is changed at a time."
+  },
+  {
+    "objectID": "weeks/week04.html#before-class",
+    "href": "weeks/week04.html#before-class",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Before class",
+    "text": "Before class\n\nREQUIRED READ\nJay Alammar — The Illustrated Transformer\nRead:\n\nA High-Level Look\nSelf-Attention at a High Level\n\nOpen the reading\n\n\n\n\n\n\nNoteImportant scope note\n\n\n\nThe original Transformer was presented as an encoder–decoder architecture.\nModern chat LLMs may use different transformer arrangements and additional tools.\nWe are learning the architecture family and core intuition, not claiming that every current assistant is architecturally identical to the original diagram.\n\n\n\n\nComplete the pre-class quiz\nStart Week 4 Pre-Class Quiz"
+  },
+  {
+    "objectID": "weeks/week04.html#session-1-become-the-language-model",
+    "href": "weeks/week04.html#session-1-become-the-language-model",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Session 1 — Become the language model",
+    "text": "Session 1 — Become the language model\n\nToday’s Case — Predict the next token\nThe instructor gives an incomplete sequence.\nBefore any explanation, predict the next item.\nThen compare class predictions.\nQuestions:\n\nDid everyone predict the same continuation?\nCould several continuations be plausible?\nWhat changed when more context was added?\n\n\n\nPredict\nComplete:\n\n“The most likely next word is ___ because ___.”\n\nThen the instructor modifies the preceding context.\nPredict again.\n\n\nEncounter — Probability, not a database lookup\nBuild the conceptual pipeline:\n\nInput → Tokens → Contextual representations → Next-token distribution → Selected token → Repeat\n\n\n\nAttention intuition\nUse:\n\n“The animal did not cross the street because it was too tired.”\n\nWhat does it refer to?\nDiscuss why processing one token can benefit from information elsewhere in the sequence."
+  },
+  {
+    "objectID": "weeks/week04.html#session-2-training-generation-retrieval",
+    "href": "weeks/week04.html#session-2-training-generation-retrieval",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Session 2 — Training, generation, retrieval",
+    "text": "Session 2 — Training, generation, retrieval\n\nThree processes students often mix together\nTraining\nModel parameters are adjusted using large amounts of data.\nGeneration / inference\nA trained model produces outputs from the current input and context.\nRetrieval / tool use\nA surrounding system may search the web, query a database, use memory, call a calculator, or access files.\n\n\n\n\n\n\nWarningCritical distinction\n\n\n\nA chat assistant that can browse the web is not evidence that the underlying language model “stored the whole web” or “looked up the answer from its training data.”\nTool use changes the system.\n\n\n\n\nProbe — Controlled model variation\nUse one non-time-sensitive prompt.\nRun it:\n\nin three fresh sessions; or\nunder three controlled prompt conditions.\n\nChange one variable at a time.\nRecord what changed, what remained stable, what you can infer, and what you cannot infer.\n\n\nExplain — Variability is information\nDo not conclude:\n\n“The model is random, so nothing can be trusted.”\n\nInstead ask:\n\nWhich aspects are stable enough to use, and which require verification?"
+  },
+  {
+    "objectID": "weeks/week04.html#session-3-context-as-an-experimental-variable",
+    "href": "weeks/week04.html#session-3-context-as-an-experimental-variable",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Session 3 — Context as an experimental variable",
+    "text": "Session 3 — Context as an experimental variable\n\nPair Challenge — Change the context, not the task\nPairs receive the same target task.\n\nVersion A: minimal context\nVersion B: relevant context\nVersion C: relevant context plus one misleading or irrelevant detail\n\nCompare outputs.\n\n\nDecide\nWhich condition produced the most useful response?\nWhat is your evidence?\n\n\nVerify\nChoose one factual or inferential element and verify it outside the model."
+  },
+  {
+    "objectID": "weeks/week04.html#task-04-model-variation-log",
+    "href": "weeks/week04.html#task-04-model-variation-log",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Task 04 — Model Variation Log",
+    "text": "Task 04 — Model Variation Log\nChoose one discipline-relevant, non-sensitive task.\nRun it under at least three controlled conditions.\nSubmit:\n\ntarget task;\nbaseline prompt;\nCondition A/B/C;\nexact variable changed;\noutputs or evidence links;\nstable features;\nunstable features;\none externally verified element;\nwhat the comparison does not allow you to conclude;\nAI-use disclosure.\n\nSubmit Task 04 — Model Variation Log"
+  },
+  {
+    "objectID": "weeks/week04.html#portfolio-evidence-this-week",
+    "href": "weeks/week04.html#portfolio-evidence-this-week",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Portfolio evidence this week",
+    "text": "Portfolio evidence this week\nPROBE · CONTEXT · VERIFY"
+  },
+  {
+    "objectID": "weeks/week04.html#can-ai-make-you-better",
+    "href": "weeks/week04.html#can-ai-make-you-better",
+    "title": "Week 4 — What Does an LLM Actually Do?",
+    "section": "Can AI make you better?",
+    "text": "Can AI make you better?\n\nREQUIRED READ — METR Time Horizons\nMeasuring AI Ability to Complete Long Software Tasks\nRead the METR overview\nThen inspect:\nExplore current time-horizon measurements\nPrepare answers to:\n\nWhat exactly is being measured?\nWhat does “50% time horizon” mean?\nWhat kinds of tasks are included?\nWhat would be an invalid generalisation from this benchmark?\n\nOpen Week 5 Pre-Class Quiz"
+  },
+  {
+    "objectID": "weeks/week06.html",
+    "href": "weeks/week06.html",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "",
+    "text": "TipThis week’s central question\n\n\n\nIf an algorithm performs differently across groups, what would make that difference fair or unfair?"
+  },
+  {
+    "objectID": "weeks/week06.html#learning-goals",
+    "href": "weeks/week06.html#learning-goals",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "Learning goals",
+    "text": "Learning goals\nBy the end of this week, you should be able to:\n\ndistinguish false positives and false negatives;\nexplain why “overall accuracy” can hide asymmetric errors;\nexplain why fairness is not one universal statistic;\ndescribe how base rates can create tension between fairness metrics;\nuse controlled counterfactual changes to probe a decision system;\ndistinguish a legitimate decision criterion from a questionable proxy;\nidentify who bears responsibility for using an algorithmic score."
+  },
+  {
+    "objectID": "weeks/week06.html#before-class",
+    "href": "weeks/week06.html#before-class",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "Before class",
+    "text": "Before class\n\nREQUIRED READ — ProPublica: Machine Bias\nRead Machine Bias\n\n\nREQUIRED SHORT READ — ProPublica responds to Northpointe\nRead the response\n\n\nComplete the pre-class quiz\nStart Week 6 Pre-Class Quiz"
+  },
+  {
+    "objectID": "weeks/week06.html#session-1-same-accuracy-different-errors",
+    "href": "weeks/week06.html#session-1-same-accuracy-different-errors",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "Session 1 — Same accuracy, different errors",
+    "text": "Session 1 — Same accuracy, different errors\n\nToday’s Case — COMPAS\nProPublica examined risk scores assigned to defendants in Broward County, Florida and compared the scores with later arrests.\nThe central problem was not simply:\n\n“the system makes errors”\n\nbut:\n\nthe errors were distributed differently across groups.\n\n\n\nPredict\nBefore seeing the table, answer:\n\nIf two groups have approximately similar overall accuracy, must the system be equally fair to both groups?\n\nYes / No / Unsure\nExplain why.\n\n\nEncounter — Error patterns\nUsing the instructor-provided simplified table, identify:\n\ntrue positive;\nfalse positive;\ntrue negative;\nfalse negative.\n\nThen compare group-specific error rates.\n\n\nProbe — Change the fairness definition\nEvaluate the same system from several perspectives:\nPredictive performance\nDoes a high score mean something similar across groups?\nFalse-positive parity\nAre non-events incorrectly flagged at similar rates?\nFalse-negative parity\nAre events incorrectly missed at similar rates?\nOverall accuracy\nIs total correct classification similar?\n\n\nExplain — Fairness is a choice of criterion\nThe class confronts:\n\nA model can satisfy one fairness criterion while violating another.\n\nThe question therefore becomes partly normative:\n\nWhich error matters in this decision context, to whom, and why?"
+  },
+  {
+    "objectID": "weeks/week06.html#session-2-counterfactual-probing",
+    "href": "weeks/week06.html#session-2-counterfactual-probing",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "Session 2 — Counterfactual probing",
+    "text": "Session 2 — Counterfactual probing\n\nSynthetic decision case\nYou will receive a fictional hiring, lending, scholarship, or public-service profile.\nThe system makes a recommendation.\nChange one attribute at a time.\nPossible variables:\n\nyears of experience;\nemployment gap;\npostcode;\ninstitution;\nincome history;\nage;\nanother instructor-approved feature.\n\n\n\nProbe\nFor each changed variable ask:\n\nIs this feature directly relevant?\nIs it a plausible proxy for something else?\nWould using this feature require justification?\nDoes one changed output prove systematic discrimination?\n\n\n\nInference rule\nA counterfactual probe can reveal sensitivity.\nOne example does not establish population-level discrimination."
+  },
+  {
+    "objectID": "weeks/week06.html#session-3-who-owns-the-decision",
+    "href": "weeks/week06.html#session-3-who-owns-the-decision",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "Session 3 — Who owns the decision?",
+    "text": "Session 3 — Who owns the decision?\n\nPair Challenge — Decision responsibility map\nChoose one context:\n\nhiring;\nlending;\nscholarship;\ncontent moderation;\ninsurance;\npublic administration.\n\nMap:\n\nData → Model → Score → Human interpretation → Decision → Consequence\n\nFor each stage identify possible bias, verification opportunity, and responsible actor.\n\n\nDecide\nWould you:\n\nuse the system as-is;\nuse it only as decision support;\nrequire an audit;\nremove a feature;\nreject the system for this use?\n\nDefend the decision.\n\n\nVerify\nWhat independent evidence would you need before approving this system for real-world use?"
+  },
+  {
+    "objectID": "weeks/week06.html#task-06-counterfactual-fairness-probe",
+    "href": "weeks/week06.html#task-06-counterfactual-fairness-probe",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "Task 06 — Counterfactual Fairness Probe",
+    "text": "Task 06 — Counterfactual Fairness Probe\nUse an instructor-approved synthetic decision scenario.\nDo not submit sensitive personal data.\nSubmit:\n\noriginal synthetic case;\noriginal decision/output;\nthree one-variable-at-a-time counterfactual changes;\nresulting decisions;\none variable you regard as substantively legitimate;\none variable that could operate as a proxy;\nwhat your small test can establish;\nwhat it cannot establish;\nthe fairness criterion you consider most important for this context and why;\nAI-use disclosure.\n\n\nWeek 7 case seed\nAt the end of Task 06, register one candidate digital artifact or decision problem that you may investigate in the Week 7 TRACE Midterm Challenge.\nThe case seed is not graded for quality. It exists to establish provenance before the challenge begins.\nSubmit Task 06 — Counterfactual Fairness Probe"
+  },
+  {
+    "objectID": "weeks/week06.html#portfolio-evidence-this-week",
+    "href": "weeks/week06.html#portfolio-evidence-this-week",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "Portfolio evidence this week",
+    "text": "Portfolio evidence this week\nPROBE · JUDGE · VERIFY"
+  },
+  {
+    "objectID": "weeks/week06.html#trace-midterm-challenge",
+    "href": "weeks/week06.html#trace-midterm-challenge",
+    "title": "Week 6 — When Algorithms Decide About People",
+    "section": "TRACE Midterm Challenge",
+    "text": "TRACE Midterm Challenge\nWeek 7 is not a conventional written exam.\nBefore class:\n\nmake sure your Week 6 case seed is submitted;\nreview your W1–W6 Tasks;\nbring access to your evidence links/screenshots;\ncomplete the readiness quiz.\n\nNo new reading is assigned.\nOpen Week 7 Readiness Quiz"
   }
 ]

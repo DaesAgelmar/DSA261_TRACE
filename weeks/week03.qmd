@@ -1,0 +1,209 @@
+---
+title: "Week 3 — Is This AI?"
+subtitle: "Automation, machine learning, predictive AI, generative AI, and claim auditing"
+week: 3
+phase: "Know, Search, Question"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO2"]
+evidence: [PROBE, JUDGE, TRANSFER]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**When someone says “AI”, what exactly are they claiming?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. explain why **AI** is an umbrella term rather than one single technology;
+2. distinguish rule-based automation, machine learning, predictive AI, generative AI, and LLM-based systems at a practical level;
+3. separate a system's **technical function** from the way it is marketed;
+4. translate anthropomorphic claims such as “understands”, “knows”, or “predicts people” into testable statements;
+5. evaluate whether available evidence supports a claimed AI capability;
+6. avoid both AI hype and the opposite error of assuming all AI claims are meaningless.
+
+## Before class
+
+### REQUIRED READ — AI Snake Oil
+
+[Read the FAQ]({{< var urls.ai_snake_oil_faq >}}){.btn .btn-outline-primary}
+
+### Bring one AI claim
+
+Bring one real-world claim that uses the label **AI**.
+
+### Complete the pre-class quiz
+
+[Start Week 3 Pre-Class Quiz]({{< var forms.week03.quiz >}}){.btn .btn-primary}
+
+::: {.callout-note}
+## Cultural lens — Black Mirror: *Be Right Back*
+
+Use the episode as a thought experiment about the difference between:
+
+> **a person**  
+> and  
+> **a model constructed from traces of that person**
+:::
+
+---
+
+# TRACE Lab
+
+## Session 1 — Classification before definition
+
+### Today's Case — Eight systems, one label
+
+You will receive short descriptions of systems such as an automatic tax rule, spam filter, recommender, credit-risk model, facial-recognition system, LLM chatbot, text-to-image generator, and scripted customer-service workflow.
+
+### Predict
+
+For each system choose:
+
+- **Not AI**
+- **AI**
+- **Unsure**
+
+Record the feature that drove your judgment.
+
+### Encounter — Build the conceptual map
+
+Construct:
+
+> **Automation → Algorithmic system → Machine learning → Predictive AI / Generative AI → LLM**
+
+The categories can overlap.
+
+The goal is not one perfect dictionary definition. The goal is:
+
+> **What is the system actually doing, and what evidence would demonstrate that capability?**
+
+### Probe — Remove the label
+
+Take an AI-marketing statement and remove:
+
+**AI / intelligent / smart / understands / thinks / knows**
+
+Rewrite it as an observable function.
+
+## Session 2 — Capability versus claim
+
+### Predictive AI and generative AI
+
+Compare:
+
+**Task A:** predict whether a person will do something in the future.  
+**Task B:** generate a plausible text, image, or structured response.
+
+Ask:
+
+- What counts as success?
+- What data are required?
+- What kind of error matters?
+- How can performance be tested?
+
+### Claim Ladder
+
+Reconstruct:
+
+> **Label → Function → Metric → Evidence → Decision consequence**
+
+If the metric or evidence is missing, the chain is incomplete.
+
+### Explain — Useful technology can still be overclaimed
+
+Avoid two extremes:
+
+- **“AI is magic.”**
+- **“AI is all fake.”**
+
+Both prevent careful evaluation.
+
+## Session 3 — Claim audit
+
+### Pair Challenge — AI Claim Audit
+
+Exchange the real-world AI claims brought to class.
+
+For the partner's claim:
+
+1. identify the claimed capability;
+2. classify the system as far as evidence allows;
+3. identify the performance metric that would matter;
+4. identify missing evidence;
+5. rewrite the claim in a testable form.
+
+### Decide
+
+Choose:
+
+- **Capability clearly specified and supported**
+- **Capability plausible but evidence incomplete**
+- **Marketing language exceeds demonstrated function**
+- **Insufficient information to classify**
+- **Claim is not testable as written**
+
+### Verify
+
+Find one source outside the vendor or claimant.
+
+---
+
+# After class
+
+## Task 03 — AI Claim Audit
+
+Submit:
+
+1. original AI claim + URL/screenshot;
+2. exact capability being claimed;
+3. system classification;
+4. rewritten testable claim;
+5. relevant performance metric;
+6. evidence supplied by claimant/vendor;
+7. one independent source;
+8. missing evidence;
+9. final judgment;
+10. AI-use disclosure.
+
+[Submit Task 03 — AI Claim Audit]({{< var forms.week03.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`PROBE` · `JUDGE` · `TRANSFER`
+
+---
+
+# Next on DSA261 — Week 4
+
+## What does an LLM actually do?
+
+### REQUIRED READ — The Illustrated Transformer
+
+**Jay Alammar — The Illustrated Transformer**
+
+[Open the reading]({{< var urls.illustrated_transformer >}}){.btn .btn-outline-primary}
+
+For this course, read only:
+
+1. **A High-Level Look**
+2. **Self-Attention at a High Level**
+
+You do **not** need the mathematical sections.
+
+### OPTIONAL VISUAL EXTENSION
+
+**Jay Alammar — The Illustrated GPT-2**
+
+[Explore the visual guide]({{< var urls.illustrated_gpt2 >}}){.btn .btn-outline-primary}
+
+### CULTURAL LENS — Black Mirror: *The Entire History of You*
+
+Optional.
+
+> **Perfect stored recall is not the same thing as probabilistic language generation.**
+
+[Open Week 4 Pre-Class Quiz]({{< var forms.week04.quiz >}}){.btn .btn-primary}

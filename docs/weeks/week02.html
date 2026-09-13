@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 1 — How Do You Know? – DSA261 — Algorithmic Learning and AI</title>
+<title>Week 2 — Who Decides What You See? – DSA261 — Algorithmic Learning and AI</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -109,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Learning Path</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../weeks/week01.html" aria-current="page"> 
+    <a class="nav-link" href="../weeks/week01.html"> 
 <span class="menu-text">Weekly Labs</span></a>
   </li>  
   <li class="nav-item">
@@ -140,54 +140,49 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#trace-this-week" id="toc-trace-this-week" class="nav-link active" data-scroll-target="#trace-this-week">TRACE this week</a></li>
-  <li><a href="#learning-goals" id="toc-learning-goals" class="nav-link" data-scroll-target="#learning-goals">Learning goals</a></li>
+  <li><a href="#learning-goals" id="toc-learning-goals" class="nav-link active" data-scroll-target="#learning-goals">Learning goals</a></li>
   <li><a href="#before-class" id="toc-before-class" class="nav-link" data-scroll-target="#before-class">Before class</a>
   <ul class="collapse">
-  <li><a href="#watch-how-to-choose-your-news" id="toc-watch-how-to-choose-your-news" class="nav-link" data-scroll-target="#watch-how-to-choose-your-news">1. Watch — How to choose your news</a></li>
-  <li><a href="#read-teyit-methodology" id="toc-read-teyit-methodology" class="nav-link" data-scroll-target="#read-teyit-methodology">2. Read — Teyit methodology</a></li>
-  <li><a href="#complete-the-pre-class-quiz" id="toc-complete-the-pre-class-quiz" class="nav-link" data-scroll-target="#complete-the-pre-class-quiz">3. Complete the pre-class quiz</a></li>
+  <li><a href="#required-watch-filter-bubbles" id="toc-required-watch-filter-bubbles" class="nav-link" data-scroll-target="#required-watch-filter-bubbles">REQUIRED WATCH — Filter bubbles</a></li>
+  <li><a href="#required-read-cambridge-analytica" id="toc-required-read-cambridge-analytica" class="nav-link" data-scroll-target="#required-read-cambridge-analytica">REQUIRED READ — Cambridge Analytica</a></li>
+  <li><a href="#required-explore-computational-propaganda" id="toc-required-explore-computational-propaganda" class="nav-link" data-scroll-target="#required-explore-computational-propaganda">REQUIRED EXPLORE — Computational propaganda</a></li>
+  <li><a href="#complete-the-pre-class-quiz" id="toc-complete-the-pre-class-quiz" class="nav-link" data-scroll-target="#complete-the-pre-class-quiz">Complete the pre-class quiz</a></li>
   </ul></li>
   <li><a href="#trace-lab" id="toc-trace-lab" class="nav-link" data-scroll-target="#trace-lab">TRACE Lab</a>
   <ul class="collapse">
-  <li><a href="#session-1-from-impression-to-investigation" id="toc-session-1-from-impression-to-investigation" class="nav-link" data-scroll-target="#session-1-from-impression-to-investigation">Session 1 — From impression to investigation</a>
+  <li><a href="#session-1-visibility-is-not-neutral" id="toc-session-1-visibility-is-not-neutral" class="nav-link" data-scroll-target="#session-1-visibility-is-not-neutral">Session 1 — Visibility is not neutral</a>
   <ul class="collapse">
-  <li><a href="#todays-case-the-claim-arrives-first" id="toc-todays-case-the-claim-arrives-first" class="nav-link" data-scroll-target="#todays-case-the-claim-arrives-first">1. Today’s Case — The claim arrives first</a></li>
-  <li><a href="#predict" id="toc-predict" class="nav-link" data-scroll-target="#predict">2. Predict</a></li>
-  <li><a href="#encounter" id="toc-encounter" class="nav-link" data-scroll-target="#encounter">3. Encounter</a></li>
-  <li><a href="#probe-i-search-differently" id="toc-probe-i-search-differently" class="nav-link" data-scroll-target="#probe-i-search-differently">4. Probe I — Search differently</a></li>
-  <li><a href="#skill-studio-source-tracing" id="toc-skill-studio-source-tracing" class="nav-link" data-scroll-target="#skill-studio-source-tracing">5. Skill Studio — Source tracing</a></li>
-  <li><a href="#probe-ii-leave-the-page" id="toc-probe-ii-leave-the-page" class="nav-link" data-scroll-target="#probe-ii-leave-the-page">6. Probe II — Leave the page</a></li>
-  <li><a href="#explain-what-changed" id="toc-explain-what-changed" class="nav-link" data-scroll-target="#explain-what-changed">7. Explain — What changed?</a></li>
+  <li><a href="#todays-case-same-need-different-information-environment" id="toc-todays-case-same-need-different-information-environment" class="nav-link" data-scroll-target="#todays-case-same-need-different-information-environment">Today’s Case — Same need, different information environment</a></li>
+  <li><a href="#predict" id="toc-predict" class="nav-link" data-scroll-target="#predict">Predict</a></li>
+  <li><a href="#encounter-ranking-audit" id="toc-encounter-ranking-audit" class="nav-link" data-scroll-target="#encounter-ranking-audit">Encounter — Ranking audit</a></li>
+  <li><a href="#probe-what-changed" id="toc-probe-what-changed" class="nav-link" data-scroll-target="#probe-what-changed">Probe — What changed?</a></li>
   </ul></li>
-  <li><a href="#short-break" id="toc-short-break" class="nav-link" data-scroll-target="#short-break">Short break</a></li>
-  <li><a href="#session-2-from-investigation-to-defensible-judgment" id="toc-session-2-from-investigation-to-defensible-judgment" class="nav-link" data-scroll-target="#session-2-from-investigation-to-defensible-judgment">Session 2 — From investigation to defensible judgment</a>
+  <li><a href="#session-2-from-targeting-to-persuasion" id="toc-session-2-from-targeting-to-persuasion" class="nav-link" data-scroll-target="#session-2-from-targeting-to-persuasion">Session 2 — From targeting to persuasion</a>
   <ul class="collapse">
-  <li><a href="#pair-challenge-trace-before-you-trust" id="toc-pair-challenge-trace-before-you-trust" class="nav-link" data-scroll-target="#pair-challenge-trace-before-you-trust">8. Pair Challenge — Trace before you trust</a></li>
-  <li><a href="#decide-make-a-defensible-judgment" id="toc-decide-make-a-defensible-judgment" class="nav-link" data-scroll-target="#decide-make-a-defensible-judgment">9. Decide — Make a defensible judgment</a></li>
-  <li><a href="#verify-independent-evidence" id="toc-verify-independent-evidence" class="nav-link" data-scroll-target="#verify-independent-evidence">10. Verify — Independent evidence</a></li>
-  <li><a href="#recalibrate" id="toc-recalibrate" class="nav-link" data-scroll-target="#recalibrate">11. Recalibrate</a></li>
+  <li><a href="#case-ladder-cambridge-analytica" id="toc-case-ladder-cambridge-analytica" class="nav-link" data-scroll-target="#case-ladder-cambridge-analytica">Case Ladder — Cambridge Analytica</a></li>
+  <li><a href="#explain-targeting-capability-is-not-behavioural-effect" id="toc-explain-targeting-capability-is-not-behavioural-effect" class="nav-link" data-scroll-target="#explain-targeting-capability-is-not-behavioural-effect">Explain — Targeting capability is not behavioural effect</a></li>
+  <li><a href="#troll-farms-and-computational-propaganda" id="toc-troll-farms-and-computational-propaganda" class="nav-link" data-scroll-target="#troll-farms-and-computational-propaganda">Troll farms and computational propaganda</a></li>
+  <li><a href="#evidence-check-exposure-is-not-effect" id="toc-evidence-check-exposure-is-not-effect" class="nav-link" data-scroll-target="#evidence-check-exposure-is-not-effect">Evidence check — Exposure is not effect</a></li>
+  </ul></li>
+  <li><a href="#session-3-when-can-we-say-the-algorithm-influenced-me" id="toc-session-3-when-can-we-say-the-algorithm-influenced-me" class="nav-link" data-scroll-target="#session-3-when-can-we-say-the-algorithm-influenced-me">Session 3 — When can we say “the algorithm influenced me”?</a>
+  <ul class="collapse">
+  <li><a href="#pair-challenge-influence-claim-audit" id="toc-pair-challenge-influence-claim-audit" class="nav-link" data-scroll-target="#pair-challenge-influence-claim-audit">Pair Challenge — Influence Claim Audit</a></li>
+  <li><a href="#decide" id="toc-decide" class="nav-link" data-scroll-target="#decide">Decide</a></li>
+  <li><a href="#verify" id="toc-verify" class="nav-link" data-scroll-target="#verify">Verify</a></li>
   </ul></li>
   </ul></li>
   <li><a href="#after-class" id="toc-after-class" class="nav-link" data-scroll-target="#after-class">After class</a>
   <ul class="collapse">
-  <li><a href="#task-01-source-trace" id="toc-task-01-source-trace" class="nav-link" data-scroll-target="#task-01-source-trace">Task 01 — Source Trace</a>
-  <ul class="collapse">
-  <li><a href="#minimum-evidence" id="toc-minimum-evidence" class="nav-link" data-scroll-target="#minimum-evidence">Minimum evidence</a></li>
-  <li><a href="#completion-standard" id="toc-completion-standard" class="nav-link" data-scroll-target="#completion-standard">Completion standard</a></li>
-  </ul></li>
-  <li><a href="#concepts-to-keep" id="toc-concepts-to-keep" class="nav-link" data-scroll-target="#concepts-to-keep">Concepts to keep</a></li>
+  <li><a href="#task-02-algorithmic-visibility-audit" id="toc-task-02-algorithmic-visibility-audit" class="nav-link" data-scroll-target="#task-02-algorithmic-visibility-audit">Task 02 — Algorithmic Visibility Audit</a></li>
   <li><a href="#portfolio-evidence-this-week" id="toc-portfolio-evidence-this-week" class="nav-link" data-scroll-target="#portfolio-evidence-this-week">Portfolio evidence this week</a></li>
   </ul></li>
-  <li><a href="#next-on-dsa261-week-2" id="toc-next-on-dsa261-week-2" class="nav-link" data-scroll-target="#next-on-dsa261-week-2">Next on DSA261 — Week 2</a>
+  <li><a href="#next-on-dsa261-week-3" id="toc-next-on-dsa261-week-3" class="nav-link" data-scroll-target="#next-on-dsa261-week-3">Next on DSA261 — Week 3</a>
   <ul class="collapse">
-  <li><a href="#who-decides-what-you-see" id="toc-who-decides-what-you-see" class="nav-link" data-scroll-target="#who-decides-what-you-see">Who decides what you see?</a>
+  <li><a href="#what-is-ai-and-what-is-being-sold-as-ai" id="toc-what-is-ai-and-what-is-being-sold-as-ai" class="nav-link" data-scroll-target="#what-is-ai-and-what-is-being-sold-as-ai">What is AI — and what is being sold as AI?</a>
   <ul class="collapse">
-  <li><a href="#required-watch-filter-bubbles" id="toc-required-watch-filter-bubbles" class="nav-link" data-scroll-target="#required-watch-filter-bubbles">REQUIRED WATCH — Filter bubbles</a></li>
-  <li><a href="#required-read-cambridge-analytica-as-a-data-and-targeting-case" id="toc-required-read-cambridge-analytica-as-a-data-and-targeting-case" class="nav-link" data-scroll-target="#required-read-cambridge-analytica-as-a-data-and-targeting-case">REQUIRED READ — Cambridge Analytica as a data and targeting case</a></li>
-  <li><a href="#required-explore-computational-propaganda" id="toc-required-explore-computational-propaganda" class="nav-link" data-scroll-target="#required-explore-computational-propaganda">REQUIRED EXPLORE — Computational propaganda</a></li>
-  <li><a href="#cultural-lens-black-mirror-nosedive" id="toc-cultural-lens-black-mirror-nosedive" class="nav-link" data-scroll-target="#cultural-lens-black-mirror-nosedive">CULTURAL LENS — Black Mirror: <em>Nosedive</em></a></li>
-  <li><a href="#bring-to-week-2" id="toc-bring-to-week-2" class="nav-link" data-scroll-target="#bring-to-week-2">Bring to Week 2</a></li>
+  <li><a href="#required-read-ai-snake-oil" id="toc-required-read-ai-snake-oil" class="nav-link" data-scroll-target="#required-read-ai-snake-oil">REQUIRED READ — AI Snake Oil</a></li>
+  <li><a href="#required-explore-one-ai-claim-in-the-wild" id="toc-required-explore-one-ai-claim-in-the-wild" class="nav-link" data-scroll-target="#required-explore-one-ai-claim-in-the-wild">REQUIRED EXPLORE — One AI claim in the wild</a></li>
+  <li><a href="#cultural-lens-black-mirror-be-right-back" id="toc-cultural-lens-black-mirror-be-right-back" class="nav-link" data-scroll-target="#cultural-lens-black-mirror-be-right-back">CULTURAL LENS — Black Mirror: <em>Be Right Back</em></a></li>
   </ul></li>
   </ul></li>
   </ul>
@@ -198,8 +193,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Week 1 — How Do You Know?</h1>
-<p class="subtitle lead">Information seeking, source tracing, verification, and epistemic agency</p>
+<h1 class="title">Week 2 — Who Decides What You See?</h1>
+<p class="subtitle lead">Ranking, recommendation, targeting, computational propaganda, and the difference between exposure and effect</p>
 </div>
 
 
@@ -226,74 +221,63 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>How do you know that something you see online is true?</strong></p>
-<p>This week is not simply about “finding the correct news story.” The deeper goal is to make visible <strong>why we trust a claim, what evidence changes our judgment, and how we trace information back to inspectable evidence</strong>.</p>
+<p><strong>When you think you are choosing information, what might algorithms already have chosen for you?</strong></p>
 </div>
 </div>
-<section id="trace-this-week" class="level2">
-<h2 class="anchored" data-anchor-id="trace-this-week">TRACE this week</h2>
-<blockquote class="blockquote">
-<p><strong>Predict → Encounter → Probe → Explain → Decide → Verify</strong></p>
-</blockquote>
-<p>TRACE is not an answer formula. It is a working protocol for keeping <strong>epistemic control with you</strong> when you encounter a claim, search result, algorithmic decision, or LLM output.</p>
-</section>
 <section id="learning-goals" class="level2">
 <h2 class="anchored" data-anchor-id="learning-goals">Learning goals</h2>
 <p>By the end of this week, you should be able to:</p>
 <ol type="1">
-<li>explain the difference between a <strong>claim</strong>, a <strong>source</strong>, and <strong>evidence</strong>;</li>
-<li>distinguish the page where information first reaches you from the <strong>original source</strong> of that information;</li>
-<li>design different <strong>search queries</strong> for the same information need;</li>
-<li>evaluate a source by going beyond the page itself rather than relying only on its appearance;</li>
-<li>test a claim against at least one independent source;</li>
-<li>explain why your confidence changed—or did not change—after verification.</li>
+<li>distinguish <strong>ranking</strong>, <strong>recommendation</strong>, <strong>personalisation</strong>, and <strong>targeting</strong>;</li>
+<li>explain why being shown content does not by itself prove that the content changed someone’s behaviour;</li>
+<li>identify how query wording and platform design can alter the information environment;</li>
+<li>distinguish evidence of <strong>data collection</strong>, <strong>profiling</strong>, <strong>targeting</strong>, <strong>exposure</strong>, and <strong>persuasion</strong>;</li>
+<li>conduct a small visibility audit without overclaiming that differences prove manipulation;</li>
+<li>explain why algorithmic influence claims require both mechanism evidence and outcome evidence.</li>
 </ol>
 </section>
 <section id="before-class" class="level2">
 <h2 class="anchored" data-anchor-id="before-class">Before class</h2>
-<p>This section <strong>must be completed before class</strong>.</p>
-<section id="watch-how-to-choose-your-news" class="level3">
-<h3 class="anchored" data-anchor-id="watch-how-to-choose-your-news">1. Watch — How to choose your news</h3>
-<p>Damon Brown, TED-Ed — approximately 4.5 minutes.</p>
-<p><a href="https://www.ted.com/talks/damon_brown_how_to_choose_your_news" class="btn btn-outline-primary">Watch: How to choose your news</a></p>
-<p>While watching, keep one question in mind:</p>
+<p>This preparation was assigned at the end of Week 1 and <strong>must be completed before class</strong>.</p>
+<section id="required-watch-filter-bubbles" class="level3">
+<h3 class="anchored" data-anchor-id="required-watch-filter-bubbles">REQUIRED WATCH — Filter bubbles</h3>
+<p><strong>Eli Pariser — “Beware online filter bubbles”</strong></p>
+<p><a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles" class="btn btn-outline-primary">Watch the talk</a></p>
+<p>Focus on personalisation, invisible filtering, and the difference between information being available and information becoming visible.</p>
+</section>
+<section id="required-read-cambridge-analytica" class="level3">
+<h3 class="anchored" data-anchor-id="required-read-cambridge-analytica">REQUIRED READ — Cambridge Analytica</h3>
+<p><strong>UK Information Commissioner’s Office — Cambridge Analytica raids</strong></p>
+<p><a href="https://ico.org.uk/for-the-public/ico-40/cambridge-analytica-raids/" class="btn btn-outline-primary">Read the ICO overview</a></p>
+<p>Reconstruct:</p>
 <blockquote class="blockquote">
-<p><strong>What does the fact that a news item reached you actually tell you about whether it is true?</strong></p>
+<p><strong>Data collection → Profiling → Targeting → Exposure → Claimed influence</strong></p>
 </blockquote>
 </section>
-<section id="read-teyit-methodology" class="level3">
-<h3 class="anchored" data-anchor-id="read-teyit-methodology">2. Read — Teyit methodology</h3>
-<p>Read the current Teyit methodology page, focusing especially on:</p>
-<ul>
-<li>how claims are scanned and identified;</li>
-<li>how claims are selected and prioritised;</li>
-<li>how evidence and sources are made traceable.</li>
-</ul>
-<p><a href="https://teyit.org/metodoloji" class="btn btn-outline-primary">Read: Teyit — Methodology</a></p>
-<p>While reading, look for this distinction:</p>
-<blockquote class="blockquote">
-<p><strong>“This claim sounds believable to me” is not the same as “this claim can be tested against publicly inspectable evidence.”</strong></p>
-</blockquote>
+<section id="required-explore-computational-propaganda" class="level3">
+<h3 class="anchored" data-anchor-id="required-explore-computational-propaganda">REQUIRED EXPLORE — Computational propaganda</h3>
+<p><strong>Oxford Internet Institute — Computational Propaganda</strong></p>
+<p><a href="https://www.oii.ox.ac.uk/research/projects/computational-propaganda/" class="btn btn-outline-primary">Explore the project</a></p>
+<p>Be ready to explain how bots, fake accounts, trolls, automation, and platform dynamics can work together.</p>
 </section>
 <section id="complete-the-pre-class-quiz" class="level3">
-<h3 class="anchored" data-anchor-id="complete-the-pre-class-quiz">3. Complete the pre-class quiz</h3>
-<p>The quiz is a <strong>5–7 minute preparation and diagnostic check</strong>. Its purpose is not to reward memorisation. It makes visible the assumptions and verification habits you bring into the lab.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd_ghgKuqbOPXc63i8ZScNczl6nByxO1Eiwkc83gALH7rbk-A/viewform" class="btn btn-primary">Start Week 1 Pre-Class Quiz</a></p>
+<h3 class="anchored" data-anchor-id="complete-the-pre-class-quiz">Complete the pre-class quiz</h3>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfior2KGMULvspHHSqP5IsYxXHiotiWyuRCt2GlJNVtfpIukg/viewform" class="btn btn-primary">Start Week 2 Pre-Class Quiz</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Bring one example
+<span class="screen-reader-only">Note</span>Cultural lens — Black Mirror: <em>Nosedive</em>
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Think of one claim you encountered during the last seven days on social media, a news site, a messaging group, a video platform, or another digital environment that made you think:</p>
+<p>Optional viewing.</p>
+<p>Guiding question:</p>
 <blockquote class="blockquote">
-<p><strong>“Is this actually true?”</strong></p>
+<p><strong>What happens when visibility, scoring, incentives, and behaviour become tightly coupled through a platform?</strong></p>
 </blockquote>
-<p>Bring the URL or a screenshot if you can find it.</p>
 </div>
 </div>
 <hr>
@@ -301,144 +285,140 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="trace-lab" class="level1">
 <h1>TRACE Lab</h1>
-<section id="session-1-from-impression-to-investigation" class="level2">
-<h2 class="anchored" data-anchor-id="session-1-from-impression-to-investigation">Session 1 — From impression to investigation</h2>
-<section id="todays-case-the-claim-arrives-first" class="level3">
-<h3 class="anchored" data-anchor-id="todays-case-the-claim-arrives-first">1. Today’s Case — The claim arrives first</h3>
-<p>At the beginning of class, you will be shown a claim taken from a real digital environment.</p>
-<p><strong>Do not search yet.</strong></p>
-<p>First, record the following individually:</p>
+<section id="session-1-visibility-is-not-neutral" class="level2">
+<h2 class="anchored" data-anchor-id="session-1-visibility-is-not-neutral">Session 1 — Visibility is not neutral</h2>
+<section id="todays-case-same-need-different-information-environment" class="level3">
+<h3 class="anchored" data-anchor-id="todays-case-same-need-different-information-environment">Today’s Case — Same need, different information environment</h3>
+<p>You will receive one information need.</p>
+<p>Before searching, predict:</p>
 <ul>
-<li>Probability that the claim is correct: <strong>0–100</strong></li>
-<li>Initial judgment: <strong>Trust / Doubt / Unsure</strong></li>
-<li>The <strong>single strongest signal</strong> behind that judgment</li>
+<li>what the first three results are likely to look like;</li>
+<li>which sources you expect to dominate;</li>
+<li>whether two systems should show essentially the same information.</li>
 </ul>
+</section>
+<section id="predict" class="level3">
+<h3 class="anchored" data-anchor-id="predict">Predict</h3>
+<p>Record:</p>
+<ul>
+<li>expected overlap between two systems: <strong>0–100%</strong>;</li>
+<li>expected overlap between two differently worded queries: <strong>0–100%</strong>;</li>
+<li>one reason results might differ.</li>
+</ul>
+</section>
+<section id="encounter-ranking-audit" class="level3">
+<h3 class="anchored" data-anchor-id="encounter-ranking-audit">Encounter — Ranking audit</h3>
+<p>Run the same information need using:</p>
+<ul>
+<li><strong>Query A:</strong> neutral/descriptive wording;</li>
+<li><strong>Query B:</strong> meaningfully different framing;</li>
+<li><strong>System 1:</strong> one search environment;</li>
+<li><strong>System 2:</strong> a second search environment available in the lab.</li>
+</ul>
+<p>Capture the <strong>top five results</strong> for each condition.</p>
+</section>
+<section id="probe-what-changed" class="level3">
+<h3 class="anchored" data-anchor-id="probe-what-changed">Probe — What changed?</h3>
+<p>Compare result overlap, source types, ordering, sponsored content, recency, viewpoint diversity, and snippets/headlines.</p>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Warning</span>TRACE rule
+<span class="screen-reader-only">Warning</span>Inference rule
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Record your prediction <strong>before</strong> seeing the evidence. Saying “I already thought that” after the result is known is not evidence of learning.</p>
+<p>Different rankings demonstrate <strong>different visibility conditions</strong>.</p>
+<p>They do <strong>not</strong>, by themselves, prove manipulation, persuasion, or discriminatory intent.</p>
 </div>
 </div>
 </section>
-<section id="predict" class="level3">
-<h3 class="anchored" data-anchor-id="predict">2. Predict</h3>
-<p>Complete this sentence in one minute:</p>
-<blockquote class="blockquote">
-<p>“At this point, I am ___% confident in this claim because …”</p>
-</blockquote>
-<p>Then compare only your <strong>reasoning</strong> with the person next to you. Do not yet argue about who is correct.</p>
 </section>
-<section id="encounter" class="level3">
-<h3 class="anchored" data-anchor-id="encounter">3. Encounter</h3>
-<p>Now inspect the page, post, or artifact containing the claim in full.</p>
-<p>Record:</p>
-<ul>
-<li>Who is making the claim?</li>
-<li>Where was it published?</li>
-<li>Is there a date?</li>
-<li>Is a source cited?</li>
-<li>If there is a link, does it lead to the original source or merely to another report?</li>
-<li>Is the claim specific enough to be tested?</li>
-</ul>
-</section>
-<section id="probe-i-search-differently" class="level3">
-<h3 class="anchored" data-anchor-id="probe-i-search-differently">4. Probe I — Search differently</h3>
-<p>Investigate the same claim using <strong>at least three meaningfully different search strategies</strong>.</p>
-<p><strong>Query A — Exact phrase</strong><br>
-Search a distinctive part of the claim in quotation marks.</p>
-<p><strong>Query B — Source-oriented</strong><br>
-Search for the institution, researcher, report, dataset, or document supposedly behind the claim.</p>
-<p><strong>Query C — Evidence-oriented</strong><br>
-Search for the <strong>data, report, study, primary document, or official record</strong> that could actually test the claim—not merely another page repeating it.</p>
-<p>Do not stop at the first search result.</p>
-</section>
-<section id="skill-studio-source-tracing" class="level3">
-<h3 class="anchored" data-anchor-id="skill-studio-source-tracing">5. Skill Studio — Source tracing</h3>
-<p>Try to reconstruct this chain:</p>
-<blockquote class="blockquote">
-<p><strong>Claim → Publisher → Cited source → Original source → Independent evidence</strong></p>
-</blockquote>
-<p>If a link in the chain cannot be found, record that as a result. “I could not find it” can be an important finding when the missing link should exist.</p>
-</section>
-<section id="probe-ii-leave-the-page" class="level3">
-<h3 class="anchored" data-anchor-id="probe-ii-leave-the-page">6. Probe II — Leave the page</h3>
-<p>Do not evaluate an unfamiliar source only through its own self-description.</p>
-<p>Open new tabs and investigate:</p>
-<ul>
-<li>What do independent sources say about the publisher or author?</li>
-<li>How is the same claim reported elsewhere?</li>
-<li>Is there an earlier or more original version?</li>
-<li>Are apparently different reports actually independent, or are they all repeating the same source?</li>
-</ul>
-</section>
-<section id="explain-what-changed" class="level3">
-<h3 class="anchored" data-anchor-id="explain-what-changed">7. Explain — What changed?</h3>
-<p>Short class discussion:</p>
-<ul>
-<li>What signal influenced your initial trust judgment most strongly?</li>
-<li>Which query produced the most useful result?</li>
-<li>Did many repeated reports actually represent many independent pieces of evidence?</li>
-<li>Did the claim change when you reached the primary or original source?</li>
-</ul>
-<hr>
-</section>
-</section>
-<section id="short-break" class="level2">
-<h2 class="anchored" data-anchor-id="short-break">Short break</h2>
-<hr>
-</section>
-<section id="session-2-from-investigation-to-defensible-judgment" class="level2">
-<h2 class="anchored" data-anchor-id="session-2-from-investigation-to-defensible-judgment">Session 2 — From investigation to defensible judgment</h2>
-<section id="pair-challenge-trace-before-you-trust" class="level3">
-<h3 class="anchored" data-anchor-id="pair-challenge-trace-before-you-trust">8. Pair Challenge — Trace before you trust</h3>
-<p>Work in pairs on a second claim.</p>
-<p>Each pair must produce four outputs:</p>
+<section id="session-2-from-targeting-to-persuasion" class="level2">
+<h2 class="anchored" data-anchor-id="session-2-from-targeting-to-persuasion">Session 2 — From targeting to persuasion</h2>
+<section id="case-ladder-cambridge-analytica" class="level3">
+<h3 class="anchored" data-anchor-id="case-ladder-cambridge-analytica">Case Ladder — Cambridge Analytica</h3>
+<p>For each step classify the evidence as:</p>
+<p><strong>Established / Plausible but incomplete / Requires stronger causal evidence</strong></p>
 <ol type="1">
-<li><strong>One-sentence claim</strong> — What exactly is being claimed?</li>
-<li><strong>Best query</strong> — Which search query was most productive?</li>
-<li><strong>Strongest evidence</strong> — What is the strongest evidence you found?</li>
-<li><strong>Rejected result</strong> — Give one result you deliberately did not use and explain why.</li>
+<li>User data were collected.</li>
+<li>Profiles were constructed.</li>
+<li>Audiences could be targeted.</li>
+<li>Targeted users were exposed to messages.</li>
+<li>Exposure changed attitudes.</li>
+<li>Changed attitudes altered voting behaviour.</li>
 </ol>
-<p>When groups compare results, compare not only the verdicts but also the <strong>search paths</strong> that produced them.</p>
+<p>The objective is not to defend or dismiss Cambridge Analytica. It is to identify <strong>where the evidence burden changes</strong>.</p>
 </section>
-<section id="decide-make-a-defensible-judgment" class="level3">
-<h3 class="anchored" data-anchor-id="decide-make-a-defensible-judgment">9. Decide — Make a defensible judgment</h3>
-<p>Classify the claim using one of the following categories:</p>
-<ul>
-<li><strong>Supported</strong> — Available evidence supports the claim.</li>
-<li><strong>Contradicted</strong> — Credible evidence conflicts with the claim.</li>
-<li><strong>Unsupported</strong> — There is not enough evidence to support the claim.</li>
-<li><strong>Missing context</strong> — Part of the claim may be correct, but missing context materially changes its meaning.</li>
-<li><strong>Unresolved</strong> — The available public evidence does not support a reliable conclusion.</li>
-</ul>
-<p>Defend your judgment in <strong>two sentences</strong>.</p>
-</section>
-<section id="verify-independent-evidence" class="level3">
-<h3 class="anchored" data-anchor-id="verify-independent-evidence">10. Verify — Independent evidence</h3>
-<p>Before closing the case, ask:</p>
+<section id="explain-targeting-capability-is-not-behavioural-effect" class="level3">
+<h3 class="anchored" data-anchor-id="explain-targeting-capability-is-not-behavioural-effect">Explain — Targeting capability is not behavioural effect</h3>
+<p>Discuss:</p>
 <blockquote class="blockquote">
-<p><strong>What evidence independent of the original claimant supports my final judgment?</strong></p>
+<p><strong>If a platform can target people precisely, does that demonstrate that the messages are persuasive?</strong></p>
 </blockquote>
-<p>If you cannot find independent evidence, recalibrate your confidence accordingly.</p>
+<p>Separate <strong>capability evidence</strong> from <strong>effect evidence</strong>.</p>
 </section>
-<section id="recalibrate" class="level3">
-<h3 class="anchored" data-anchor-id="recalibrate">11. Recalibrate</h3>
-<p>Return to your initial confidence score.</p>
-<ul>
-<li>Initial confidence: ___ / 100</li>
-<li>Final confidence: ___ / 100</li>
-<li>Change: ___</li>
-</ul>
-<p>The key question is not simply “Was my first guess correct?”</p>
+<section id="troll-farms-and-computational-propaganda" class="level3">
+<h3 class="anchored" data-anchor-id="troll-farms-and-computational-propaganda">Troll farms and computational propaganda</h3>
+<p>Identify automation, coordination, amplification, imitation of consensus, and potential exposure.</p>
+<p>Then ask:</p>
 <blockquote class="blockquote">
-<p><strong>Did my judgment change as much as the evidence warranted?</strong></p>
+<p><strong>What evidence would we need to claim that this campaign changed attitudes or votes?</strong></p>
+</blockquote>
+</section>
+<section id="evidence-check-exposure-is-not-effect" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-check-exposure-is-not-effect">Evidence check — Exposure is not effect</h3>
+<p>The instructor introduces empirical evidence on exposure to the Russian Internet Research Agency campaign.</p>
+<p>Compare:</p>
+<blockquote class="blockquote">
+<p><strong>large-scale operation</strong><br>
+with<br>
+<strong>measured relationship with attitude or voting change</strong></p>
+</blockquote>
+<p>The methodological lesson is:</p>
+<blockquote class="blockquote">
+<p><strong>An influence attempt can be real even when behavioural effect is uncertain, small, concentrated, or difficult to identify.</strong></p>
+</blockquote>
+</section>
+</section>
+<section id="session-3-when-can-we-say-the-algorithm-influenced-me" class="level2">
+<h2 class="anchored" data-anchor-id="session-3-when-can-we-say-the-algorithm-influenced-me">Session 3 — When can we say “the algorithm influenced me”?</h2>
+<section id="pair-challenge-influence-claim-audit" class="level3">
+<h3 class="anchored" data-anchor-id="pair-challenge-influence-claim-audit">Pair Challenge — Influence Claim Audit</h3>
+<p>Each pair receives one statement such as:</p>
+<ul>
+<li>“The algorithm radicalised users.”</li>
+<li>“This campaign changed the election.”</li>
+<li>“Personalisation trapped users in a bubble.”</li>
+<li>“The recommender made this product go viral.”</li>
+</ul>
+<p>Produce:</p>
+<ol type="1">
+<li>the exact claim;</li>
+<li>evidence for the mechanism;</li>
+<li>evidence for exposure;</li>
+<li>evidence for outcome;</li>
+<li>the strongest inference you can responsibly make.</li>
+</ol>
+</section>
+<section id="decide" class="level3">
+<h3 class="anchored" data-anchor-id="decide">Decide</h3>
+<p>Choose one:</p>
+<ul>
+<li><strong>Mechanism established; effect unknown</strong></li>
+<li><strong>Exposure established; effect unknown</strong></li>
+<li><strong>Effect evidence present but limited</strong></li>
+<li><strong>Claim supported within stated scope</strong></li>
+<li><strong>Claim overstates available evidence</strong></li>
+</ul>
+</section>
+<section id="verify" class="level3">
+<h3 class="anchored" data-anchor-id="verify">Verify</h3>
+<p>Ask:</p>
+<blockquote class="blockquote">
+<p><strong>What evidence independent of the platform, campaign, or claimant supports this judgment?</strong></p>
 </blockquote>
 <hr>
 </section>
@@ -446,143 +426,56 @@ Search for the <strong>data, report, study, primary document, or official record
 </section>
 <section id="after-class" class="level1">
 <h1>After class</h1>
-<section id="task-01-source-trace" class="level2">
-<h2 class="anchored" data-anchor-id="task-01-source-trace">Task 01 — Source Trace</h2>
-<p>This is your individual TRACE evidence task for Week 1.</p>
-<p>Choose one testable digital claim that you <strong>personally encountered during the last seven days</strong>. Your job is not merely to label the claim “true” or “false.” You must show, in a reconstructable way, <strong>how you moved from first impression to a defensible judgment</strong>.</p>
-<section id="minimum-evidence" class="level3">
-<h3 class="anchored" data-anchor-id="minimum-evidence">Minimum evidence</h3>
-<p>Your submission must include:</p>
+<section id="task-02-algorithmic-visibility-audit" class="level2">
+<h2 class="anchored" data-anchor-id="task-02-algorithmic-visibility-audit">Task 02 — Algorithmic Visibility Audit</h2>
+<p>Choose one <strong>non-sensitive information need</strong> relevant to your daily or academic life.</p>
+<p>Run:</p>
+<blockquote class="blockquote">
+<p><strong>2 meaningfully different queries × 2 search/recommendation environments</strong></p>
+</blockquote>
+<p>Submit:</p>
 <ol type="1">
-<li>the original claim and URL or screenshot;</li>
-<li>a one-sentence statement of the claim in your own words;</li>
-<li>your <strong>0–100 initial confidence</strong> before research;</li>
-<li><strong>three meaningfully different search queries</strong>;</li>
-<li>the earliest/original source you could identify, or an explanation of why it could not be identified;</li>
-<li>at least one independent verification source;</li>
-<li>at least one search result you rejected and why;</li>
-<li>a <strong>Supported / Contradicted / Unsupported / Missing context / Unresolved</strong> verdict;</li>
-<li>your <strong>0–100 final confidence</strong>;</li>
-<li>the most important evidence that changed or strengthened your judgment;</li>
-<li>a brief AI-use disclosure, if applicable.</li>
+<li>information need;</li>
+<li>Query A and Query B;</li>
+<li>System 1 and System 2;</li>
+<li>top five results for each condition;</li>
+<li>result overlap;</li>
+<li>source-type differences;</li>
+<li>one explanation for why visibility may have changed;</li>
+<li>one explanation you <strong>cannot</strong> justify from your data;</li>
+<li>a short distinction between <strong>visibility</strong>, <strong>targeting</strong>, and <strong>persuasion</strong>;</li>
+<li>AI-use disclosure if applicable.</li>
 </ol>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>AI rule for Task 01
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>You may use AI, for example to brainstorm alternative search queries or to help plan your investigation.</p>
-<p>However, <strong>LLM output is not evidence</strong>. Your final verdict must rest on inspectable external evidence. If you use AI, disclose what you used it for and what parts of verification and judgment you performed yourself.</p>
-</div>
-</div>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfu0YQrs2WRh87Zmi6ktEPnX_UVnS-7HAPVOrTbGE_zjgccag/viewform" class="btn btn-primary">Submit Task 01 — Source Trace</a></p>
-</section>
-<section id="completion-standard" class="level3">
-<h3 class="anchored" data-anchor-id="completion-standard">Completion standard</h3>
-<p><strong>Complete</strong> — A reconstructable search trail, independent evidence, and a defensible verdict are present.<br>
-<strong>Revise</strong> — A conclusion is present, but the evidence trail is incomplete or the supposed verification is not independent.<br>
-<strong>Missing</strong> — The submission contains only opinion/LLM output or does not show a verifiable process.</p>
-</section>
-</section>
-<section id="concepts-to-keep" class="level2">
-<h2 class="anchored" data-anchor-id="concepts-to-keep">Concepts to keep</h2>
-<ul>
-<li>claim</li>
-<li>source</li>
-<li>evidence</li>
-<li>provenance</li>
-<li>primary source</li>
-<li>independent evidence</li>
-<li>query formulation</li>
-<li>source tracing</li>
-<li>lateral reading</li>
-<li>triangulation</li>
-<li>confidence calibration</li>
-<li>verification</li>
-</ul>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnijRL_rE1D-KjjVFOF0mxDZ2Y3McDWekfpeYjD6pPNn6kZA/viewform" class="btn btn-primary">Submit Task 02 — Algorithmic Visibility Audit</a></p>
 </section>
 <section id="portfolio-evidence-this-week" class="level2">
 <h2 class="anchored" data-anchor-id="portfolio-evidence-this-week">Portfolio evidence this week</h2>
-<ul>
-<li><code>SEEK</code> — Information seeking and query reformulation</li>
-<li><code>TRACE</code> — Reconstructable investigation trail</li>
-<li><code>VERIFY</code> — Independent verification and confidence calibration</li>
-</ul>
+<p><code>SEEK</code> · <code>PROBE</code> · <code>JUDGE</code></p>
 <hr>
 </section>
 </section>
-<section id="next-on-dsa261-week-2" class="level1">
-<h1>Next on DSA261 — Week 2</h1>
-<section id="who-decides-what-you-see" class="level2">
-<h2 class="anchored" data-anchor-id="who-decides-what-you-see">Who decides what you see?</h2>
-<p>Next week we move from <strong>whether a claim is trustworthy</strong> to a different problem:</p>
-<blockquote class="blockquote">
-<p><strong>While you think you are choosing information, what might algorithms be making visible—or invisible—for you?</strong></p>
-</blockquote>
-<p>Week 2 focuses on search ranking, social-media feeds, recommendation systems, microtargeting, and computational propaganda.</p>
-<p>The following preparation is <strong>required for the Week 2 Pre-Class Quiz</strong>.</p>
-<section id="required-watch-filter-bubbles" class="level3">
-<h3 class="anchored" data-anchor-id="required-watch-filter-bubbles">REQUIRED WATCH — Filter bubbles</h3>
-<p><strong>Eli Pariser — “Beware online filter bubbles”</strong><br>
-TED — approximately 8:47.</p>
-<p><a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles" class="btn btn-outline-primary">Watch the talk</a></p>
-<p>While watching, take notes on:</p>
-<ol type="1">
-<li>When can filtering be useful?</li>
-<li>When can the same mechanism become a problem?</li>
-<li>Where would you draw the boundary between <strong>personalisation</strong> and <strong>manipulation</strong>?</li>
-</ol>
+<section id="next-on-dsa261-week-3" class="level1">
+<h1>Next on DSA261 — Week 3</h1>
+<section id="what-is-ai-and-what-is-being-sold-as-ai" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-ai-and-what-is-being-sold-as-ai">What is AI — and what is being sold as AI?</h2>
+<section id="required-read-ai-snake-oil" class="level3">
+<h3 class="anchored" data-anchor-id="required-read-ai-snake-oil">REQUIRED READ — AI Snake Oil</h3>
+<p><strong>Arvind Narayanan &amp; Sayash Kapoor — AI Snake Oil: “FAQ about the book and our writing process”</strong></p>
+<p><a href="https://www.aisnakeoil.com/p/faq-about-the-book-and-our-writing" class="btn btn-outline-primary">Read the AI Snake Oil FAQ</a></p>
+<p>Focus on AI as an umbrella term, the distinction between types of AI, predictive AI, and why usefulness in one domain does not validate claims in another.</p>
 </section>
-<section id="required-read-cambridge-analytica-as-a-data-and-targeting-case" class="level3">
-<h3 class="anchored" data-anchor-id="required-read-cambridge-analytica-as-a-data-and-targeting-case">REQUIRED READ — Cambridge Analytica as a data and targeting case</h3>
-<p><strong>UK Information Commissioner’s Office — Cambridge Analytica raids</strong></p>
-<p><a href="https://ico.org.uk/for-the-public/ico-40/cambridge-analytica-raids/" class="btn btn-outline-primary">Read the ICO overview</a></p>
-<p>As you read, reconstruct this chain:</p>
-<blockquote class="blockquote">
-<p><strong>Data collection → profiling → targeting → claimed influence</strong></p>
-</blockquote>
-<p>Do not assume that evidence of <strong>targeting capability</strong> automatically proves a large <strong>behavioural effect</strong>. We will examine that distinction in class.</p>
+<section id="required-explore-one-ai-claim-in-the-wild" class="level3">
+<h3 class="anchored" data-anchor-id="required-explore-one-ai-claim-in-the-wild">REQUIRED EXPLORE — One AI claim in the wild</h3>
+<p>Find one product, advertisement, news headline, university service, financial service, recruitment tool, or public-sector system that uses the term <strong>AI</strong>.</p>
+<p>Bring the claim, the URL or screenshot, and one sentence describing what you think the system actually does.</p>
 </section>
-<section id="required-explore-computational-propaganda" class="level3">
-<h3 class="anchored" data-anchor-id="required-explore-computational-propaganda">REQUIRED EXPLORE — Computational propaganda</h3>
-<p><strong>Oxford Internet Institute — Computational Propaganda</strong></p>
-<p><a href="https://www.oii.ox.ac.uk/research/projects/computational-propaganda/" class="btn btn-outline-primary">Explore the project</a></p>
-<p>Be ready to explain, in your own words:</p>
-<ul>
-<li>what computational propaganda is;</li>
-<li>how automation, algorithms, and social platforms can work together;</li>
-<li>why organised influence activity is not the same as proof that every exposed user was persuaded.</li>
-</ul>
-</section>
-<section id="cultural-lens-black-mirror-nosedive" class="level3">
-<h3 class="anchored" data-anchor-id="cultural-lens-black-mirror-nosedive">CULTURAL LENS — Black Mirror: <em>Nosedive</em></h3>
-<p>If you have legitimate access to <em>Black Mirror</em>, watching <strong>“Nosedive”</strong> before Week 2 is recommended but <strong>not required for the quiz</strong>.</p>
-<p>We will use its thought experiment in class:</p>
+<section id="cultural-lens-black-mirror-be-right-back" class="level3">
+<h3 class="anchored" data-anchor-id="cultural-lens-black-mirror-be-right-back">CULTURAL LENS — Black Mirror: <em>Be Right Back</em></h3>
+<p>Optional.</p>
 <blockquote class="blockquote">
-<p><strong>What happens when scoring, visibility, social incentives, and behaviour become tightly coupled through a platform?</strong></p>
+<p><strong>If a system can imitate a person’s language from digital traces, what does it mean to say that it “knows” that person?</strong></p>
 </blockquote>
-</section>
-<section id="bring-to-week-2" class="level3">
-<h3 class="anchored" data-anchor-id="bring-to-week-2">Bring to Week 2</h3>
-<p>Choose one digital service you use regularly:</p>
-<ul>
-<li>search engine;</li>
-<li>social-media feed;</li>
-<li>video platform;</li>
-<li>music platform;</li>
-<li>shopping platform;</li>
-<li>news application.</li>
-</ul>
-<p>Come prepared to answer:</p>
-<blockquote class="blockquote">
-<p><strong>What does this system probably know about you, and what does it decide to show you?</strong></p>
-</blockquote>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfior2KGMULvspHHSqP5IsYxXHiotiWyuRCt2GlJNVtfpIukg/viewform" class="btn btn-primary">Open Week 2 Pre-Class Quiz</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkc_3G9JrBCl0QkOIeRzFqX9B9K1o8cwUYZm1zQQ701zdS7w/viewform" class="btn btn-primary">Open Week 3 Pre-Class Quiz</a></p>
 
 
 </section>

@@ -2,8 +2,30 @@ forms:
   week01:
     quiz: "https://docs.google.com/forms/d/e/1FAIpQLSd_ghgKuqbOPXc63i8ZScNczl6nByxO1Eiwkc83gALH7rbk-A/viewform"
     task: "https://docs.google.com/forms/d/e/1FAIpQLSfu0YQrs2WRh87Zmi6ktEPnX_UVnS-7HAPVOrTbGE_zjgccag/viewform"
+
   week02:
-    quiz: "https://docs.google.com/forms/d/e/REPLACE_WITH_W02_QUIZ/viewform"
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSfior2KGMULvspHHSqP5IsYxXHiotiWyuRCt2GlJNVtfpIukg/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSfnijRL_rE1D-KjjVFOF0mxDZ2Y3McDWekfpeYjD6pPNn6kZA/viewform"
+
+  week03:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSfkc_3G9JrBCl0QkOIeRzFqX9B9K1o8cwUYZm1zQQ701zdS7w/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSc9YUJwhI17TpO_N77DeR457618sUyGGCcFlumhcwKEUQLr9Q/viewform"
+
+  week04:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSf-awOsiwXA2Bvul4WYswRkXicwVQLE7f9RixQgezq-8MrNTA/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLScVwmVs_vqJfOyLg8qTewe53L05HaXdxOdQMw7JQ1ZfmfTwDQ/viewform"
+
+  week05:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSerNDajZo7LlKG8RtBA5H7-KvKRlsUN-X3xR4pzjENcske96w/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSdbwzcvHeErHqbYFKrkFZbe12CPXppWkILRW2nlLrMIp1xQ8A/viewform"
+
+  week06:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSen1q43s5M43sEPm3mVj--tNf6mL_L7A_He_QeHWRLms5LUdg/viewform"
+    task: "https://docs.google.com/forms/d/e/1FAIpQLSci_f1UmQ5rM9jQrBoYz1e6z_ckipIROCaqs9Hj12lZASOnng/viewform"
+
+  week07:
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSda1FWVK6e8jUYiP0NKAEUdtqmWZCFPG1cD1RT00pdF97sJ7g/viewform"
+    midterm: "https://docs.google.com/forms/d/e/1FAIpQLSdaBTY4sP8qQaDjM-Crld5HQErNTmHl8z0mkUnXZC0kSZXGOA/viewform"
 
 urls:
   teyit_methodology: "https://teyit.org/metodoloji"
@@ -11,3 +33,14 @@ urls:
   ted_filter_bubbles: "https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles"
   ico_cambridge_analytica: "https://ico.org.uk/for-the-public/ico-40/cambridge-analytica-raids/"
   oii_computational_propaganda: "https://www.oii.ox.ac.uk/research/projects/computational-propaganda/"
+  ira_exposure_study: "https://www.nature.com/articles/s41467-022-35576-9"
+  ai_snake_oil_faq: "https://www.aisnakeoil.com/p/faq-about-the-book-and-our-writing"
+  illustrated_transformer: "https://jalammar.github.io/illustrated-transformer/"
+  illustrated_gpt2: "https://jalammar.github.io/illustrated-gpt2/"
+  metr_time_horizon_blog: "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/"
+  metr_time_horizons: "https://metr.org/time-horizons/"
+  propublica_machine_bias: "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+  propublica_compas_response: "https://www.propublica.org/article/propublica-responds-to-companys-critique-of-machine-bias-story"
+  openai_prompting: "https://help.openai.com/en/articles/10032626"
+  google_prompting: "https://ai.google.dev/gemini-api/docs/prompting-strategies"
+  anthropic_prompting: "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables"

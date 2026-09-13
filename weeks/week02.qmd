@@ -1,0 +1,258 @@
+---
+title: "Week 2 — Who Decides What You See?"
+subtitle: "Ranking, recommendation, targeting, computational propaganda, and the difference between exposure and effect"
+week: 2
+phase: "Know, Search, Question"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO1", "CLO2"]
+evidence: [SEEK, PROBE, JUDGE]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**When you think you are choosing information, what might algorithms already have chosen for you?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. distinguish **ranking**, **recommendation**, **personalisation**, and **targeting**;
+2. explain why being shown content does not by itself prove that the content changed someone's behaviour;
+3. identify how query wording and platform design can alter the information environment;
+4. distinguish evidence of **data collection**, **profiling**, **targeting**, **exposure**, and **persuasion**;
+5. conduct a small visibility audit without overclaiming that differences prove manipulation;
+6. explain why algorithmic influence claims require both mechanism evidence and outcome evidence.
+
+## Before class
+
+This preparation was assigned at the end of Week 1 and **must be completed before class**.
+
+### REQUIRED WATCH — Filter bubbles
+
+**Eli Pariser — “Beware online filter bubbles”**
+
+[Watch the talk]({{< var urls.ted_filter_bubbles >}}){.btn .btn-outline-primary}
+
+Focus on personalisation, invisible filtering, and the difference between information being available and information becoming visible.
+
+### REQUIRED READ — Cambridge Analytica
+
+**UK Information Commissioner's Office — Cambridge Analytica raids**
+
+[Read the ICO overview]({{< var urls.ico_cambridge_analytica >}}){.btn .btn-outline-primary}
+
+Reconstruct:
+
+> **Data collection → Profiling → Targeting → Exposure → Claimed influence**
+
+### REQUIRED EXPLORE — Computational propaganda
+
+**Oxford Internet Institute — Computational Propaganda**
+
+[Explore the project]({{< var urls.oii_computational_propaganda >}}){.btn .btn-outline-primary}
+
+Be ready to explain how bots, fake accounts, trolls, automation, and platform dynamics can work together.
+
+### Complete the pre-class quiz
+
+[Start Week 2 Pre-Class Quiz]({{< var forms.week02.quiz >}}){.btn .btn-primary}
+
+::: {.callout-note}
+## Cultural lens — Black Mirror: *Nosedive*
+
+Optional viewing.
+
+Guiding question:
+
+> **What happens when visibility, scoring, incentives, and behaviour become tightly coupled through a platform?**
+:::
+
+---
+
+# TRACE Lab
+
+## Session 1 — Visibility is not neutral
+
+### Today's Case — Same need, different information environment
+
+You will receive one information need.
+
+Before searching, predict:
+
+- what the first three results are likely to look like;
+- which sources you expect to dominate;
+- whether two systems should show essentially the same information.
+
+### Predict
+
+Record:
+
+- expected overlap between two systems: **0–100%**;
+- expected overlap between two differently worded queries: **0–100%**;
+- one reason results might differ.
+
+### Encounter — Ranking audit
+
+Run the same information need using:
+
+- **Query A:** neutral/descriptive wording;
+- **Query B:** meaningfully different framing;
+- **System 1:** one search environment;
+- **System 2:** a second search environment available in the lab.
+
+Capture the **top five results** for each condition.
+
+### Probe — What changed?
+
+Compare result overlap, source types, ordering, sponsored content, recency, viewpoint diversity, and snippets/headlines.
+
+::: {.callout-warning}
+## Inference rule
+
+Different rankings demonstrate **different visibility conditions**.
+
+They do **not**, by themselves, prove manipulation, persuasion, or discriminatory intent.
+:::
+
+## Session 2 — From targeting to persuasion
+
+### Case Ladder — Cambridge Analytica
+
+For each step classify the evidence as:
+
+**Established / Plausible but incomplete / Requires stronger causal evidence**
+
+1. User data were collected.
+2. Profiles were constructed.
+3. Audiences could be targeted.
+4. Targeted users were exposed to messages.
+5. Exposure changed attitudes.
+6. Changed attitudes altered voting behaviour.
+
+The objective is not to defend or dismiss Cambridge Analytica. It is to identify **where the evidence burden changes**.
+
+### Explain — Targeting capability is not behavioural effect
+
+Discuss:
+
+> **If a platform can target people precisely, does that demonstrate that the messages are persuasive?**
+
+Separate **capability evidence** from **effect evidence**.
+
+### Troll farms and computational propaganda
+
+Identify automation, coordination, amplification, imitation of consensus, and potential exposure.
+
+Then ask:
+
+> **What evidence would we need to claim that this campaign changed attitudes or votes?**
+
+### Evidence check — Exposure is not effect
+
+The instructor introduces empirical evidence on exposure to the Russian Internet Research Agency campaign.
+
+Compare:
+
+> **large-scale operation**  
+> with  
+> **measured relationship with attitude or voting change**
+
+The methodological lesson is:
+
+> **An influence attempt can be real even when behavioural effect is uncertain, small, concentrated, or difficult to identify.**
+
+## Session 3 — When can we say "the algorithm influenced me"?
+
+### Pair Challenge — Influence Claim Audit
+
+Each pair receives one statement such as:
+
+- “The algorithm radicalised users.”
+- “This campaign changed the election.”
+- “Personalisation trapped users in a bubble.”
+- “The recommender made this product go viral.”
+
+Produce:
+
+1. the exact claim;
+2. evidence for the mechanism;
+3. evidence for exposure;
+4. evidence for outcome;
+5. the strongest inference you can responsibly make.
+
+### Decide
+
+Choose one:
+
+- **Mechanism established; effect unknown**
+- **Exposure established; effect unknown**
+- **Effect evidence present but limited**
+- **Claim supported within stated scope**
+- **Claim overstates available evidence**
+
+### Verify
+
+Ask:
+
+> **What evidence independent of the platform, campaign, or claimant supports this judgment?**
+
+---
+
+# After class
+
+## Task 02 — Algorithmic Visibility Audit
+
+Choose one **non-sensitive information need** relevant to your daily or academic life.
+
+Run:
+
+> **2 meaningfully different queries × 2 search/recommendation environments**
+
+Submit:
+
+1. information need;
+2. Query A and Query B;
+3. System 1 and System 2;
+4. top five results for each condition;
+5. result overlap;
+6. source-type differences;
+7. one explanation for why visibility may have changed;
+8. one explanation you **cannot** justify from your data;
+9. a short distinction between **visibility**, **targeting**, and **persuasion**;
+10. AI-use disclosure if applicable.
+
+[Submit Task 02 — Algorithmic Visibility Audit]({{< var forms.week02.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`SEEK` · `PROBE` · `JUDGE`
+
+---
+
+# Next on DSA261 — Week 3
+
+## What is AI — and what is being sold as AI?
+
+### REQUIRED READ — AI Snake Oil
+
+**Arvind Narayanan & Sayash Kapoor — AI Snake Oil: “FAQ about the book and our writing process”**
+
+[Read the AI Snake Oil FAQ]({{< var urls.ai_snake_oil_faq >}}){.btn .btn-outline-primary}
+
+Focus on AI as an umbrella term, the distinction between types of AI, predictive AI, and why usefulness in one domain does not validate claims in another.
+
+### REQUIRED EXPLORE — One AI claim in the wild
+
+Find one product, advertisement, news headline, university service, financial service, recruitment tool, or public-sector system that uses the term **AI**.
+
+Bring the claim, the URL or screenshot, and one sentence describing what you think the system actually does.
+
+### CULTURAL LENS — Black Mirror: *Be Right Back*
+
+Optional.
+
+> **If a system can imitate a person's language from digital traces, what does it mean to say that it “knows” that person?**
+
+[Open Week 3 Pre-Class Quiz]({{< var forms.week03.quiz >}}){.btn .btn-primary}

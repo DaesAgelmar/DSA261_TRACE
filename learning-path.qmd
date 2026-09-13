@@ -8,21 +8,19 @@ DSA261 is organised as a progression rather than a list of disconnected AI topic
 
 ### Phase I — Know, Search, Question
 
-**Weeks 1–3**
-
-- source evaluation and information seeking;
-- ranking, recommendation, filter bubbles, and computational propaganda;
-- what is and is not AI.
+- [Week 1 — How Do You Know?](weeks/week01.qmd)
+- [Week 2 — Who Decides What You See?](weeks/week02.qmd)
+- [Week 3 — Is This AI?](weeks/week03.qmd)
 
 ### Phase II — Understand and Stress-Test AI
 
-**Weeks 4–6**
-
-- how LLMs work conceptually;
-- capability boundaries and skill boosting;
-- algorithmic decision-making, bias, and fairness.
+- [Week 4 — What Does an LLM Actually Do?](weeks/week04.qmd)
+- [Week 5 — Can AI Make You Better?](weeks/week05.qmd)
+- [Week 6 — When Algorithms Decide About People](weeks/week06.qmd)
 
 ### Week 7 — TRACE Midterm Challenge
+
+[Open the Week 7 TRACE Midterm Challenge](weeks/week07.qmd)
 
 No conventional written exam. Students conduct an original evidence-based investigation integrating W1–W6 skills.
 

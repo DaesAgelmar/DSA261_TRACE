@@ -1,0 +1,42 @@
+---
+title: "Weekly TRACE Labs"
+---
+
+Every ordinary teaching week follows:
+
+> **Prepare → Quiz → TRACE Lab → Task → Next on DSA261**
+
+## Phase I — Know, Search, Question
+
+### [Week 1 — How Do You Know?](weeks/week01.qmd)
+Information seeking, source tracing, and verification.
+
+### [Week 2 — Who Decides What You See?](weeks/week02.qmd)
+Ranking, recommendation, targeting, and computational propaganda.
+
+### [Week 3 — Is This AI?](weeks/week03.qmd)
+Automation, predictive AI, generative AI, and claim auditing.
+
+## Phase II — Understand and Stress-Test AI
+
+### [Week 4 — What Does an LLM Actually Do?](weeks/week04.qmd)
+Prediction, tokens, attention, context, and model variability.
+
+### [Week 5 — Can AI Make You Better?](weeks/week05.qmd)
+Capability boundaries, benchmarks, skill boosting, and verification cost.
+
+### [Week 6 — When Algorithms Decide About People](weeks/week06.qmd)
+Risk scores, bias, fairness, and counterfactual probing.
+
+## Midterm
+
+### [Week 7 — TRACE Midterm Challenge](weeks/week07.qmd)
+An original evidence-based investigation integrating Weeks 1–6.
+
+## Phase III — Use, Control, Verify
+
+Weeks 8–11 will add prompt design, context management, hallucination verification, and academic integrity.
+
+## Phase IV — Govern and Transfer
+
+Weeks 12–14 will add context-specific guidelines, professional accountability, and final-project transfer.

@@ -1,0 +1,201 @@
+---
+title: "Week 5 — Can AI Make You Better?"
+subtitle: "Capability boundaries, benchmark interpretation, skill boosting, and verification cost"
+week: 5
+phase: "Understand and Stress-Test AI"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO2", "CLO3", "CLO4"]
+evidence: [PROMPT, PROBE, VERIFY, TRANSFER]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**Does access to a more capable model automatically make the user more capable?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. distinguish a model benchmark from a general claim about “AI capability”;
+2. explain the METR time-horizon construct and its scope;
+3. identify when extrapolation goes beyond benchmark evidence;
+4. compare unaided, naive-AI, structured-AI, and verified-AI task performance;
+5. recognise **verification cost** as part of AI-assisted work;
+6. explain why AI access and effective AI use are not the same capability.
+
+## Before class
+
+### REQUIRED READ — METR
+
+[Read the METR overview]({{< var urls.metr_time_horizon_blog >}}){.btn .btn-outline-primary}
+
+[Inspect the current measurements]({{< var urls.metr_time_horizons >}}){.btn .btn-outline-primary}
+
+::: {.callout-warning}
+## Scope warning
+
+METR's time-horizon work measures performance on a suite of **software tasks** in terms of the human-expert time associated with those tasks.
+
+It is not a direct measure of “how long AI can do any human job.”
+:::
+
+### Complete the pre-class quiz
+
+[Start Week 5 Pre-Class Quiz]({{< var forms.week05.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — Read a capability claim like a measurement scientist
+
+### Today's Case — “AI task horizon doubles every ~7 months”
+
+Before opening the methodology, record:
+
+- what you think the sentence means;
+- what population of tasks you think it refers to;
+- what evidence would be needed to generalise it to your field.
+
+### Encounter — The metric
+
+Work through:
+
+> **Human expert task duration → AI success probability → estimated time horizon**
+
+### Probe — Construct validity
+
+Identify:
+
+- task domain;
+- task selection;
+- success criterion;
+- model/tool setup;
+- 50% reliability threshold;
+- extrapolation.
+
+Then answer:
+
+> **Which headline is justified by the measurement, and which would overstate it?**
+
+### Explain
+
+Separate:
+
+**benchmark capability**  
+from  
+**real-world usefulness**  
+from  
+**professional replacement**
+
+## Session 2 — Skill Boost Experiment
+
+### Four conditions
+
+| Round | Condition |
+|---|---|
+| A | Human only |
+| B | Naive AI use |
+| C | Structured AI use |
+| D | Structured + independently verified AI use |
+
+Track completion time, completeness, factual accuracy, source quality, usefulness, and verification effort.
+
+::: {.callout-note}
+## Experimental caution
+
+This classroom activity is a learning diagnostic, not a clean causal experiment.
+
+Practice effects, task differences, prior expertise, and model variation can influence results.
+:::
+
+### Probe — Where did the gain come from?
+
+Was improvement caused by faster drafting, idea generation, restructuring, domain knowledge, better search terms, or reduced cognitive load?
+
+Or did AI add checking cost, false confidence, fabricated details, or extra editing?
+
+## Session 3 — Augmentation is a joint system
+
+### Pair Challenge — Same model, different user strategy
+
+Pairs receive the same model and same task.
+
+- Student A uses a minimal prompt.
+- Student B uses task decomposition, context, constraints, and explicit verification requirements.
+
+Compare outputs.
+
+### Explain
+
+Develop:
+
+> **AI access ≠ AI capability**
+
+A more useful unit of analysis is often:
+
+> **User + task + model + prompt/context + verification process**
+
+### Decide
+
+Choose:
+
+- AI adds clear value;
+- AI adds value only with verification;
+- AI adds speed but reduces reliability;
+- AI creates more work than it saves;
+- evidence is insufficient.
+
+---
+
+# After class
+
+## Task 05 — Personal Skill Boost Test
+
+Choose one authentic, low-risk task from your discipline.
+
+Submit:
+
+1. task definition;
+2. baseline/human approach;
+3. naive-AI approach;
+4. structured-AI approach;
+5. verified-AI approach;
+6. time or effort estimate for each condition;
+7. quality criteria;
+8. one error or limitation introduced by AI;
+9. verification cost;
+10. final judgment: **where did AI genuinely boost your capability?**
+11. AI-use disclosure.
+
+[Submit Task 05 — Personal Skill Boost Test]({{< var forms.week05.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`PROMPT` · `PROBE` · `VERIFY` · `TRANSFER`
+
+---
+
+# Next on DSA261 — Week 6
+
+## When algorithms decide about people
+
+### REQUIRED READ — Machine Bias
+
+**ProPublica — Machine Bias**
+
+[Read Machine Bias]({{< var urls.propublica_machine_bias >}}){.btn .btn-outline-primary}
+
+Focus on what COMPAS was designed to predict, what outcome ProPublica used, false positives, false negatives, and why groups can experience different error patterns.
+
+### REQUIRED SHORT READ — The dispute
+
+[Read ProPublica's response to Northpointe]({{< var urls.propublica_compas_response >}}){.btn .btn-outline-primary}
+
+Come prepared for:
+
+> **Can the same model appear “fair” under one metric and “unfair” under another?**
+
+[Open Week 6 Pre-Class Quiz]({{< var forms.week06.quiz >}}){.btn .btn-primary}

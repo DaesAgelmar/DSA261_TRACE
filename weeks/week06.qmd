@@ -1,0 +1,230 @@
+---
+title: "Week 6 — When Algorithms Decide About People"
+subtitle: "Risk scores, bias, fairness metrics, counterfactual probing, and accountability"
+week: 6
+phase: "Understand and Stress-Test AI"
+trace_focus: [Predict, Encounter, Probe, Explain, Decide, Verify]
+clo: ["CLO1", "CLO2", "CLO4"]
+evidence: [PROBE, JUDGE, VERIFY]
+---
+
+::: {.callout-tip}
+## This week's central question
+
+**If an algorithm performs differently across groups, what would make that difference fair or unfair?**
+:::
+
+## Learning goals
+
+By the end of this week, you should be able to:
+
+1. distinguish false positives and false negatives;
+2. explain why “overall accuracy” can hide asymmetric errors;
+3. explain why fairness is not one universal statistic;
+4. describe how base rates can create tension between fairness metrics;
+5. use controlled counterfactual changes to probe a decision system;
+6. distinguish a legitimate decision criterion from a questionable proxy;
+7. identify who bears responsibility for using an algorithmic score.
+
+## Before class
+
+### REQUIRED READ — ProPublica: Machine Bias
+
+[Read Machine Bias]({{< var urls.propublica_machine_bias >}}){.btn .btn-outline-primary}
+
+### REQUIRED SHORT READ — ProPublica responds to Northpointe
+
+[Read the response]({{< var urls.propublica_compas_response >}}){.btn .btn-outline-primary}
+
+### Complete the pre-class quiz
+
+[Start Week 6 Pre-Class Quiz]({{< var forms.week06.quiz >}}){.btn .btn-primary}
+
+---
+
+# TRACE Lab
+
+## Session 1 — Same accuracy, different errors
+
+### Today's Case — COMPAS
+
+ProPublica examined risk scores assigned to defendants in Broward County, Florida and compared the scores with later arrests.
+
+The central problem was not simply:
+
+> “the system makes errors”
+
+but:
+
+> **the errors were distributed differently across groups.**
+
+### Predict
+
+Before seeing the table, answer:
+
+> If two groups have approximately similar overall accuracy, must the system be equally fair to both groups?
+
+**Yes / No / Unsure**
+
+Explain why.
+
+### Encounter — Error patterns
+
+Using the instructor-provided simplified table, identify:
+
+- true positive;
+- false positive;
+- true negative;
+- false negative.
+
+Then compare group-specific error rates.
+
+### Probe — Change the fairness definition
+
+Evaluate the same system from several perspectives:
+
+**Predictive performance**  
+Does a high score mean something similar across groups?
+
+**False-positive parity**  
+Are non-events incorrectly flagged at similar rates?
+
+**False-negative parity**  
+Are events incorrectly missed at similar rates?
+
+**Overall accuracy**  
+Is total correct classification similar?
+
+### Explain — Fairness is a choice of criterion
+
+The class confronts:
+
+> **A model can satisfy one fairness criterion while violating another.**
+
+The question therefore becomes partly normative:
+
+> **Which error matters in this decision context, to whom, and why?**
+
+## Session 2 — Counterfactual probing
+
+### Synthetic decision case
+
+You will receive a fictional hiring, lending, scholarship, or public-service profile.
+
+The system makes a recommendation.
+
+Change **one attribute at a time**.
+
+Possible variables:
+
+- years of experience;
+- employment gap;
+- postcode;
+- institution;
+- income history;
+- age;
+- another instructor-approved feature.
+
+### Probe
+
+For each changed variable ask:
+
+- Is this feature directly relevant?
+- Is it a plausible proxy for something else?
+- Would using this feature require justification?
+- Does one changed output prove systematic discrimination?
+
+### Inference rule
+
+A counterfactual probe can reveal **sensitivity**.
+
+One example does not establish population-level discrimination.
+
+## Session 3 — Who owns the decision?
+
+### Pair Challenge — Decision responsibility map
+
+Choose one context:
+
+- hiring;
+- lending;
+- scholarship;
+- content moderation;
+- insurance;
+- public administration.
+
+Map:
+
+> **Data → Model → Score → Human interpretation → Decision → Consequence**
+
+For each stage identify possible bias, verification opportunity, and responsible actor.
+
+### Decide
+
+Would you:
+
+- use the system as-is;
+- use it only as decision support;
+- require an audit;
+- remove a feature;
+- reject the system for this use?
+
+Defend the decision.
+
+### Verify
+
+What independent evidence would you need before approving this system for real-world use?
+
+---
+
+# After class
+
+## Task 06 — Counterfactual Fairness Probe
+
+Use an instructor-approved **synthetic** decision scenario.
+
+Do not submit sensitive personal data.
+
+Submit:
+
+1. original synthetic case;
+2. original decision/output;
+3. three one-variable-at-a-time counterfactual changes;
+4. resulting decisions;
+5. one variable you regard as substantively legitimate;
+6. one variable that could operate as a proxy;
+7. what your small test can establish;
+8. what it cannot establish;
+9. the fairness criterion you consider most important for this context and why;
+10. AI-use disclosure.
+
+### Week 7 case seed
+
+At the end of Task 06, register **one candidate digital artifact or decision problem** that you may investigate in the Week 7 TRACE Midterm Challenge.
+
+The case seed is not graded for quality. It exists to establish provenance before the challenge begins.
+
+[Submit Task 06 — Counterfactual Fairness Probe]({{< var forms.week06.task >}}){.btn .btn-primary}
+
+## Portfolio evidence this week
+
+`PROBE` · `JUDGE` · `VERIFY`
+
+---
+
+# Next on DSA261 — Week 7
+
+## TRACE Midterm Challenge
+
+Week 7 is **not a conventional written exam**.
+
+Before class:
+
+1. make sure your Week 6 case seed is submitted;
+2. review your W1–W6 Tasks;
+3. bring access to your evidence links/screenshots;
+4. complete the readiness quiz.
+
+No new reading is assigned.
+
+[Open Week 7 Readiness Quiz]({{< var forms.week07.quiz >}}){.btn .btn-primary}
