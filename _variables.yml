@@ -20,9 +20,8 @@ forms:
     task: "https://docs.google.com/forms/d/e/1FAIpQLSdbwzcvHeErHqbYFKrkFZbe12CPXppWkILRW2nlLrMIp1xQ8A/viewform"
 
   week06:
-    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSen1q43s5M43sEPm3mVj--tNf6mL_L7A_He_QeHWRLms5LUdg/viewform"
+    quiz: "https://docs.google.com/forms/d/e/1FAIpQLSen1q43s5M43sEPm3mVj%2D%2DtNf6mL_L7A_He_QeHWRLms5LUdg/viewform"
     task: "https://docs.google.com/forms/d/e/1FAIpQLSci_f1UmQ5rM9jQrBoYz1e6z_ckipIROCaqs9Hj12lZASOnng/viewform"
-
   week07:
     quiz: "https://docs.google.com/forms/d/e/1FAIpQLSda1FWVK6e8jUYiP0NKAEUdtqmWZCFPG1cD1RT00pdF97sJ7g/viewform"
     midterm: "https://docs.google.com/forms/d/e/1FAIpQLSdaBTY4sP8qQaDjM-Crld5HQErNTmHl8z0mkUnXZC0kSZXGOA/viewform"
